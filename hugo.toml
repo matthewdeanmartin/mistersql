@@ -1,0 +1,4 @@
+baseURL = 'https://matthewdeanmartin.github.io/mistersql/'
+locale = 'en-us'
+title = 'Mistersql'
+theme = 'ananke'
