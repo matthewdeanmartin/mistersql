@@ -1,0 +1,104 @@
+{{/*
+  webmentions.html — likes, reposts and replies collected for this page.
+
+  Data comes from data/webmentions/<slug>.json, written by
+  scripts/pull_webmentions.py on a schedule. The slug is derived here from
+  .RelPermalink using the *same* rule the script applies to the mention's
+  absolute target URL; the two must stay in lockstep or the lookup silently
+  misses. See slug_for_target() in that script.
+
+  Renders nothing at all when there are no mentions — a post nobody has
+  mentioned looks exactly as it did before this feature existed. No "0 likes".
+*/}}
+
+{{/*
+  Note the explicit argument order rather than pipes: Hugo's strings.Trim takes
+  (string, cutset) and strings.ReplaceRE takes (pattern, replacement, string),
+  so piping into them puts the argument in the wrong slot. Written as pipes
+  this silently produced "-" for every page and every lookup missed — no error,
+  just nothing rendered.
+*/}}
+{{- $path := strings.Trim .RelPermalink "/" -}}
+{{- $slug := strings.ToLower (strings.Trim (strings.ReplaceRE `[^a-zA-Z0-9]+` "-" $path) "-") -}}
+{{- if not $slug }}{{ $slug = "index" }}{{ end -}}
+
+{{- with index hugo.Data.webmentions $slug -}}
+  {{- $likes := where . "wm-property" "like-of" -}}
+  {{- $reposts := where . "wm-property" "repost-of" -}}
+  {{- $replies := where . "wm-property" "in-reply-to" -}}
+  {{- $mentions := where . "wm-property" "mention-of" -}}
+
+  <section class="webmentions mw7 center ph3 mt4 pt4 bt b--black-10">
+    {{- if or $likes $reposts }}
+      <div class="webmention-facepiles">
+        {{- with $likes }}
+          <div class="webmention-facepile mb3">
+            <h3 class="f6 ttu tracked mb2">
+              {{ len . }} like{{ if ne (len .) 1 }}s{{ end }}
+            </h3>
+            {{- range . }}
+              {{- partial "webmention-face.html" . -}}
+            {{- end }}
+          </div>
+        {{- end }}
+        {{- with $reposts }}
+          <div class="webmention-facepile mb3">
+            <h3 class="f6 ttu tracked mb2">
+              {{ len . }} repost{{ if ne (len .) 1 }}s{{ end }}
+            </h3>
+            {{- range . }}
+              {{- partial "webmention-face.html" . -}}
+            {{- end }}
+          </div>
+        {{- end }}
+      </div>
+    {{- end }}
+
+    {{- with $replies }}
+      <div class="webmention-replies mb3">
+        <h3 class="f6 ttu tracked mb2">
+          {{ len . }} repl{{ if eq (len .) 1 }}y{{ else }}ies{{ end }}
+        </h3>
+        {{- range . }}
+          {{/* Bind the name before `with`, which rebinds the dot — and `$` is
+               the *page* here, not the mention, so it cannot be used to reach
+               back out of the range. */}}
+          {{- $name := .author.name | compare.Default "Someone" -}}
+          <article class="webmention-reply mb3 pb3 bb b--black-05">
+            <p class="f6 mb1">
+              {{- with .author.url -}}
+                <a href="{{ . }}" rel="nofollow ugc">{{ $name }}</a>
+              {{- else -}}
+                {{ $name }}
+              {{- end -}}
+              {{- with .url }} · <a href="{{ . }}" rel="nofollow ugc">link</a>{{ end -}}
+            </p>
+            {{/*
+              Plain text, never .content.html. This is untrusted input from
+              strangers: the pull script keeps only the text form, and this
+              template does not mark it safe, so Hugo escapes it. Both halves
+              are deliberate — either alone would be enough, and having both
+              means a change to one does not open a hole.
+            */}}
+            {{- with .content }}<p class="f5 lh-copy mv1">{{ . }}</p>{{ end }}
+          </article>
+        {{- end }}
+      </div>
+    {{- end }}
+
+    {{- with $mentions }}
+      <div class="webmention-mentions">
+        <h3 class="f6 ttu tracked mb2">Mentioned by</h3>
+        <ul class="list pl0 f6">
+          {{- range . }}
+            <li class="mb1">
+              <a href="{{ .url }}" rel="nofollow ugc">
+                {{- .author.name | compare.Default .url -}}
+              </a>
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+  </section>
+{{- end -}}

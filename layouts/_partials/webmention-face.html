@@ -1,0 +1,28 @@
+{{/*
+  One avatar in a likes/reposts facepile.
+
+  Photos are hotlinked from the author's own site rather than committed to this
+  repo — see the note in scripts/pull_webmentions.py about not fattening the
+  repo with binaries on a cron. An author with no photo gets their initial
+  instead of a broken image.
+
+  rel="nofollow ugc" throughout: these links are user-generated content pointing
+  at strangers' sites, and this blog is not vouching for any of them.
+*/}}
+{{- $name := .author.name | compare.Default "Someone" -}}
+{{- $href := .author.url | compare.Default .url -}}
+<a
+  class="webmention-face dib mr1 mb1"
+  href="{{ $href }}"
+  rel="nofollow ugc"
+  title="{{ $name }}"
+>
+  {{- with .author.photo -}}
+    <img src="{{ . }}" alt="{{ $name }}" loading="lazy" width="40" height="40" />
+  {{- else -}}
+    <span class="webmention-face-initial" aria-hidden="true">
+      {{- substr $name 0 1 | strings.ToUpper -}}
+    </span>
+    <span class="clip">{{ $name }}</span>
+  {{- end -}}
+</a>

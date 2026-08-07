@@ -3,6 +3,22 @@ locale = 'en-us'
 title = 'Mistersql'
 theme = 'ananke'
 
+[params]
+  # NOTE: the theme's `ananke.custom_css` route is deliberately not used here.
+  # It resolves entries through a partial (AnankeGetResource.html) that this
+  # version of the theme does not ship, so a missing resource is silently
+  # skipped and the stylesheet never reaches the bundle — no error, no warning.
+  # webmentions.css is linked from our own head-additions.html instead.
+
+  # The site identity webmention.io assigned after sign-in. COPY THIS VERBATIM
+  # from webmention.io's settings page — for a project site served under a path,
+  # the encoding is fiddly, and a wrong value fails silently (mentions go to a
+  # site identity nobody owns). Leave empty to publish no endpoint at all.
+  webmention_io_id = 'matthewdeanmartin.github.io%2Fmistersql'
+  # Half of the reciprocal rel="me" pair IndieAuth checks. The other half is
+  # this site's URL in the GitHub profile's Website field; both are required.
+  indieauth_github = 'https://github.com/matthewdeanmartin'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

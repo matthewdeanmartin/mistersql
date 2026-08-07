@@ -1,0 +1,85 @@
+{
+  "type": "feed",
+  "name": "Webmentions",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Alice Example",
+        "photo": "https://example.com/avatars/alice.jpg",
+        "url": "https://alice.example"
+      },
+      "url": "https://alice.example/likes/1",
+      "published": "2026-08-05T10:00:00+00:00",
+      "wm-received": "2026-08-05T10:00:11Z",
+      "wm-id": 1001,
+      "wm-source": "https://alice.example/likes/1",
+      "wm-target": "https://matthewdeanmartin.github.io/mistersql/posts/init/",
+      "wm-protocol": "webmention",
+      "wm-property": "like-of"
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Example",
+        "photo": "https://example.com/avatars/bob.jpg",
+        "url": "https://bob.example"
+      },
+      "url": "https://bob.example/reposts/7",
+      "published": "2026-08-05T11:30:00+00:00",
+      "wm-received": "2026-08-05T11:30:04Z",
+      "wm-id": 1002,
+      "wm-source": "https://bob.example/reposts/7",
+      "wm-target": "https://matthewdeanmartin.github.io/mistersql/posts/init/",
+      "wm-protocol": "webmention",
+      "wm-property": "repost-of"
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carol Example",
+        "photo": "https://example.com/avatars/carol.jpg",
+        "url": "https://carol.example"
+      },
+      "url": "https://carol.example/notes/42",
+      "published": "2026-08-05T12:15:00+00:00",
+      "wm-received": "2026-08-05T12:15:09Z",
+      "wm-id": 1003,
+      "wm-source": "https://carol.example/notes/42",
+      "wm-target": "https://matthewdeanmartin.github.io/mistersql/posts/init/",
+      "wm-protocol": "webmention",
+      "wm-property": "in-reply-to",
+      "content": {
+        "text": "Yes, it publishes! Nice to see the TOML front matter surviving the round trip.",
+        "html": "<p>Yes, it publishes! <script>alert('xss')</script> Nice to see the TOML front matter surviving the round trip.</p>"
+      }
+    },
+    {
+      "type": "entry",
+      "author": { "type": "card", "name": "Dan Example", "photo": "", "url": "https://dan.example" },
+      "url": "https://dan.example/blog/roundup",
+      "published": "2026-08-05T13:00:00+00:00",
+      "wm-received": "2026-08-05T13:00:02Z",
+      "wm-id": 1004,
+      "wm-source": "https://dan.example/blog/roundup",
+      "wm-target": "https://matthewdeanmartin.github.io/mistersql/",
+      "wm-protocol": "webmention",
+      "wm-property": "mention-of"
+    },
+    {
+      "type": "entry",
+      "author": { "type": "card", "name": "Malformed", "photo": "", "url": "" },
+      "url": "https://nowhere.example/x",
+      "published": "2026-08-05T14:00:00+00:00",
+      "wm-received": "2026-08-05T14:00:00Z",
+      "wm-id": 1005,
+      "wm-source": "https://nowhere.example/x",
+      "wm-target": "https://matthewdeanmartin.github.io/mistersql/posts/init/",
+      "wm-protocol": "webmention",
+      "wm-property": "bookmark-of"
+    }
+  ]
+}

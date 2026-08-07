@@ -1,0 +1,53 @@
+/* Webmentions: likes, reposts and replies pulled in by
+   scripts/pull_webmentions.py and rendered by layouts/_partials/webmentions.html.
+
+   Deliberately quiet. These sit at the end of a post and should read as a
+   footnote to it, not compete with it. */
+
+.webmentions {
+  /* Ananke's own spacing utilities carry the rest; this is only what the
+     theme has no class for. */
+  max-width: 34rem;
+}
+
+.webmention-face {
+  line-height: 0;
+}
+
+.webmention-face img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 40px;
+  height: 40px;
+}
+
+/* An author with no photo gets their initial rather than a broken image. */
+.webmention-face-initial {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #eee;
+  color: #555;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.webmention-reply:last-child {
+  border-bottom: 0;
+}
+
+/* Visually hidden but reachable by a screen reader — used for the name behind
+   an initial-only avatar. */
+.clip {
+  position: absolute !important;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  white-space: nowrap;
+}

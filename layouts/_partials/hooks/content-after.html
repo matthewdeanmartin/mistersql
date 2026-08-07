@@ -1,0 +1,11 @@
+{{/*
+  Ananke calls this hook automatically at the end of a post's content
+  (themes/ananke/layouts/single.html:65) whenever a project provides it — so
+  webmentions render with no template override and no theme fork.
+
+  Only on single pages: a list page's summaries should not each sprout a
+  facepile.
+*/}}
+{{- if eq .Kind "page" -}}
+  {{- partial "webmentions.html" . -}}
+{{- end -}}

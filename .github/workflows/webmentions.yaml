@@ -1,0 +1,51 @@
+name: Pull webmentions
+
+# A separate workflow from hugo.yaml on purpose: this one runs on a clock and
+# *writes* to the repo, while that one only reads and deploys. Mixing "build the
+# site" with "change the site" in one file makes both harder to reason about,
+# and this one needs `contents: write` which the build deliberately does not have.
+on:
+  schedule:
+    # Daily. An off-the-hour minute is likelier to actually run on time — GitHub
+    # drops scheduled jobs when the top of the hour is congested.
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Never two pulls racing on the same data files.
+  group: webmentions
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Fetch new mentions
+        env:
+          WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
+        run: python scripts/pull_webmentions.py
+
+      - name: Commit if anything changed
+        run: |
+          if [[ -z "$(git status --porcelain data/webmentions)" ]]; then
+            echo "No new mentions; nothing to commit."
+            exit 0
+          fi
+          git config user.name 'webmention bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/webmentions
+          git commit -m 'Pull webmentions'
+          git push
+          # Pushing is what triggers hugo.yaml to rebuild, so the site only
+          # redeploys when there is genuinely something new to render. A daily
+          # empty commit would be a daily pointless deploy.
