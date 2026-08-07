@@ -31,8 +31,22 @@
 
     {{ $title := printf "%s a post by %s" $verb ($record.targetAuthor | default "someone") }}
 
-    {{ $content := printf `<p class="h-entry"><a class="%s" href="%s">%s</a></p>`
-        $class $record.target ($record.targetExcerpt | default $record.target) }}
+    {{/*
+      The h-entry needs an author, or a receiver has nothing to attribute the
+      like to — webmention.io reported ours as an empty name and photo, which
+      rendered on the target site as an anonymous "S for Someone" avatar.
+
+      p-author/h-card supplies it. The values come from site params so this
+      stays true if the site's identity changes.
+    */}}
+    {{ $author := printf `<span class="p-author h-card"><a class="p-name u-url" href="%s">%s</a>%s</span>`
+        (site.Params.author_url | default site.BaseURL)
+        (site.Params.author | default site.Title)
+        (cond (site.Params.author_photo | default "" | eq "") ""
+          (printf `<img class="u-photo" src="%s" alt="" width="1" height="1" style="display:none">` site.Params.author_photo)) }}
+
+    {{ $content := printf `<div class="h-entry">%s <a class="%s u-url" href="%s">%s</a></div>`
+        $author $class $record.target ($record.targetExcerpt | default $record.target) }}
     {{ with $record.text }}
       {{ $content = printf `%s<blockquote class="e-content p-name">%s</blockquote>` $content . }}
     {{ end }}

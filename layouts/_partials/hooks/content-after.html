@@ -8,4 +8,6 @@
 */}}
 {{- if eq .Kind "page" -}}
   {{- partial "webmentions.html" . -}}
+  {{/* Optional live top-up; renders nothing unless params.webmentions_live. */}}
+  {{- partial "webmentions-live.html" . -}}
 {{- end -}}

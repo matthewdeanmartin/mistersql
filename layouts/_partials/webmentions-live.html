@@ -1,0 +1,72 @@
+{{/*
+  Live webmention counts, fetched in the browser.
+
+  Complements the build-time data in data/webmentions/ rather than replacing it.
+  The two answer different questions:
+
+    build-time (webmentions.html)  — everything as of the last cron pull.
+                                     Works with JS off, is in the HTML source,
+                                     is archived in git. Up to 24h stale.
+    runtime    (this file)         — everything webmention.io knows right now,
+                                     including mentions that arrived minutes
+                                     ago. Costs a request per page view and
+                                     shows nothing to a reader with JS off.
+
+  So this renders *in addition*, and only says something when it finds MORE than
+  the page already shows — otherwise every post would carry a duplicate count.
+
+  Enable with `params.webmentions_live = true`. Off by default: it is a
+  third-party request on every page load, which is a real privacy and
+  performance cost for a feature whose main value is already served statically.
+*/}}
+{{- if site.Params.webmentions_live -}}
+  {{- $target := .Permalink -}}
+  {{- $known := 0 -}}
+  {{/* How many the static render already accounts for, so the live number can
+       be shown as a delta rather than a contradiction. */}}
+  {{- $path := strings.Trim .RelPermalink "/" -}}
+  {{- $slug := strings.ToLower (strings.Trim (strings.ReplaceRE `[^a-zA-Z0-9]+` "-" $path) "-") -}}
+  {{- with index hugo.Data.webmentions $slug }}{{ $known = len . }}{{ end -}}
+
+  <p class="webmentions-live" data-target="{{ $target }}" data-known="{{ $known }}" hidden></p>
+
+  <script>
+    (function () {
+      var el = document.querySelector('.webmentions-live');
+      if (!el) return;
+      var target = el.dataset.target;
+      var known = parseInt(el.dataset.known, 10) || 0;
+
+      // jf2 rather than the older json shape: it is what the docs recommend and
+      // what the build-time puller already parses, so both halves agree on
+      // field names.
+      var url =
+        'https://webmention.io/api/mentions.jf2?per-page=100&target=' +
+        encodeURIComponent(target);
+
+      fetch(url)
+        .then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.json();
+        })
+        .then(function (data) {
+          var all = (data && data.children) || [];
+          if (all.length <= known) {
+            // The static render is already current. Saying "0 new" would be
+            // noise on every page of the site.
+            return;
+          }
+          var fresh = all.length - known;
+          el.textContent =
+            fresh + ' more ' + (fresh === 1 ? 'mention has' : 'mentions have') +
+            ' arrived since this page was built.';
+          el.hidden = false;
+        })
+        .catch(function () {
+          // webmention.io down, offline, or blocked by an extension. The static
+          // counts above are still correct, so failing silently is right —
+          // an error message would be about our infrastructure, not their post.
+        });
+    })();
+  </script>
+{{- end -}}

@@ -26,6 +26,28 @@ theme = 'ananke'
   allowContent = ['text/markdown', 'text/html']
 
 [params]
+  # Identity attached to every interaction page as a p-author h-card. Without
+  # it, a receiver has nothing to attribute a like to and renders it as an
+  # anonymous avatar — which is exactly what happened on the first real
+  # webmention this site sent.
+  author = 'Matthew Dean Martin'
+  author_url = 'https://matthewdeanmartin.github.io/'
+  # Optional; a URL to a profile photo. Left blank rather than pointing at
+  # something that may not exist.
+  author_photo = ''
+
+  # Fetch webmention counts in the browser as well as at build time.
+  #
+  # The static data (data/webmentions/, pulled daily) is the primary source: it
+  # works with JS off, is in the HTML, and is archived in git. This adds a live
+  # check on top, which only speaks up when webmention.io knows about MORE
+  # mentions than the last build captured.
+  #
+  # Off by default — it is a third-party request on every page view, and the
+  # feature it improves is already served statically. Turn on if the daily cron
+  # feels too slow.
+  webmentions_live = false
+
   # NOTE: the theme's `ananke.custom_css` route is deliberately not used here.
   # It resolves entries through a partial (AnankeGetResource.html) that this
   # version of the theme does not ship, so a missing resource is silently
