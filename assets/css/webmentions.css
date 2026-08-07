@@ -51,3 +51,42 @@
   overflow: hidden;
   white-space: nowrap;
 }
+
+/* The interactions index. Rows are short — a verb, a name, an excerpt — so they
+   read as a list rather than as a stack of blog summaries. */
+.interaction-row {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 6px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.interaction-row:last-child {
+  border-bottom: 0;
+}
+
+.interaction-icon {
+  flex: none;
+  width: 1.4em;
+}
+
+.interaction-body {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.interaction-title {
+  font-weight: 600;
+}
+
+/* The excerpt: quieter than the title, and clipped rather than wrapped to
+   three lines — it is context, not content. */
+.interaction-target {
+  color: #666;
+  font-size: 0.9rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

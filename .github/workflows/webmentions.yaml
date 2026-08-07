@@ -32,7 +32,12 @@ jobs:
 
       - name: Fetch new mentions
         env:
+          # Both names are passed because the two places this key lives ended up
+          # named differently: the repository secret is WEBMENTION_IO_TOKEN and
+          # the local .env is WEBMENTIONS_API_KEY. The script accepts either, so
+          # whichever is set wins and neither has to be renamed.
           WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
+          WEBMENTIONS_API_KEY: ${{ secrets.WEBMENTIONS_API_KEY }}
         run: python scripts/pull_webmentions.py
 
       - name: Commit if anything changed

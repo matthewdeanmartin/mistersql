@@ -143,6 +143,35 @@ def fetch_mentions(token: str, since: str | None) -> list[dict[str, Any]]:
     return children
 
 
+def read_token() -> str:
+    """The webmention.io API key, from the environment or a local ``.env``.
+
+    Two names are accepted: ``WEBMENTIONS_API_KEY`` is what the repo's ``.env``
+    uses, and ``WEBMENTION_IO_TOKEN`` is kept working so an existing Actions
+    secret under that name does not silently stop the job.
+
+    The ``.env`` fallback exists only so the script can be run by hand while
+    setting things up; in Actions the value arrives as an environment variable
+    and ``.env`` is not committed.
+    """
+    for name in ("WEBMENTIONS_API_KEY", "WEBMENTION_IO_TOKEN"):
+        value = os.environ.get(name, "").strip()
+        if value:
+            return value
+
+    env_file = REPO_ROOT / ".env"
+    if not env_file.exists():
+        return ""
+    try:
+        for line in env_file.read_text(encoding="utf-8").splitlines():
+            key, _, value = line.partition("=")
+            if key.strip() in ("WEBMENTIONS_API_KEY", "WEBMENTION_IO_TOKEN"):
+                return value.strip().strip("\"'")
+    except OSError:
+        return ""
+    return ""
+
+
 def load_json(path: Path, fallback: Any) -> Any:
     if not path.exists():
         return fallback
@@ -235,9 +264,12 @@ def main(argv: list[str] | None = None) -> int:
             body = json.loads(args.fixture.read_text(encoding="utf-8"))
             mentions = body.get("children", [])
         else:
-            token = os.environ.get("WEBMENTION_IO_TOKEN", "").strip()
+            token = read_token()
             if not token:
-                raise PullError("WEBMENTION_IO_TOKEN is not set.")
+                raise PullError(
+                    "No webmention.io token. Set WEBMENTIONS_API_KEY "
+                    "(as a repository secret in Actions, or in .env locally)."
+                )
             mentions = fetch_mentions(token, since)
     except PullError as error:
         print(f"error: {error}", file=sys.stderr)

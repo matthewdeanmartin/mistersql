@@ -1,0 +1,53 @@
+{{/*
+  The interactions index.
+
+  The theme's default list renders title + summary + "read more", which for a
+  page whose *title is the whole sentence* ("Liked a post by @alice") reads as
+  the same thing said three times. This shows what each one actually was, and
+  links straight out to the original.
+
+  Grouped by day, because that is how they are recorded (one data file per day)
+  and how they read — a session of liking is one sitting.
+*/}}
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="mw7 center ph3">
+    {{ .Content }}
+
+    {{ $pages := where site.RegularPages "Section" "interactions" }}
+    {{ if not $pages }}
+      <p class="muted">Nothing recorded yet.</p>
+    {{ else }}
+      {{ range $pages.GroupByDate "2006-01-02" }}
+        <h2 class="f4 fw6 mt4 mb2">
+          {{ (index .Pages 0).Date | time.Format "January 2, 2006" }}
+        </h2>
+        <ul class="list pl0">
+          {{ range .Pages }}
+            {{ $icon := "•" }}
+            {{ if eq .Params.interactionKind "like" }}{{ $icon = "★" }}{{ end }}
+            {{ if eq .Params.interactionKind "repost" }}{{ $icon = "🔁" }}{{ end }}
+            {{ if eq .Params.interactionKind "reply" }}{{ $icon = "💬" }}{{ end }}
+            <li class="interaction-row">
+              <span class="interaction-icon" aria-hidden="true">{{ $icon }}</span>
+              <span class="interaction-body">
+                <a href="{{ .RelPermalink }}" class="interaction-title">{{ .Title }}</a>
+                {{/* The excerpt, falling back to the bare URL. A row reading
+                     "Liked a post by @alice / https://…/117048683641823127"
+                     tells you nothing about what it was. */}}
+                <a
+                  class="interaction-target"
+                  href="{{ .Params.interactionTarget }}"
+                  rel="nofollow ugc"
+                >{{ .Params.interactionExcerpt | default .Params.interactionTarget }}</a>
+              </span>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+  </article>
+{{ end }}

@@ -3,6 +3,18 @@ locale = 'en-us'
 title = 'Mistersql'
 theme = 'ananke'
 
+[menus]
+  # Without these the interactions section is unreachable: the pages generate,
+  # but nothing on the site links to them.
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'Interactions'
+    pageRef = '/interactions'
+    weight = 20
+
 [security]
   # The interactions content adapter (content/interactions/_content.gotmpl)
   # builds each page's body as HTML so it can carry the microformat classes
@@ -20,11 +32,16 @@ theme = 'ananke'
   # skipped and the stylesheet never reaches the bundle — no error, no warning.
   # webmentions.css is linked from our own head-additions.html instead.
 
-  # The site identity webmention.io assigned after sign-in. COPY THIS VERBATIM
-  # from webmention.io's settings page — for a project site served under a path,
-  # the encoding is fiddly, and a wrong value fails silently (mentions go to a
-  # site identity nobody owns). Leave empty to publish no endpoint at all.
-  webmention_io_id = 'matthewdeanmartin.github.io%2Fmistersql'
+  # The site identity webmention.io assigned at sign-in.
+  #
+  # Copied verbatim from webmention.io rather than derived: it encodes path
+  # separators as underscores, INCLUDING a trailing one for the trailing slash
+  # in the URL that was registered. Signing in with
+  # `…github.io/mistersql/` and `…github.io/mistersql` therefore produce two
+  # different identities, and only the one actually registered receives
+  # anything. An earlier guess here used percent-encoding and was simply wrong —
+  # the failure is silent, which is why this is a copy and not a computation.
+  webmention_io_id = 'matthewdeanmartin.github.io_mistersql_'
   # Half of the reciprocal rel="me" pair IndieAuth checks. The other half is
   # this site's URL in the GitHub profile's Website field; both are required.
   indieauth_github = 'https://github.com/matthewdeanmartin'
