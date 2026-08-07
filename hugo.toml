@@ -3,6 +3,16 @@ locale = 'en-us'
 title = 'Mistersql'
 theme = 'ananke'
 
+[security]
+  # The interactions content adapter (content/interactions/_content.gotmpl)
+  # builds each page's body as HTML so it can carry the microformat classes
+  # (u-like-of and friends) a webmention receiver reads. Hugo requires HTML
+  # content sources to be allowlisted explicitly.
+  # Note this *replaces* the default rather than extending it, so the ordinary
+  # Markdown types have to be listed too — omitting them locks out every normal
+  # page in content/.
+  allowContent = ['text/markdown', 'text/html']
+
 [params]
   # NOTE: the theme's `ananke.custom_css` route is deliberately not used here.
   # It resolves entries through a partial (AnankeGetResource.html) that this

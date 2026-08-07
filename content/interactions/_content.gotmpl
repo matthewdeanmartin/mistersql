@@ -1,0 +1,55 @@
+{{/*
+  Generate one page per recorded interaction from data/interactions/*.json.
+
+  A content adapter (Hugo 0.126+): it runs at build time and adds pages to this
+  section, so the JSON that Mawkingbird commits becomes real URLs without a
+  separate generator step.
+
+  Why a page each rather than one page per day: a webmention's `source` is
+  fetched by the receiver and shown to humans, so it should point at something
+  that reads sensibly — "Matthew liked your post", not a page of fifty unrelated
+  likes. The microformat classes (u-like-of, u-repost-of, u-in-reply-to) are
+  what make the link machine-readable; without them a receiver sees a plain
+  mention rather than a like.
+*/}}
+{{ $kindClass := dict
+  "like" "u-like-of"
+  "repost" "u-repost-of"
+  "reply" "u-in-reply-to"
+}}
+{{ $kindVerb := dict "like" "Liked" "repost" "Boosted" "reply" "Replied to" }}
+
+{{ range $day, $records := site.Data.interactions }}
+  {{ range $index, $record := $records }}
+    {{ $class := index $kindClass $record.kind | default "u-mention-of" }}
+    {{ $verb := index $kindVerb $record.kind | default "Mentioned" }}
+
+    {{/* Stable slug: the day plus this record's position in it. Deterministic,
+         so a page keeps its URL across rebuilds — which matters because that
+         URL is what has been sent out as a webmention `source`. */}}
+    {{ $slug := printf "%s-%d" $day (add $index 1) }}
+
+    {{ $title := printf "%s a post by %s" $verb ($record.targetAuthor | default "someone") }}
+
+    {{ $content := printf `<p class="h-entry"><a class="%s" href="%s">%s</a></p>`
+        $class $record.target ($record.targetExcerpt | default $record.target) }}
+    {{ with $record.text }}
+      {{ $content = printf `%s<blockquote class="e-content p-name">%s</blockquote>` $content . }}
+    {{ end }}
+
+    {{/* Path is relative to this section — prefixing "interactions/" here
+         would produce /interactions/interactions/…. */}}
+    {{ $.AddPage (dict
+      "path" $slug
+      "title" $title
+      "date" (time.AsTime $record.published)
+      "params" (dict
+        "interactionKind" $record.kind
+        "interactionTarget" $record.target
+        "interactionAuthor" $record.targetAuthor
+        "interactionProvider" $record.provider
+      )
+      "content" (dict "value" $content "mediaType" "text/html")
+    ) }}
+  {{ end }}
+{{ end }}
