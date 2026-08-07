@@ -2,17 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mistersql/</loc>
+    <loc>https://matthewdeanmartin.github.io/mistersql/</loc>
+    <lastmod>2026-08-06T23:03:01+00:00</lastmod>
+  </url><url>
+    <loc>https://matthewdeanmartin.github.io/mistersql/posts/okay-okay/</loc>
+    <lastmod>2026-08-06T23:03:01+00:00</lastmod>
+  </url><url>
+    <loc>https://matthewdeanmartin.github.io/mistersql/posts/</loc>
+    <lastmod>2026-08-06T23:03:01+00:00</lastmod>
+  </url><url>
+    <loc>https://matthewdeanmartin.github.io/mistersql/posts/init/</loc>
     <lastmod>2026-08-06T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mistersql/posts/init/</loc>
-    <lastmod>2026-08-06T07:07:07+01:00</lastmod>
+    <loc>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-2/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/mistersql/posts/</loc>
-    <lastmod>2026-08-06T07:07:07+01:00</lastmod>
+    <loc>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-3/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/mistersql/categories/</loc>
+    <loc>https://matthewdeanmartin.github.io/mistersql/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/mistersql/tags/</loc>
+    <loc>https://matthewdeanmartin.github.io/mistersql/interactions/</loc>
+  </url><url>
+    <loc>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-1/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-4/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://matthewdeanmartin.github.io/mistersql/tags/</loc>
   </url>
 </urlset>

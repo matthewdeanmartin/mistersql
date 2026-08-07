@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Mistersql</title>
-		<link>https://matthewdeanmartin.github.io/mistersql/</link>
-		<description>Recent content on Mistersql</description>
+		<title>Interactions on Mistersql</title>
+		<link>https://matthewdeanmartin.github.io/mistersql/interactions/</link>
+		<description>Recent content in Interactions on Mistersql</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 06 Aug 2026 23:03:01 +0000</lastBuildDate>
-		
-			<atom:link href="https://matthewdeanmartin.github.io/mistersql/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Okay, okay</title>
-				<link>https://matthewdeanmartin.github.io/mistersql/posts/okay-okay/</link>
-				<pubDate>Thu, 06 Aug 2026 23:03:01 +0000</pubDate>
-				<guid>https://matthewdeanmartin.github.io/mistersql/posts/okay-okay/</guid>
-				<description>&lt;p&gt;Let&amp;rsquo;s see what happens now&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>My First Post</title>
-				<link>https://matthewdeanmartin.github.io/mistersql/posts/init/</link>
-				<pubDate>Thu, 06 Aug 2026 07:07:07 +0100</pubDate>
-				<guid>https://matthewdeanmartin.github.io/mistersql/posts/init/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Does it work? Does it publish?&lt;/p&gt;</description>
-			</item>
+			<atom:link href="https://matthewdeanmartin.github.io/mistersql/interactions/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Boosted a post by bascule@mas.to</title>
 				<link>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-2/</link>

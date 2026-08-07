@@ -34,14 +34,19 @@ theme = 'ananke'
 
   # The site identity webmention.io assigned at sign-in.
   #
-  # Copied verbatim from webmention.io rather than derived: it encodes path
-  # separators as underscores, INCLUDING a trailing one for the trailing slash
-  # in the URL that was registered. Signing in with
-  # `…github.io/mistersql/` and `…github.io/mistersql` therefore produce two
-  # different identities, and only the one actually registered receives
-  # anything. An earlier guess here used percent-encoding and was simply wrong —
-  # the failure is silent, which is why this is a copy and not a computation.
-  webmention_io_id = 'matthewdeanmartin.github.io_mistersql_'
+  # **This is the bare domain, not a path.** webmention.io keys on the domain,
+  # so a project site under `…github.io/mistersql/` registers as the domain that
+  # hosts it. Verified 2026-08-07 by POSTing a real source/target pair:
+  #
+  #   matthewdeanmartin.github.io            -> {"status":"queued"}
+  #   matthewdeanmartin.github.io_mistersql_ -> 404 invalid_target
+  #
+  # The underscored form was an earlier registration made by signing in with the
+  # subpath URL. It produced an account whose *Domain* column literally read
+  # `matthewdeanmartin.github.io_mistersql_` — not a hostname — so it rejected
+  # every real URL, including the one it was registered with. Do not go back to
+  # it. Identity here is per-domain; the path is irrelevant.
+  webmention_io_id = 'matthewdeanmartin.github.io'
   # Half of the reciprocal rel="me" pair IndieAuth checks. The other half is
   # this site's URL in the GitHub profile's Website field; both are required.
   indieauth_github = 'https://github.com/matthewdeanmartin'
