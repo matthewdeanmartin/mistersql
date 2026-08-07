@@ -7,5 +7,14 @@
     "text": "",
     "provider": "mastodon",
     "published": "2026-08-07T01:20:57.748Z"
+  },
+  {
+    "kind": "repost",
+    "target": "https://mas.to/@bascule/117050194612250334",
+    "targetAuthor": "bascule@mas.to",
+    "targetExcerpt": "It took humanity 68 years to install 1TW solar capacity, which we reached in 2022.It took 2 years to double it to 2TW, which we did in Nove…",
+    "text": "",
+    "provider": "mastodon",
+    "published": "2026-08-07T01:26:08.945Z"
   }
 ]
