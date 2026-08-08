@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <header class="feed-heading feed-heading-back">
+    <a href="{{ .Parent.RelPermalink | default site.Home.RelPermalink }}" aria-label="Back to posts">←</a>
+    <div>
+      <h1>Post</h1>
+      <p>{{ .Date | time.Format "January 2, 2006" }}</p>
+    </div>
+  </header>
+  {{ partial "social/card.html" (dict "page" . "single" true) }}
+  {{ partial "webmentions.html" . }}
+  {{ partial "webmentions-live.html" . }}
+{{ end }}
+

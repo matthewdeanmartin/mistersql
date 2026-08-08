@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+    <meta name="description" content="{{ .Description | default site.Params.description | default .Summary | plainify }}">
+    {{ hugo.Generator }}
+    {{ if hugo.IsProduction }}<meta name="robots" content="index, follow">{{ else }}<meta name="robots" content="noindex, nofollow">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .RelPermalink }}">{{ end }}
+    {{ $style := resources.Get "css/social.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+    {{ partialCached "head-additions.html" . site.Language.Lang }}
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to posts</a>
+    {{ partial "social/header.html" . }}
+    <div class="site-grid">
+      <aside class="site-rail site-rail-left" aria-label="About this blog">
+        {{ partialCached "social/left-rail.html" . site.Language.Lang }}
+      </aside>
+      <main id="main-content" class="feed-column" tabindex="-1">
+        {{ block "main" . }}{{ end }}
+        <footer class="site-footer">
+          <span>&copy; {{ now.Year }} {{ site.Params.author | default site.Title }}</span>
+          {{ with site.Home.OutputFormats.Get "RSS" }}<a href="{{ .RelPermalink }}">RSS</a>{{ end }}
+        </footer>
+      </main>
+      <aside class="site-rail site-rail-right" aria-label="Archive information">
+        {{ partialCached "social/right-rail.html" . site.Language.Lang }}
+      </aside>
+    </div>
+  </body>
+</html>

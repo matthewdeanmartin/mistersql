@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <header class="feed-heading">
+    <div>
+      <h1>Home</h1>
+      <p>Public posts preserved on my own site.</p>
+    </div>
+  </header>
+  {{ with .Content }}<div class="feed-intro prose">{{ . }}</div>{{ end }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $pager := .Paginate $posts }}
+  <section class="post-feed" aria-label="Posts">
+    {{ range $pager.Pages }}
+      {{ partial "social/card.html" (dict "page" . "single" false) }}
+    {{ else }}
+      <p class="empty-feed">No public posts yet.</p>
+    {{ end }}
+  </section>
+  {{ partial "social/pager.html" $pager }}
+{{ end }}
+

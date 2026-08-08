@@ -1,0 +1,94 @@
+{{ $page := .page }}
+{{ $single := .single }}
+{{ $kind := $page.Params.socialKind | default "post" }}
+<article class="social-card h-entry{{ if $single }} social-card-single{{ end }}{{ if eq $kind "storm" }} social-card-storm{{ end }}">
+  <a class="card-avatar p-author h-card" href="{{ site.Home.RelPermalink }}" aria-label="{{ site.Params.author | default site.Title }}">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="{{ site.Home.RelPermalink }}">{{ site.Params.author | default site.Title }}</a>
+      <span class="card-handle">@{{ $page.Params.persona | default site.Params.handle | default "mistersql" }}</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="{{ $page.RelPermalink }}">
+        <time class="dt-published" datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ $page.Date | time.Format "Jan 2, 2006" }}</time>
+      </a>
+      {{ if eq $kind "storm" }}<span class="source-badge">Thread</span>{{ else }}<span class="source-badge">{{ $page.Params.source | default "POSSE" }}</span>{{ end }}
+    </header>
+    <div class="card-content e-content prose">
+      {{ if not $page.Params.hideTitle }}{{ with $page.Title }}<h2{{ if $single }} class="single-title"{{ end }}><a href="{{ $page.RelPermalink }}">{{ . }}</a></h2>{{ end }}{{ end }}
+      {{ with $page.Params.contentWarning }}
+        <details class="content-warning">
+          <summary>Content warning: {{ . }}</summary>
+          <div>{{ $page.Content }}</div>
+        </details>
+      {{ else }}
+        {{ $page.Content }}
+      {{ end }}
+      {{ with $page.Params.socialPoll }}
+        <div class="archive-poll" aria-label="Archived poll results">
+          <p><strong>Archived poll{{ if .multiple }} · choose multiple{{ end }}</strong></p>
+          <ol>{{ range .options }}<li><span>{{ .name }}</span><small>{{ .votes }} votes</small></li>{{ end }}</ol>
+          <p class="poll-total">{{ .voters }} voters</p>
+        </div>
+      {{ end }}
+    </div>
+    {{ if and (eq $kind "storm") $page.Params.socialParts }}
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        {{ range after 1 $page.Params.socialParts }}
+          {{ $part := . }}
+          <li class="storm-part" style="--thread-depth: {{ .depth }}" data-parent="{{ .replyToSourceId }}">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>{{ site.Params.author | default site.Title }}</strong>
+                <span>@{{ $page.Params.persona | default site.Params.handle | default "mistersql" }}</span>
+                <span>· {{ time.AsTime .date | time.Format "Jan 2, 2006" }}</span>
+              </div>
+              <div class="prose">
+                {{ with .contentWarning }}
+                  <details class="content-warning">
+                    <summary>Content warning: {{ . }}</summary>
+                    <div>{{ $part.contentHtml | safe.HTML }}</div>
+                  </details>
+                {{ else }}
+                  {{ .contentHtml | safe.HTML }}
+                {{ end }}
+                {{ with .poll }}
+                  <div class="archive-poll" aria-label="Archived poll results">
+                    <p><strong>Archived poll{{ if .multiple }} · choose multiple{{ end }}</strong></p>
+                    <ol>{{ range .options }}<li><span>{{ .name }}</span><small>{{ .votes }} votes</small></li>{{ end }}</ol>
+                    <p class="poll-total">{{ .voters }} voters</p>
+                  </div>
+                {{ end }}
+              </div>
+              {{ with .metrics }}
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="{{ .likes }} likes">♡ {{ .likes }}</span>
+                  <span title="Reposts" aria-label="{{ .reposts }} reposts">↻ {{ .reposts }}</span>
+                </div>
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ol>
+    {{ end }}
+    {{ with $page.GetTerms "tags" }}
+      <nav class="card-tags" aria-label="Post hashtags">
+        {{ range . }}<a class="p-category" href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>{{ end }}
+      </nav>
+    {{ end }}
+    <footer class="card-actions" aria-label="Post links">
+      {{ with $page.Params.socialMetrics }}
+        <span class="card-metric" title="Likes" aria-label="{{ .likes }} likes">♡ {{ .likes }}</span>
+        <span class="card-metric" title="Reposts" aria-label="{{ .reposts }} reposts">↻ {{ .reposts }}</span>
+      {{ end }}
+      <a href="{{ $page.RelPermalink }}" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      {{ with $page.Params.canonicalUrl }}<a href="{{ . }}" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>{{ end }}
+    </footer>
+  </div>
+</article>

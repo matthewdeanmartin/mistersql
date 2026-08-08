@@ -3,6 +3,22 @@ locale = 'en-us'
 title = 'Mistersql'
 theme = 'ananke'
 
+# Real-data preview pages are a local, ignored quarantine from the importer
+# development phase. The tracked public corpus supersedes them; do not make
+# Hugo parse 15,000 duplicate pages on every build.
+ignoreFiles = ['^content/posts/imported/']
+
+[pagination]
+  pagerSize = 40
+
+[outputs]
+  # Keep one site-wide RSS feed. Per-section and per-hashtag feeds multiply
+  # build output without adding value to this archive.
+  home = ['HTML', 'RSS']
+  section = ['HTML']
+  taxonomy = ['HTML']
+  term = ['HTML']
+
 [menus]
   # Without these the interactions section is unreachable: the pages generate,
   # but nothing on the site links to them.
@@ -31,6 +47,8 @@ theme = 'ananke'
   # anonymous avatar — which is exactly what happened on the first real
   # webmention this site sent.
   author = 'Matthew Dean Martin'
+  handle = 'mistersql'
+  description = 'Public posts from Twitter and Mastodon, preserved on a site I control.'
   author_url = 'https://matthewdeanmartin.github.io/'
   # Optional; a URL to a profile photo. Left blank rather than pointing at
   # something that may not exist.

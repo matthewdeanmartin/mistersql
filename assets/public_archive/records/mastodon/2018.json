@@ -1,0 +1,86 @@
+{
+  "corpusVersion": 1,
+  "records": [
+    {
+      "canonicalUrl": "https://mastodon.social/@mistersql/99728455571097903",
+      "contentHtml": "<p>I have no idea what I&#x27;m doing.</p>",
+      "contentText": "I have no idea what I'm doing.",
+      "date": "2018-03-22T16:17:47+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>I have no idea what I&#x27;m doing.</p>",
+          "contentText": "I have no idea what I'm doing.",
+          "date": "2018-03-22T16:17:47+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "sourceId": "99728455571097903"
+        },
+        {
+          "contentHtml": "<p>Ha, funny. Every four years I come back to mastodon and make the same joke.</p>",
+          "contentText": "Ha, funny. Every four years I come back to mastodon and make the same joke.",
+          "date": "2022-10-29T14:06:26+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "replyToSourceId": "99728455571097903",
+          "sourceId": "109251945174376213"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "mastodon",
+      "sourceId": "99728455571097903",
+      "visibility": "public"
+    },
+    {
+      "canonicalUrl": "https://mastodon.social/@mistersql/99875254549686692",
+      "contentHtml": "<p>How do I find anyone to follow on Mastodon?</p>",
+      "contentText": "How do I find anyone to follow on Mastodon?",
+      "date": "2018-04-17T14:30:41+00:00",
+      "language": "mg",
+      "metrics": {
+        "likes": 1,
+        "reposts": 1
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "mastodon",
+      "sourceId": "99875254549686692",
+      "visibility": "public"
+    },
+    {
+      "canonicalUrl": "https://mastodon.social/@mistersql/100600349825893323",
+      "contentHtml": "<p>mastodon has recreated the lousy user bio of twitter, so it is impossible to tell who is who, what they do, where they are or how I might be related or interested in anyone here.</p>",
+      "contentText": "mastodon has recreated the lousy user bio of twitter, so it is impossible to tell who is who, what they do, where they are or how I might be related or interested in anyone here.",
+      "date": "2018-08-23T15:51:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "mastodon",
+      "sourceId": "100600349825893323",
+      "visibility": "public"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "mastodon",
+  "year": "2018"
+}

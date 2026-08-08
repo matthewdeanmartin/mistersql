@@ -1,0 +1,14 @@
+{
+  "corpusSha256": "c05da68d9d9597b2dbea69941e71d9a1c62ec28a7a347589122e4a8ef172a9af",
+  "corpusVersion": 1,
+  "records": 15285,
+  "recordsBySource": {
+    "mastodon": 4800,
+    "twitter": 10485
+  },
+  "schemaVersion": 1,
+  "sourceDatasetSha256": {
+    "mastodon": "2e57f0ffeadc0d5a69058637ef1c124f69b963b2b04f230b766fa20132ae2294",
+    "twitter": "ec7987cd37d781c655dd3ac555519744269e194f04479bf1fce44f6feeccfcb2"
+  }
+}

@@ -1,0 +1,4697 @@
+{
+  "corpusVersion": 1,
+  "records": [
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/10027936482",
+      "contentHtml": "<p>#WHS 1 of 3 of my windows home servers suffer from ths: <a href=\"http://bit.ly/ccVVst\" rel=\"nofollow noopener\">http://bit.ly/ccVVst</a> its beyond trblshooting &amp; has taken away all the backups. F*K</p>",
+      "contentText": "#WHS 1 of 3 of my windows home servers suffer from ths: http://bit.ly/ccVVst its beyond trblshooting & has taken away all the backups. F*K",
+      "date": "2010-03-05T15:11:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "10027936482",
+      "tags": [
+        "WHS"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/10173342625",
+      "contentHtml": "<p>#SQL lengthy, empty source code headers are industrial sabotage</p>",
+      "contentText": "#SQL lengthy, empty source code headers are industrial sabotage",
+      "date": "2010-03-08T14:45:03+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "10173342625",
+      "tags": [
+        "SQL"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12588426994",
+      "contentHtml": "<p>#VS2010 installer is giving me misery, so no change from the VS2005 or VS2008 install experience. Can I has portable app?</p>",
+      "contentText": "#VS2010 installer is giving me misery, so no change from the VS2005 or VS2008 install experience. Can I has portable app?",
+      "date": "2010-04-21T17:28:38+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12588426994",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12597731900",
+      "contentHtml": "<p>2nd time install is the charm (and 4 reboots) Wondering why #VS2010 first launch is so slow.</p>",
+      "contentText": "2nd time install is the charm (and 4 reboots) Wondering why #VS2010 first launch is so slow.",
+      "date": "2010-04-21T21:04:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12597731900",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12601178509",
+      "contentHtml": "<p>Someone is wrong on the internet and this really bothers me.</p>",
+      "contentText": "Someone is wrong on the internet and this really bothers me.",
+      "date": "2010-04-21T22:18:30+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12601178509"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12605816820",
+      "contentHtml": "<p>Installing VB6.  It&#x27;s starting to give me a rash.  I think I liked it more 10 years ago.</p>",
+      "contentText": "Installing VB6.  It's starting to give me a rash.  I think I liked it more 10 years ago.",
+      "date": "2010-04-21T23:52:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12605816820"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12647347139",
+      "contentHtml": "<p>#VS2010 feels faster than #VS2008.  Memory usage with Resharper looks similar to VS2008+Resharper</p>",
+      "contentText": "#VS2010 feels faster than #VS2008.  Memory usage with Resharper looks similar to VS2008+Resharper",
+      "date": "2010-04-22T16:10:01+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12647347139",
+      "tags": [
+        "VS2008",
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12648406496",
+      "contentHtml": "<p>Hm, can&#x27;t debug sql2000 or do Entity Framework stuff with sql2000 using #VS2010.  But Sql2000 is so good it won&#x27;t be upgraded until Sql3000.</p>",
+      "contentText": "Hm, can't debug sql2000 or do Entity Framework stuff with sql2000 using #VS2010.  But Sql2000 is so good it won't be upgraded until Sql3000.",
+      "date": "2010-04-22T16:30:17+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12648406496",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12655941077",
+      "contentHtml": "<p>Stop! In the name of code!  Before you break the build    <a href=\"http://bit.ly/cCARkJ\" rel=\"nofollow noopener\">http://bit.ly/cCARkJ</a></p>",
+      "contentText": "Stop! In the name of code!  Before you break the build    http://bit.ly/cCARkJ",
+      "date": "2010-04-22T19:13:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12655941077"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13151601581",
+      "contentHtml": "<p>#VS2010 crash on upgrade of project containing subsonic.   Sigh.</p>",
+      "contentText": "#VS2010 crash on upgrade of project containing subsonic.   Sigh.",
+      "date": "2010-04-30T21:35:11+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13151601581",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13378433526",
+      "contentHtml": "<p>Are there known stability problems with #VS2010 RTM?  What is causing the crashing? Addins? Control libraries? Something it ate?</p>",
+      "contentText": "Are there known stability problems with #VS2010 RTM?  What is causing the crashing? Addins? Control libraries? Something it ate?",
+      "date": "2010-05-04T18:46:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13378433526",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13435625061",
+      "contentHtml": "<p>#VS2010 Crash Survey-- what 3rd party components do you have at time of crash? Me: AnkhSVN, Telerik Designer, Resharper.  VS2010 RTM.</p>",
+      "contentText": "#VS2010 Crash Survey-- what 3rd party components do you have at time of crash? Me: AnkhSVN, Telerik Designer, Resharper.  VS2010 RTM.",
+      "date": "2010-05-05T16:35:29+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13435625061",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13486390462",
+      "contentHtml": "<p>#VS2010 Crash Survey-- what 3rd party components do you have at time of crash? Me: AnkhSVN, Telerik Designer, Resharper. VS2010 RTM.</p>",
+      "contentText": "#VS2010 Crash Survey-- what 3rd party components do you have at time of crash? Me: AnkhSVN, Telerik Designer, Resharper. VS2010 RTM.",
+      "date": "2010-05-06T13:08:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13486390462",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13747193002",
+      "contentHtml": "<p>#VS2010 one full work day of no crashes after uninstalling AnkhSVN, previously averaging 1+ crash per hour. Haven&#x27;t tried daily build yet.</p>",
+      "contentText": "#VS2010 one full work day of no crashes after uninstalling AnkhSVN, previously averaging 1+ crash per hour. Haven't tried daily build yet.",
+      "date": "2010-05-10T20:53:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13747193002",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13861288008",
+      "contentHtml": "<p>After some minor switch over pain, I think #VS2010 is pretty sweet.  Kudos to the developers at MS.</p>",
+      "contentText": "After some minor switch over pain, I think #VS2010 is pretty sweet.  Kudos to the developers at MS.",
+      "date": "2010-05-12T17:01:52+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13861288008",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13934234308",
+      "contentHtml": "<p>Half day without crashes using new anksvn add in (2.18420.8) and #VS2010 RTM, I&#x27;m optimistic.</p>",
+      "contentText": "Half day without crashes using new anksvn add in (2.18420.8) and #VS2010 RTM, I'm optimistic.",
+      "date": "2010-05-13T20:58:30+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13934234308",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13988460117",
+      "contentHtml": "<p>#VS2010 crashed with AnkSVN 2.1.8420 + Resharper + Telerik.  Took about 10 working hours.  Crashed while editing file.</p>",
+      "contentText": "#VS2010 crashed with AnkSVN 2.1.8420 + Resharper + Telerik.  Took about 10 working hours.  Crashed while editing file.",
+      "date": "2010-05-14T17:43:35+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13988460117",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14251202500",
+      "contentHtml": "<p>I just reached 4000 on stackoverflow <a href=\"http://bit.ly/a2KsT9\" rel=\"nofollow noopener\">http://bit.ly/a2KsT9</a></p>",
+      "contentText": "I just reached 4000 on stackoverflow http://bit.ly/a2KsT9",
+      "date": "2010-05-18T21:29:42+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14251202500"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14359730444",
+      "contentHtml": "<p>#VS2010 Amazon has shipping delays for VS2010.  I won&#x27;t be getting a box until Jun 7!</p>",
+      "contentText": "#VS2010 Amazon has shipping delays for VS2010.  I won't be getting a box until Jun 7!",
+      "date": "2010-05-20T13:04:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14359730444",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14442923394",
+      "contentHtml": "<p>Contract.Ensures is super cool.</p>",
+      "contentText": "Contract.Ensures is super cool.",
+      "date": "2010-05-21T17:43:01+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14442923394"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14625246405",
+      "contentHtml": "<p>JSON over #WCF. Seems like a good reason to use WCF intra-application (i.e. not across organizational boundaries)</p>",
+      "contentText": "JSON over #WCF. Seems like a good reason to use WCF intra-application (i.e. not across organizational boundaries)",
+      "date": "2010-05-24T14:07:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14625246405",
+      "tags": [
+        "WCF"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14630938238",
+      "contentHtml": "<p>it takes so long for a resharper purchase to go through! I&#x27;ve been waiting two hours for my license key.</p>",
+      "contentText": "it takes so long for a resharper purchase to go through! I've been waiting two hours for my license key.",
+      "date": "2010-05-24T15:43:32+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14630938238"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14632816867",
+      "contentHtml": "<p>main drive on WHS is failing.  This doesn&#x27;t sound like a fun weekend project.</p>",
+      "contentText": "main drive on WHS is failing.  This doesn't sound like a fun weekend project.",
+      "date": "2010-05-24T16:16:13+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14632816867"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14759492419",
+      "contentHtml": "<p>@PietSous What 3rd party addins do you have? By any chance do you have an old anksvn addin?</p>",
+      "contentText": "@PietSous What 3rd party addins do you have? By any chance do you have an old anksvn addin?",
+      "date": "2010-05-26T12:24:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14759492419"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14788080981",
+      "contentHtml": "<p>#resharper  Why is inline method greyed out when I right click to refactor?  V5, VS2010 C# Full personal edition</p>",
+      "contentText": "#resharper  Why is inline method greyed out when I right click to refactor?  V5, VS2010 C# Full personal edition",
+      "date": "2010-05-26T21:02:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14788080981",
+      "tags": [
+        "resharper"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14791820268",
+      "contentHtml": "<p>#VS2010 #regions are the rug under which we sweep our shame.</p>",
+      "contentText": "#VS2010 #regions are the rug under which we sweep our shame.",
+      "date": "2010-05-26T22:18:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14791820268",
+      "tags": [
+        "regions",
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14835406384",
+      "contentHtml": "<p>#C#I love robocomments.  It is so pleasurable to read outdated repetitions of the call signature in English.</p>",
+      "contentText": "#C#I love robocomments.  It is so pleasurable to read outdated repetitions of the call signature in English.",
+      "date": "2010-05-27T13:46:34+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14835406384"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15107007141",
+      "contentHtml": "<p>Tried to install bugzilla on windows.  Perl is uninstallable crap compared to PHP or ASP.NET.  I think there are better bug trackers.</p>",
+      "contentText": "Tried to install bugzilla on windows.  Perl is uninstallable crap compared to PHP or ASP.NET.  I think there are better bug trackers.",
+      "date": "2010-05-31T13:22:32+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15107007141"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15177413033",
+      "contentHtml": "<p>World: what would be list of readable books for  a web designer/developer&#x27;s book club?  Particularly things you can read cover to cover.</p>",
+      "contentText": "World: what would be list of readable books for  a web designer/developer's book club?  Particularly things you can read cover to cover.",
+      "date": "2010-06-01T13:23:32+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15177413033"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15288712374",
+      "contentHtml": "<p>#fxcop  gripes about my incomplete code (stubs, etc)  I don&#x27;t want to permanently ignore these but I can&#x27;t work on them for months from now!</p>",
+      "contentText": "#fxcop  gripes about my incomplete code (stubs, etc)  I don't want to permanently ignore these but I can't work on them for months from now!",
+      "date": "2010-06-03T00:44:14+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15288712374",
+      "tags": [
+        "fxcop"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15356072272",
+      "contentHtml": "<p>#SQL logical deletes are industrial sabatoge.</p>",
+      "contentText": "#SQL logical deletes are industrial sabatoge.",
+      "date": "2010-06-03T22:33:49+00:00",
+      "language": "ca",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15356072272",
+      "tags": [
+        "SQL"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15636702622",
+      "contentHtml": "<p>Need to move to brazil to enter this contest: &quot;Eu sou dev ultimate&quot; <a href=\"http://migre.me/Mr17\" rel=\"nofollow noopener\">http://migre.me/Mr17</a> #VS2010</p>",
+      "contentText": "Need to move to brazil to enter this contest: \"Eu sou dev ultimate\" http://migre.me/Mr17 #VS2010",
+      "date": "2010-06-07T15:27:41+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15636702622",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15717194402",
+      "contentHtml": "<p>#kindle &quot;optimized for large screens&quot; means:We don&#x27;t give a flying $*^ how this looks in ebook format-we&#x27;re using the same file as for print</p>",
+      "contentText": "#kindle \"optimized for large screens\" means:We don't give a flying $*^ how this looks in ebook format-we're using the same file as for print",
+      "date": "2010-06-08T16:32:05+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15717194402",
+      "tags": [
+        "kindle"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15785514119",
+      "contentHtml": "<p>C# Why are the IO streams in .NET so unintuitive? #SystemIOIsAnnoying</p>",
+      "contentText": "C# Why are the IO streams in .NET so unintuitive? #SystemIOIsAnnoying",
+      "date": "2010-06-09T14:46:46+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15785514119",
+      "tags": [
+        "SystemIOIsAnnoying"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15804457097",
+      "contentHtml": "<p>Just discovered bitly.  This is like google analytics for twitter.  I wish <a href=\"http://bit.ly/b4gAJ2\" rel=\"nofollow noopener\">http://bit.ly/b4gAJ2</a> twitalizer worked more often though.</p>",
+      "contentText": "Just discovered bitly.  This is like google analytics for twitter.  I wish http://bit.ly/b4gAJ2 twitalizer worked more often though.",
+      "date": "2010-06-09T22:02:55+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15804457097"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15805353819",
+      "contentHtml": "<p>twitter goes over capacity, but the &quot;is twitter up page&quot; says twitter is up.  Maybe for *someone*</p>",
+      "contentText": "twitter goes over capacity, but the \"is twitter up page\" says twitter is up.  Maybe for *someone*",
+      "date": "2010-06-09T22:23:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15805353819"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15866913775",
+      "contentHtml": "<p>Deleted flags/active flag columns in relational databases (aka logical deletes) is industrial sabotage.  When will prosecute it as such?</p>",
+      "contentText": "Deleted flags/active flag columns in relational databases (aka logical deletes) is industrial sabotage.  When will prosecute it as such?",
+      "date": "2010-06-10T17:49:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15866913775"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15867854071",
+      "contentHtml": "<p>History, Archive tables shouldn&#x27;t have any foreign key relations at all.They represent business rules of the past, not compatible with today</p>",
+      "contentText": "History, Archive tables shouldn't have any foreign key relations at all.They represent business rules of the past, not compatible with today",
+      "date": "2010-06-10T18:05:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15867854071"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15878672665",
+      "contentHtml": "<p>Soft Deletes are Bad, Okay? <a href=\"http://bit.ly/aBxuRf\" rel=\"nofollow noopener\">http://bit.ly/aBxuRf</a></p>",
+      "contentText": "Soft Deletes are Bad, Okay? http://bit.ly/aBxuRf",
+      "date": "2010-06-10T21:08:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15878672665"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15920688323",
+      "contentHtml": "<p>Logical deletes are a sign of laziness. Cascading deletes takes many lines of code and preserves RI. Logical Deletes take 1 and destroy RI.</p>",
+      "contentText": "Logical deletes are a sign of laziness. Cascading deletes takes many lines of code and preserves RI. Logical Deletes take 1 and destroy RI.",
+      "date": "2010-06-11T11:16:05+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15920688323"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15926639958",
+      "contentHtml": "<p>#vs2010 #rocks What else are you going to use, notepad?</p>",
+      "contentText": "#vs2010 #rocks What else are you going to use, notepad?",
+      "date": "2010-06-11T13:09:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15926639958",
+      "tags": [
+        "rocks",
+        "vs2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15929425787",
+      "contentHtml": "<p>#SQL Denormalized schemas thwart efforts to generate sample data.</p>",
+      "contentText": "#SQL Denormalized schemas thwart efforts to generate sample data.",
+      "date": "2010-06-11T13:52:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15929425787",
+      "tags": [
+        "SQL"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15944386753",
+      "contentHtml": "<p>#angelspit is good music for software development for some reason. <a href=\"http://bit.ly/dmXmsO\" rel=\"nofollow noopener\">http://bit.ly/dmXmsO</a></p>",
+      "contentText": "#angelspit is good music for software development for some reason. http://bit.ly/dmXmsO",
+      "date": "2010-06-11T17:32:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15944386753",
+      "tags": [
+        "angelspit"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15948559615",
+      "contentHtml": "<p>#SQL If you undo a so-called soft delete do you undelete the top level row or the whole graph (i.e. everything that was previously linked)?</p>",
+      "contentText": "#SQL If you undo a so-called soft delete do you undelete the top level row or the whole graph (i.e. everything that was previously linked)?",
+      "date": "2010-06-11T18:46:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15948559615",
+      "tags": [
+        "SQL"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15952247234",
+      "contentHtml": "<p>Who #brokethebuild and what are they going to do about it?</p>",
+      "contentText": "Who #brokethebuild and what are they going to do about it?",
+      "date": "2010-06-11T19:57:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15952247234",
+      "tags": [
+        "brokethebuild"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15962889312",
+      "contentHtml": "<p>Twitter accounts generated by machines should be followed in Google Reader by RSS, not TweetDeck.  The machines can&#x27;t answer back.</p>",
+      "contentText": "Twitter accounts generated by machines should be followed in Google Reader by RSS, not TweetDeck.  The machines can't answer back.",
+      "date": "2010-06-11T23:33:06+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15962889312"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16150124135",
+      "contentHtml": "<p>Undo delete and undo edit will turn CRUD into CRUD + Archive + List Archive + Restore+Truncate Archive + Etc.  I.e. doubles the size of app</p>",
+      "contentText": "Undo delete and undo edit will turn CRUD into CRUD + Archive + List Archive + Restore+Truncate Archive + Etc.  I.e. doubles the size of app",
+      "date": "2010-06-14T14:11:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16150124135"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16150375868",
+      "contentHtml": "<p>If you have *chosen* not to use #resharper then you really need to go all the way and switch to #edlin -a better saboteur of productivity</p>",
+      "contentText": "If you have *chosen* not to use #resharper then you really need to go all the way and switch to #edlin -a better saboteur of productivity",
+      "date": "2010-06-14T14:15:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16150375868",
+      "tags": [
+        "edlin",
+        "resharper"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16168341390",
+      "contentHtml": "<p>#sql bigint isn&#x27;t big enough for a primary key.  We might run out of numbers.  How about Varchar(8000) for a primary key? 10^7999 :-)</p>",
+      "contentText": "#sql bigint isn't big enough for a primary key.  We might run out of numbers.  How about Varchar(8000) for a primary key? 10^7999 :-)",
+      "date": "2010-06-14T18:47:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16168341390",
+      "tags": [
+        "sql"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16227385618",
+      "contentHtml": "<p>Using VS2010 and #resharper. 16 projects in soln.  Resharper uses 100MB of memory.  I&#x27;d call that a bargain price to pay in memory.</p>",
+      "contentText": "Using VS2010 and #resharper. 16 projects in soln.  Resharper uses 100MB of memory.  I'd call that a bargain price to pay in memory.",
+      "date": "2010-06-15T14:14:03+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16227385618",
+      "tags": [
+        "resharper"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16235026890",
+      "contentHtml": "<p>#SQL Do you have the repeating disease? Does the Account db have the Account_Account table with Account_Account_Account_Date?</p>",
+      "contentText": "#SQL Do you have the repeating disease? Does the Account db have the Account_Account table with Account_Account_Account_Date?",
+      "date": "2010-06-15T16:05:05+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16235026890",
+      "tags": [
+        "SQL"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16250236358",
+      "contentHtml": "<p>#NDC2010 coming up.  I hope they post video like they did last year. <a href=\"http://bit.ly/cWg29g\" rel=\"nofollow noopener\">http://bit.ly/cWg29g</a></p>",
+      "contentText": "#NDC2010 coming up.  I hope they post video like they did last year. http://bit.ly/cWg29g",
+      "date": "2010-06-15T19:54:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16250236358",
+      "tags": [
+        "NDC2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16250987707",
+      "contentHtml": "<p>#1 missing feature in #VS2010 -- remove all #Region&#x27;s on keypress, on save, on check out and on check in.  #2 : electrocute culprit</p>",
+      "contentText": "#1 missing feature in #VS2010 -- remove all #Region's on keypress, on save, on check out and on check in.  #2 : electrocute culprit",
+      "date": "2010-06-15T20:03:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16250987707",
+      "tags": [
+        "Region",
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16322486696",
+      "contentHtml": "<p>#ado.net if you code against IDataRecord, the switch from DataSet to DbDataReader is almost effortless.</p>",
+      "contentText": "#ado.net if you code against IDataRecord, the switch from DataSet to DbDataReader is almost effortless.",
+      "date": "2010-06-16T17:23:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16322486696",
+      "tags": [
+        "ado"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16358879981",
+      "contentHtml": "<p>N stored procedures per table, per column isn&#x27;t a pattern that scales as N increases and # of developers stays the same.</p>",
+      "contentText": "N stored procedures per table, per column isn't a pattern that scales as N increases and # of developers stays the same.",
+      "date": "2010-06-17T03:21:50+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16358879981"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16397109875",
+      "contentHtml": "<p>Stop! In the name of code, Before you break the build! <a href=\"http://bit.ly/95SPil\" rel=\"nofollow noopener\">http://bit.ly/95SPil</a></p>",
+      "contentText": "Stop! In the name of code, Before you break the build! http://bit.ly/95SPil",
+      "date": "2010-06-17T15:29:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16397109875"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16403156229",
+      "contentHtml": "<p>Code maintenance means deleting comments that are just plain wrong.</p>",
+      "contentText": "Code maintenance means deleting comments that are just plain wrong.",
+      "date": "2010-06-17T17:02:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16403156229"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16413319696",
+      "contentHtml": "<p>It</p>",
+      "contentText": "It",
+      "date": "2010-06-17T19:56:36+00:00",
+      "language": "qst",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16413319696"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16413375617",
+      "contentHtml": "<p>Out of control process  destroys IT resources just as effectively as cowboy coding.</p>",
+      "contentText": "Out of control process  destroys IT resources just as effectively as cowboy coding.",
+      "date": "2010-06-17T19:57:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16413375617"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16463327690",
+      "contentHtml": "<p>I&#x27;m awake.  Big plans for programming, watching #NDC shows today.</p>",
+      "contentText": "I'm awake.  Big plans for programming, watching #NDC shows today.",
+      "date": "2010-06-18T11:37:34+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16463327690",
+      "tags": [
+        "NDC"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16473668185",
+      "contentHtml": "<p>Even if you think fixing compiler warning is a waste of time, you should because they create noise in the compiler output.</p>",
+      "contentText": "Even if you think fixing compiler warning is a waste of time, you should because they create noise in the compiler output.",
+      "date": "2010-06-18T14:22:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16473668185"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16584614116",
+      "contentHtml": "<p>The Dell Latitude D830 has one flimsy keyboard.</p>",
+      "contentText": "The Dell Latitude D830 has one flimsy keyboard.",
+      "date": "2010-06-20T01:51:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16584614116"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16624403317",
+      "contentHtml": "<p>Stack Exchange Q&amp;A site proposal: Web Applications <a href=\"http://bit.ly/a6vPm8\" rel=\"nofollow noopener\">http://bit.ly/a6vPm8</a>  Questions for twitter and other sites</p>",
+      "contentText": "Stack Exchange Q&A site proposal: Web Applications http://bit.ly/a6vPm8  Questions for twitter and other sites",
+      "date": "2010-06-20T15:27:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16624403317"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16696407344",
+      "contentHtml": "<p>How can I programmatically check (parse) the validity of a TSQL statement? <a href=\"http://bit.ly/bh3QNY\" rel=\"nofollow noopener\">http://bit.ly/bh3QNY</a></p>",
+      "contentText": "How can I programmatically check (parse) the validity of a TSQL statement? http://bit.ly/bh3QNY",
+      "date": "2010-06-21T14:09:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16696407344"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16703379330",
+      "contentHtml": "<p>I want a website that tells me where secutil.exe is, and all those other command line tools.  But I don&#x27;t want an indexer running all t time</p>",
+      "contentText": "I want a website that tells me where secutil.exe is, and all those other command line tools.  But I don't want an indexer running all t time",
+      "date": "2010-06-21T15:59:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16703379330"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16722530638",
+      "contentHtml": "<p>My #NDC2010 downloads are at 50%.  Tomorrow I&#x27;ll be virtually at NDC.</p>",
+      "contentText": "My #NDC2010 downloads are at 50%.  Tomorrow I'll be virtually at NDC.",
+      "date": "2010-06-21T21:26:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16722530638",
+      "tags": [
+        "NDC2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16737659003",
+      "contentHtml": "<p>A mob of programers can answer programming questions, but not always think up good Q &amp; A website ideas: <a href=\"http://bit.ly/9ExN13\" rel=\"nofollow noopener\">http://bit.ly/9ExN13</a></p>",
+      "contentText": "A mob of programers can answer programming questions, but not always think up good Q & A website ideas: http://bit.ly/9ExN13",
+      "date": "2010-06-22T01:50:16+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16737659003"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16766243088",
+      "contentHtml": "<p>How do I get email or RSS updates from a facebook fan page?</p>",
+      "contentText": "How do I get email or RSS updates from a facebook fan page?",
+      "date": "2010-06-22T11:50:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16766243088"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16778152477",
+      "contentHtml": "<p>it would be nice if #resharper gave a warning as the process reaches about 600MB of memory usage because that is usually where it crashes</p>",
+      "contentText": "it would be nice if #resharper gave a warning as the process reaches about 600MB of memory usage because that is usually where it crashes",
+      "date": "2010-06-22T15:15:38+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16778152477",
+      "tags": [
+        "resharper"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16784355052",
+      "contentHtml": "<p>It so freeing to have code under unit tests.  I can now change code fearlessly! I can run with scissors!</p>",
+      "contentText": "It so freeing to have code under unit tests.  I can now change code fearlessly! I can run with scissors!",
+      "date": "2010-06-22T16:59:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16784355052"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16842995309",
+      "contentHtml": "<p>I have a new account on twitter for twittering in Esperanto @MateoMartino <a href=\"http://bit.ly/993ql3\" rel=\"nofollow noopener\">http://bit.ly/993ql3</a>  Do you twitter in many languages ion 1 acct?</p>",
+      "contentText": "I have a new account on twitter for twittering in Esperanto @MateoMartino http://bit.ly/993ql3  Do you twitter in many languages ion 1 acct?",
+      "date": "2010-06-23T11:27:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16842995309"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16869836581",
+      "contentHtml": "<p>Improved form validation messages: <a href=\"http://bit.ly/ao2fLf\" rel=\"nofollow noopener\">http://bit.ly/ao2fLf</a></p>",
+      "contentText": "Improved form validation messages: http://bit.ly/ao2fLf",
+      "date": "2010-06-23T18:57:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16869836581"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16875117673",
+      "contentHtml": "<p>Programming on a team without source control is like... ? [Not my situation today, but I remember the days when]</p>",
+      "contentText": "Programming on a team without source control is like... ? [Not my situation today, but I remember the days when]",
+      "date": "2010-06-23T20:27:11+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16875117673"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16875365609",
+      "contentHtml": "<p>#threadedConvosHellNaw  #01f94b6e414249c2ae95137976a119eb  Can&#x27;t twitter clients give us IDs?  Guids aren&#x27;t in shortage</p>",
+      "contentText": "#threadedConvosHellNaw  #01f94b6e414249c2ae95137976a119eb  Can't twitter clients give us IDs?  Guids aren't in shortage",
+      "date": "2010-06-23T20:31:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16875365609",
+      "tags": [
+        "01f94b6e414249c2ae95137976a119eb",
+        "threadedConvosHellNaw"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16922747155",
+      "contentHtml": "<p>So #this is a local hash tag and ##this is a global hashtag?  (SQL Server-Twitter joke)</p>",
+      "contentText": "So #this is a local hash tag and ##this is a global hashtag?  (SQL Server-Twitter joke)",
+      "date": "2010-06-24T11:37:42+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16922747155",
+      "tags": [
+        "this"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16922849755",
+      "contentHtml": "<p>#tweetdeck A boatload of languages (Russian, Japanese) appear as punctuation only in Tweetdeck.  Why and how can I fix it?</p>",
+      "contentText": "#tweetdeck A boatload of languages (Russian, Japanese) appear as punctuation only in Tweetdeck.  Why and how can I fix it?",
+      "date": "2010-06-24T11:39:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16922849755",
+      "tags": [
+        "tweetdeck"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16960190785",
+      "contentHtml": "<p>Only 14 people can close a proposal on #area51 Not enough at all. <a href=\"http://bit.ly/9yKunt\" rel=\"nofollow noopener\">http://bit.ly/9yKunt</a></p>",
+      "contentText": "Only 14 people can close a proposal on #area51 Not enough at all. http://bit.ly/9yKunt",
+      "date": "2010-06-24T20:44:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16960190785",
+      "tags": [
+        "area51"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17055250028",
+      "contentHtml": "<p>I going to watch some #ndc2010 videos for rest and relaxation.  Then I&#x27;ll pretend my beer is a Dahls Ingefærøl.</p>",
+      "contentText": "I going to watch some #ndc2010 videos for rest and relaxation.  Then I'll pretend my beer is a Dahls Ingefærøl.",
+      "date": "2010-06-26T00:45:13+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17055250028",
+      "tags": [
+        "ndc2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17089735612",
+      "contentHtml": "<p>Finished watching ASP.NET caching the NDC video by @gillcleeren <a href=\"http://bit.ly/9ecMP4\" rel=\"nofollow noopener\">http://bit.ly/9ecMP4</a> Well worth my hour to watch it.</p>",
+      "contentText": "Finished watching ASP.NET caching the NDC video by @gillcleeren http://bit.ly/9ecMP4 Well worth my hour to watch it.",
+      "date": "2010-06-26T13:04:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17089735612"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17098019699",
+      "contentHtml": "<p>Sql Developers fish for char and varchar. <a href=\"http://bit.ly/bKxASS\" rel=\"nofollow noopener\">http://bit.ly/bKxASS</a></p>",
+      "contentText": "Sql Developers fish for char and varchar. http://bit.ly/bKxASS",
+      "date": "2010-06-26T15:22:52+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17098019699"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17203178594",
+      "contentHtml": "<p>Finished watching Chris Sells at #NDC2010 <a href=\"http://bit.ly/doU12f\" rel=\"nofollow noopener\">http://bit.ly/doU12f</a> discuss a website he wrote- Cake Bites : <a href=\"http://bit.ly/d7MYzt\" rel=\"nofollow noopener\">http://bit.ly/d7MYzt</a></p>",
+      "contentText": "Finished watching Chris Sells at #NDC2010 http://bit.ly/doU12f discuss a website he wrote- Cake Bites : http://bit.ly/d7MYzt",
+      "date": "2010-06-27T23:40:03+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17203178594",
+      "tags": [
+        "NDC2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17262685985",
+      "contentHtml": "<p>I&#x27;d like to refinance my project&#x27;s technical debt.  Can you recommend a banker for that?</p>",
+      "contentText": "I'd like to refinance my project's technical debt.  Can you recommend a banker for that?",
+      "date": "2010-06-28T16:23:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17262685985"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17349327256",
+      "contentHtml": "<p>IIS Express?  This is damn interesting.  Pity it hasn&#x27;t shipped yet.  <a href=\"http://bit.ly/d03IYc\" rel=\"nofollow noopener\">http://bit.ly/d03IYc</a></p>",
+      "contentText": "IIS Express?  This is damn interesting.  Pity it hasn't shipped yet.  http://bit.ly/d03IYc",
+      "date": "2010-06-29T17:14:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17349327256"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17353527432",
+      "contentHtml": "<p>362 unit tests and I need MOAR! NOM NOM NOM.  Do you unit test your LOLCODE?</p>",
+      "contentText": "362 unit tests and I need MOAR! NOM NOM NOM.  Do you unit test your LOLCODE?",
+      "date": "2010-06-29T18:21:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17353527432"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17410683288",
+      "contentHtml": "<p>#kindle on the android.  Get it now.  <a href=\"http://amzn.to/cEcV2A\" rel=\"nofollow noopener\">http://amzn.to/cEcV2A</a></p>",
+      "contentText": "#kindle on the android.  Get it now.  http://amzn.to/cEcV2A",
+      "date": "2010-06-30T12:33:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17410683288",
+      "tags": [
+        "kindle"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17411434066",
+      "contentHtml": "<p>We have stopped using #VSS in our own projects, but we have a duty to humanity to continue to complain about it.</p>",
+      "contentText": "We have stopped using #VSS in our own projects, but we have a duty to humanity to continue to complain about it.",
+      "date": "2010-06-30T12:46:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17411434066",
+      "tags": [
+        "VSS"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17432666639",
+      "contentHtml": "<p>The web apps @stackexchagne seems to be stuck at 90%  <a href=\"http://bit.ly/9BKEXD\" rel=\"nofollow noopener\">http://bit.ly/9BKEXD</a>  what&#x27;s up with that?</p>",
+      "contentText": "The web apps @stackexchagne seems to be stuck at 90%  http://bit.ly/9BKEXD  what's up with that?",
+      "date": "2010-06-30T18:17:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17432666639"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17521865952",
+      "contentHtml": "<p>The hivemind on stackoverflow was wrong.If you&#x27;re replacing DataTable,use Dictionary&lt;T,T&gt; because it understands primary keys.List doesn&#x27;t</p>",
+      "contentText": "The hivemind on stackoverflow was wrong.If you're replacing DataTable,use Dictionary<T,T> because it understands primary keys.List doesn't",
+      "date": "2010-07-01T21:31:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17521865952"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17589282446",
+      "contentHtml": "<p>I got a raise!  See me July 1st, 2010 for free beer.</p>",
+      "contentText": "I got a raise!  See me July 1st, 2010 for free beer.",
+      "date": "2010-07-02T18:02:02+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17589282446"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17593886199",
+      "contentHtml": "<p>In ASP.NET trace pageOutput=&quot;true&quot; will make your pages fail XHTML validation.  Sigh.  If you ignore standards, why not ignore it all?</p>",
+      "contentText": "In ASP.NET trace pageOutput=\"true\" will make your pages fail XHTML validation.  Sigh.  If you ignore standards, why not ignore it all?",
+      "date": "2010-07-02T19:17:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17593886199"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17719489490",
+      "contentHtml": "<p>I&#x27;ve hooked my stackoverflow.com feed into this account. I wish it was made for twitter feed, but it is just the truncated titles RSS feed.</p>",
+      "contentText": "I've hooked my stackoverflow.com feed into this account. I wish it was made for twitter feed, but it is just the truncated titles RSS feed.",
+      "date": "2010-07-04T13:14:56+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17719489490"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17719544998",
+      "contentHtml": "<p>How to detect stray attributes in ASP.NET tags?: I&#x27;m doing XHTML validation of my asp websites. However, if I have... <a href=\"http://bit.ly/cCJU01\" rel=\"nofollow noopener\">http://bit.ly/cCJU01</a></p>",
+      "contentText": "How to detect stray attributes in ASP.NET tags?: I'm doing XHTML validation of my asp websites. However, if I have... http://bit.ly/cCJU01",
+      "date": "2010-07-04T13:16:01+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17719544998"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17721103746",
+      "contentHtml": "<p>How do I import an iCal feed to twitter on an as it happens basis?: I have an account on twitter that I use for sa... <a href=\"http://bit.ly/dkuqSe\" rel=\"nofollow noopener\">http://bit.ly/dkuqSe</a></p>",
+      "contentText": "How do I import an iCal feed to twitter on an as it happens basis?: I have an account on twitter that I use for sa... http://bit.ly/dkuqSe",
+      "date": "2010-07-04T13:46:06+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17721103746"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17722763104",
+      "contentHtml": "<p>Answer by MatthewMartin for Can&#x27;t send email on AOL at work: Some possibilities<br>\n<br>\nPort blocked <br>\nDomain is blocked<br>\nR... <a href=\"http://bit.ly/9UVgTw\" rel=\"nofollow noopener\">http://bit.ly/9UVgTw</a></p>",
+      "contentText": "Answer by MatthewMartin for Can't send email on AOL at work: Some possibilities\n\nPort blocked \nDomain is blocked\nR... http://bit.ly/9UVgTw",
+      "date": "2010-07-04T14:15:46+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17722763104"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17722815655",
+      "contentHtml": "<p>Oh boy.  These users feeds from stack over flow is more than just my questions.  How do I filter an RSS feed?</p>",
+      "contentText": "Oh boy.  These users feeds from stack over flow is more than just my questions.  How do I filter an RSS feed?",
+      "date": "2010-07-04T14:16:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17722815655"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17724573687",
+      "contentHtml": "<p>A build server for home: I’ve got a WHS.  So I just finished installing:<br>\nSubversion vs VisualSVN.  Used AnkhSVN an... <a href=\"http://bit.ly/doKgKr\" rel=\"nofollow noopener\">http://bit.ly/doKgKr</a></p>",
+      "contentText": "A build server for home: I’ve got a WHS.  So I just finished installing:\nSubversion vs VisualSVN.  Used AnkhSVN an... http://bit.ly/doKgKr",
+      "date": "2010-07-04T14:46:13+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17724573687"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17727579358",
+      "contentHtml": "<p>Installing #VS2010 Ultimate ... trial edition. I will be so sad in 90 days when it expires.</p>",
+      "contentText": "Installing #VS2010 Ultimate ... trial edition. I will be so sad in 90 days when it expires.",
+      "date": "2010-07-04T15:34:28+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17727579358",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17739510585",
+      "contentHtml": "<p>While installing #VS2010 ultimate my laptop crashed and rebooted. Maybe related?</p>",
+      "contentText": "While installing #VS2010 ultimate my laptop crashed and rebooted. Maybe related?",
+      "date": "2010-07-04T19:17:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17739510585",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17743144895",
+      "contentHtml": "<p>Now we await the day when every stackoverflow tag becomes a stack exchange site.  And each variation on each tag has it&#x27;s own site.  Weee.</p>",
+      "contentText": "Now we await the day when every stackoverflow tag becomes a stack exchange site.  And each variation on each tag has it's own site.  Weee.",
+      "date": "2010-07-04T20:41:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17743144895"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17882192569",
+      "contentHtml": "<p>Extreme programming: running unit tests in an infinite loop : <a href=\"http://bit.ly/dc9l6c\" rel=\"nofollow noopener\">http://bit.ly/dc9l6c</a> Ok, maybe not a good idea, need to drop file locks on ddl</p>",
+      "contentText": "Extreme programming: running unit tests in an infinite loop : http://bit.ly/dc9l6c Ok, maybe not a good idea, need to drop file locks on ddl",
+      "date": "2010-07-06T17:14:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17882192569"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17947821822",
+      "contentHtml": "<p>#NDC #NDC2010 1.2 jiggabytes of software development wisdom : <a href=\"http://bit.ly/c8PfkQ\" rel=\"nofollow noopener\">http://bit.ly/c8PfkQ</a></p>",
+      "contentText": "#NDC #NDC2010 1.2 jiggabytes of software development wisdom : http://bit.ly/c8PfkQ",
+      "date": "2010-07-07T13:17:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17947821822",
+      "tags": [
+        "NDC",
+        "NDC2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17954184508",
+      "contentHtml": "<p>#VS2010 #region #endregion is !@#%^ evil.The solution is easy, remove them all,the pro-region faction won&#x27;t have the time to replace them.</p>",
+      "contentText": "#VS2010 #region #endregion is !@#%^ evil.The solution is easy, remove them all,the pro-region faction won't have the time to replace them.",
+      "date": "2010-07-07T14:48:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17954184508",
+      "tags": [
+        "endregion",
+        "region",
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17954947591",
+      "contentHtml": "<p>#resharper feature wishes: Convert #region to class refactoring.  Also, auto correct #region #endregion by replacing with blank line.</p>",
+      "contentText": "#resharper feature wishes: Convert #region to class refactoring.  Also, auto correct #region #endregion by replacing with blank line.",
+      "date": "2010-07-07T14:59:28+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17954947591",
+      "tags": [
+        "endregion",
+        "region",
+        "resharper"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17955277299",
+      "contentHtml": "<p>Comment by MatthewMartin on Bypass Corporate Firewall for IM: This technique often works. <a href=\"http://bit.ly/bWy6jL\" rel=\"nofollow noopener\">http://bit.ly/bWy6jL</a></p>",
+      "contentText": "Comment by MatthewMartin on Bypass Corporate Firewall for IM: This technique often works. http://bit.ly/bWy6jL",
+      "date": "2010-07-07T15:03:46+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17955277299"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17968765598",
+      "contentHtml": "<p>Namespaces aren&#x27;t long enough. We need Mutliverse.Universe.Galaxy.SolarSystem.Corporation.Department.Team.Project.Phase (to be continued)</p>",
+      "contentText": "Namespaces aren't long enough. We need Mutliverse.Universe.Galaxy.SolarSystem.Corporation.Department.Team.Project.Phase (to be continued)",
+      "date": "2010-07-07T18:15:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17968765598"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18045033426",
+      "contentHtml": "<p>Comment by MatthewMartin on What would you consider a decent spec for a developer desktop?: This is a hardware que... <a href=\"http://bit.ly/aRZD2u\" rel=\"nofollow noopener\">http://bit.ly/aRZD2u</a></p>",
+      "contentText": "Comment by MatthewMartin on What would you consider a decent spec for a developer desktop?: This is a hardware que... http://bit.ly/aRZD2u",
+      "date": "2010-07-08T16:07:19+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18045033426"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18061226173",
+      "contentHtml": "<p>Answer by MatthewMartin for Ripping CDs to MP3 Format using iTunes: Yes and you&#x27;ll get a better answer if you repo... <a href=\"http://bit.ly/bcj21w\" rel=\"nofollow noopener\">http://bit.ly/bcj21w</a></p>",
+      "contentText": "Answer by MatthewMartin for Ripping CDs to MP3 Format using iTunes: Yes and you'll get a better answer if you repo... http://bit.ly/bcj21w",
+      "date": "2010-07-08T20:34:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18061226173"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18064023895",
+      "contentHtml": "<p>DBCC execution completed. If DBCC printed error messages, contact your someone smarter than you.</p>",
+      "contentText": "DBCC execution completed. If DBCC printed error messages, contact your someone smarter than you.",
+      "date": "2010-07-08T21:28:26+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18064023895"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18123214596",
+      "contentHtml": "<p>Upgraded from SQL2000 to SQL2005, ran reindex, and performance cratered (may not be related to reindexing). What is going on?</p>",
+      "contentText": "Upgraded from SQL2000 to SQL2005, ran reindex, and performance cratered (may not be related to reindexing). What is going on?",
+      "date": "2010-07-09T14:43:38+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18123214596"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18193421373",
+      "contentHtml": "<p>Is there an https everywhere add on for chrome, MSIE or safari?: I really like this https everywhere add on for Fi... <a href=\"http://bit.ly/da6v5t\" rel=\"nofollow noopener\">http://bit.ly/da6v5t</a></p>",
+      "contentText": "Is there an https everywhere add on for chrome, MSIE or safari?: I really like this https everywhere add on for Fi... http://bit.ly/da6v5t",
+      "date": "2010-07-10T12:33:36+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18193421373"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18210027913",
+      "contentHtml": "<p>Answer by MatthewMartin for Do you monitor referers to your websites?: Anything that you watch that spammers can a... <a href=\"http://bit.ly/93PmR2\" rel=\"nofollow noopener\">http://bit.ly/93PmR2</a></p>",
+      "contentText": "Answer by MatthewMartin for Do you monitor referers to your websites?: Anything that you watch that spammers can a... http://bit.ly/93PmR2",
+      "date": "2010-07-10T17:14:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18210027913"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18287908115",
+      "contentHtml": "<p>Just watched a MIX Video: <a href=\"http://is.gd/aVXwz\" rel=\"nofollow noopener\">http://is.gd/aVXwz</a> Hanselman using MVC to create XHTML for real, (instead of a webforms half hearted promise)</p>",
+      "contentText": "Just watched a MIX Video: http://is.gd/aVXwz Hanselman using MVC to create XHTML for real, (instead of a webforms half hearted promise)",
+      "date": "2010-07-11T17:58:33+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18287908115"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18350109719",
+      "contentHtml": "<p>How can I scrub the entire internet from an accidental content publishing?: If I post an image or html page with c... <a href=\"http://bit.ly/9mtA4z\" rel=\"nofollow noopener\">http://bit.ly/9mtA4z</a></p>",
+      "contentText": "How can I scrub the entire internet from an accidental content publishing?: If I post an image or html page with c... http://bit.ly/9mtA4z",
+      "date": "2010-07-12T12:21:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18350109719"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18350761887",
+      "contentHtml": "<p>How do I automatically move artifacts from Team City to virtual directories?: Team city publishes its artifacts to... <a href=\"http://bit.ly/aVE16f\" rel=\"nofollow noopener\">http://bit.ly/aVE16f</a></p>",
+      "contentText": "How do I automatically move artifacts from Team City to virtual directories?: Team city publishes its artifacts to... http://bit.ly/aVE16f",
+      "date": "2010-07-12T12:33:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18350761887"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18353730775",
+      "contentHtml": "<p>Comment by MatthewMartin on How can I scrub the entire internet from an accidental content publishing?: The part a... <a href=\"http://bit.ly/964qlJ\" rel=\"nofollow noopener\">http://bit.ly/964qlJ</a></p>",
+      "contentText": "Comment by MatthewMartin on How can I scrub the entire internet from an accidental content publishing?: The part a... http://bit.ly/964qlJ",
+      "date": "2010-07-12T13:22:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18353730775"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18359610464",
+      "contentHtml": "<p>In a nationwide survey the most common reason for shut down according to the Shutdown Event Tracker in Windows 2003 is asfdasdfadf</p>",
+      "contentText": "In a nationwide survey the most common reason for shut down according to the Shutdown Event Tracker in Windows 2003 is asfdasdfadf",
+      "date": "2010-07-12T14:51:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18359610464"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18378614601",
+      "contentHtml": "<p>#MSDN Essentials registration form is MSIE only and it doesn&#x27;t warn.  &quot;Best viewed in IE 6, or Netscape 2.0!&quot;</p>",
+      "contentText": "#MSDN Essentials registration form is MSIE only and it doesn't warn.  \"Best viewed in IE 6, or Netscape 2.0!\"",
+      "date": "2010-07-12T20:01:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18378614601",
+      "tags": [
+        "MSDN"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18441391126",
+      "contentHtml": "<p>Programming without resharper is industrial sabotage. A work slow down just short of going on strike.</p>",
+      "contentText": "Programming without resharper is industrial sabotage. A work slow down just short of going on strike.",
+      "date": "2010-07-13T14:35:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18441391126"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18460260679",
+      "contentHtml": "<p>Answer by MatthewMartin for How can I throttle an over talkative person I&#x27;m following on Twitter without unfollowi... <a href=\"http://bit.ly/d7APc0\" rel=\"nofollow noopener\">http://bit.ly/d7APc0</a></p>",
+      "contentText": "Answer by MatthewMartin for How can I throttle an over talkative person I'm following on Twitter without unfollowi... http://bit.ly/d7APc0",
+      "date": "2010-07-13T19:21:56+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18460260679"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18517727462",
+      "contentHtml": "<p>Anybody here read #scifi ? Follow the Q&amp;A website proposal on stackexchange <a href=\"http://bit.ly/cyKFZa\" rel=\"nofollow noopener\">http://bit.ly/cyKFZa</a></p>",
+      "contentText": "Anybody here read #scifi ? Follow the Q&A website proposal on stackexchange http://bit.ly/cyKFZa",
+      "date": "2010-07-14T13:06:29+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18517727462",
+      "tags": [
+        "scifi"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18517803419",
+      "contentHtml": "<p>Assert.AreEqual(morningSmell,unitTests);  #tdd</p>",
+      "contentText": "Assert.AreEqual(morningSmell,unitTests);  #tdd",
+      "date": "2010-07-14T13:07:42+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18517803419",
+      "tags": [
+        "tdd"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18518956619",
+      "contentHtml": "<p>New book by O&#x27;Really about the #SDLC and #RFC&#x27;s <a href=\"http://bit.ly/9cexPt\" rel=\"nofollow noopener\">http://bit.ly/9cexPt</a></p>",
+      "contentText": "New book by O'Really about the #SDLC and #RFC's http://bit.ly/9cexPt",
+      "date": "2010-07-14T13:26:00+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18518956619",
+      "tags": [
+        "RFC",
+        "SDLC"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18537050991",
+      "contentHtml": "<p>Comment by MatthewMartin on how can access gmail from work?: @gsharp You can change the listening port for RDP sup... <a href=\"http://bit.ly/axD61S\" rel=\"nofollow noopener\">http://bit.ly/axD61S</a></p>",
+      "contentText": "Comment by MatthewMartin on how can access gmail from work?: @gsharp You can change the listening port for RDP sup... http://bit.ly/axD61S",
+      "date": "2010-07-14T17:48:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18537050991"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18541468614",
+      "contentHtml": "<p>#VS2010 isn&#x27;t giving me brace matching for javascript files.  What is up with that?</p>",
+      "contentText": "#VS2010 isn't giving me brace matching for javascript files.  What is up with that?",
+      "date": "2010-07-14T19:01:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18541468614",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18598642685",
+      "contentHtml": "<p>Answer by MatthewMartin for SQL Server Table Names Containing Leading &#x27;__&#x27; Characters.: If you got look at the tab... <a href=\"http://bit.ly/cUMkCK\" rel=\"nofollow noopener\">http://bit.ly/cUMkCK</a></p>",
+      "contentText": "Answer by MatthewMartin for SQL Server Table Names Containing Leading '__' Characters.: If you got look at the tab... http://bit.ly/cUMkCK",
+      "date": "2010-07-15T12:37:13+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18598642685"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18606821473",
+      "contentHtml": "<p>Answer by MatthewMartin for Deploying to remote server using msbuild in teamcity: I&#x27;m working on the same issue, t... <a href=\"http://bit.ly/8Y2V5I\" rel=\"nofollow noopener\">http://bit.ly/8Y2V5I</a></p>",
+      "contentText": "Answer by MatthewMartin for Deploying to remote server using msbuild in teamcity: I'm working on the same issue, t... http://bit.ly/8Y2V5I",
+      "date": "2010-07-15T14:38:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18606821473"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18611268514",
+      "contentHtml": "<p>Answer by MatthewMartin for Unable to access/find TeamCity localhost page: TeamCity is a java web app running on T... <a href=\"http://bit.ly/crAIhq\" rel=\"nofollow noopener\">http://bit.ly/crAIhq</a></p>",
+      "contentText": "Answer by MatthewMartin for Unable to access/find TeamCity localhost page: TeamCity is a java web app running on T... http://bit.ly/crAIhq",
+      "date": "2010-07-15T15:40:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18611268514"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18623180156",
+      "contentHtml": "<p>Comment by MatthewMartin on Statistical Proof of Music&#x27;s Effect on a Developer: Obviously my answer implies quiet ... <a href=\"http://bit.ly/927GvS\" rel=\"nofollow noopener\">http://bit.ly/927GvS</a></p>",
+      "contentText": "Comment by MatthewMartin on Statistical Proof of Music's Effect on a Developer: Obviously my answer implies quiet ... http://bit.ly/927GvS",
+      "date": "2010-07-15T18:44:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18623180156"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18637062819",
+      "contentHtml": "<p>Answer by MatthewMartin for Using REST webservices for ETL / Datawarehousing: ETL is all about inserting rows into... <a href=\"http://bit.ly/cWNdHE\" rel=\"nofollow noopener\">http://bit.ly/cWNdHE</a></p>",
+      "contentText": "Answer by MatthewMartin for Using REST webservices for ETL / Datawarehousing: ETL is all about inserting rows into... http://bit.ly/cWNdHE",
+      "date": "2010-07-15T22:47:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18637062819"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18687578326",
+      "contentHtml": "<p>Answer by MatthewMartin for How do you work on the uninteresting problems?: It is your job not only to automate th... <a href=\"http://bit.ly/9xBIrX\" rel=\"nofollow noopener\">http://bit.ly/9xBIrX</a></p>",
+      "contentText": "Answer by MatthewMartin for How do you work on the uninteresting problems?: It is your job not only to automate th... http://bit.ly/9xBIrX",
+      "date": "2010-07-16T13:59:47+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18687578326"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18690451321",
+      "contentHtml": "<p>In government, you are writing a line of business application that might be around 100 years. WW2 database schemas are still in use.</p>",
+      "contentText": "In government, you are writing a line of business application that might be around 100 years. WW2 database schemas are still in use.",
+      "date": "2010-07-16T14:37:28+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18690451321"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18701518149",
+      "contentHtml": "<p>If you aren&#x27;t #hashing, you&#x27;re doing it #wrong.</p>",
+      "contentText": "If you aren't #hashing, you're doing it #wrong.",
+      "date": "2010-07-16T17:07:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18701518149",
+      "tags": [
+        "hashing",
+        "wrong"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18703724592",
+      "contentHtml": "<p>Writing code is like sweeping sand into the sea.  Using MS-Project for that is like putting giving each spec of sand an estimated date.</p>",
+      "contentText": "Writing code is like sweeping sand into the sea.  Using MS-Project for that is like putting giving each spec of sand an estimated date.",
+      "date": "2010-07-16T17:40:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18703724592"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18713735458",
+      "contentHtml": "<p>If I see one more C# commment of &quot;Setting properties&quot; or &quot;Invoking method&quot; I&#x27;m going to ... delete it, like I always do.</p>",
+      "contentText": "If I see one more C# commment of \"Setting properties\" or \"Invoking method\" I'm going to ... delete it, like I always do.",
+      "date": "2010-07-16T20:29:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18713735458"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18714896879",
+      "contentHtml": "<p>Requiring comments without following up on comment quality is just asking for the source code to be pooped on.</p>",
+      "contentText": "Requiring comments without following up on comment quality is just asking for the source code to be pooped on.",
+      "date": "2010-07-16T20:50:56+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18714896879"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18761332330",
+      "contentHtml": "<p>Answer by MatthewMartin for Last.fm like recommendations for books?: As noted elsewhere, Amazon does a good job.  ... <a href=\"http://bit.ly/bl0eDw\" rel=\"nofollow noopener\">http://bit.ly/bl0eDw</a></p>",
+      "contentText": "Answer by MatthewMartin for Last.fm like recommendations for books?: As noted elsewhere, Amazon does a good job.  ... http://bit.ly/bl0eDw",
+      "date": "2010-07-17T11:55:37+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18761332330"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18782414500",
+      "contentHtml": "<p>How do I subscribe to pages that don&#x27;t support RSS?: Back before RSS became so common, I there was a site that wat... <a href=\"http://bit.ly/b6M27F\" rel=\"nofollow noopener\">http://bit.ly/b6M27F</a></p>",
+      "contentText": "How do I subscribe to pages that don't support RSS?: Back before RSS became so common, I there was a site that wat... http://bit.ly/b6M27F",
+      "date": "2010-07-17T18:00:14+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18782414500"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18937467394",
+      "contentHtml": "<p>Answer by MatthewMartin for Is a solution with hundreds of projects dangerous or just unwieldy?: It is possible th... <a href=\"http://bit.ly/cAFQEu\" rel=\"nofollow noopener\">http://bit.ly/cAFQEu</a></p>",
+      "contentText": "Answer by MatthewMartin for Is a solution with hundreds of projects dangerous or just unwieldy?: It is possible th... http://bit.ly/cAFQEu",
+      "date": "2010-07-19T19:07:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18937467394"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/18993026198",
+      "contentHtml": "<p>Comment by MatthewMartin on Detecting VSS corruption through export to SVN: The team switched to SVN.  We still ha... <a href=\"http://bit.ly/bA3ZHV\" rel=\"nofollow noopener\">http://bit.ly/bA3ZHV</a></p>",
+      "contentText": "Comment by MatthewMartin on Detecting VSS corruption through export to SVN: The team switched to SVN.  We still ha... http://bit.ly/bA3ZHV",
+      "date": "2010-07-20T13:24:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "18993026198"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19017364741",
+      "contentHtml": "<p>Answer by MatthewMartin for Multi monitor support in Visual Studio 2010: In VS2008 you could detach things like th... <a href=\"http://bit.ly/9sdY5x\" rel=\"nofollow noopener\">http://bit.ly/9sdY5x</a></p>",
+      "contentText": "Answer by MatthewMartin for Multi monitor support in Visual Studio 2010: In VS2008 you could detach things like th... http://bit.ly/9sdY5x",
+      "date": "2010-07-20T19:34:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19017364741"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19020784025",
+      "contentHtml": "<p>Static code analysis tools for finding defects in unit tests?: I&#x27;m looking for .NET static code analysis tools tha... <a href=\"http://bit.ly/9ZD2Rv\" rel=\"nofollow noopener\">http://bit.ly/9ZD2Rv</a></p>",
+      "contentText": "Static code analysis tools for finding defects in unit tests?: I'm looking for .NET static code analysis tools tha... http://bit.ly/9ZD2Rv",
+      "date": "2010-07-20T20:37:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19020784025"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19025669109",
+      "contentHtml": "<p>Anyone know if it is possible to get an RSS feed for #subversion commit comments?</p>",
+      "contentText": "Anyone know if it is possible to get an RSS feed for #subversion commit comments?",
+      "date": "2010-07-20T22:02:32+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19025669109",
+      "tags": [
+        "subversion"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19077624540",
+      "contentHtml": "<p>Comment by MatthewMartin on Static code analysis tools for finding defects in unit tests?: This is exactly what I ... <a href=\"http://bit.ly/9l9siO\" rel=\"nofollow noopener\">http://bit.ly/9l9siO</a></p>",
+      "contentText": "Comment by MatthewMartin on Static code analysis tools for finding defects in unit tests?: This is exactly what I ... http://bit.ly/9l9siO",
+      "date": "2010-07-21T13:49:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19077624540"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19094639136",
+      "contentHtml": "<p>Answer by MatthewMartin for Why use an IDE?: IDE vs Notepad<br>\nI&#x27;ve written code in lots of different IDEs and occasi... <a href=\"http://bit.ly/dCzbn2\" rel=\"nofollow noopener\">http://bit.ly/dCzbn2</a></p>",
+      "contentText": "Answer by MatthewMartin for Why use an IDE?: IDE vs Notepad\nI've written code in lots of different IDEs and occasi... http://bit.ly/dCzbn2",
+      "date": "2010-07-21T17:59:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19094639136"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19105254840",
+      "contentHtml": "<p>Answer by MatthewMartin for Configure TeamCity to follow OutputPath directives in csproj files: Are the unfound re... <a href=\"http://bit.ly/94Zq2A\" rel=\"nofollow noopener\">http://bit.ly/94Zq2A</a></p>",
+      "contentText": "Answer by MatthewMartin for Configure TeamCity to follow OutputPath directives in csproj files: Are the unfound re... http://bit.ly/94Zq2A",
+      "date": "2010-07-21T21:03:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19105254840"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19108747243",
+      "contentHtml": "<p>Answer by MatthewMartin for C#: Storing percentages, 50 or 0.50?: If you are doing a lot of math with fractions, y... <a href=\"http://bit.ly/93nMxG\" rel=\"nofollow noopener\">http://bit.ly/93nMxG</a></p>",
+      "contentText": "Answer by MatthewMartin for C#: Storing percentages, 50 or 0.50?: If you are doing a lot of math with fractions, y... http://bit.ly/93nMxG",
+      "date": "2010-07-21T22:04:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19108747243"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19253794176",
+      "contentHtml": "<p>Answer by MatthewMartin for How should I rename many Stored Procedures without breaking stuff?: I did this and I r... <a href=\"http://bit.ly/bBWMDB\" rel=\"nofollow noopener\">http://bit.ly/bBWMDB</a></p>",
+      "contentText": "Answer by MatthewMartin for How should I rename many Stored Procedures without breaking stuff?: I did this and I r... http://bit.ly/bBWMDB",
+      "date": "2010-07-22T13:19:02+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19253794176"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19257320121",
+      "contentHtml": "<p>Just look at these negative correlations between work and play on google search trends: <a href=\"http://bit.ly/b94NIa\" rel=\"nofollow noopener\">http://bit.ly/b94NIa</a></p>",
+      "contentText": "Just look at these negative correlations between work and play on google search trends: http://bit.ly/b94NIa",
+      "date": "2010-07-22T14:10:11+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19257320121"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19274551272",
+      "contentHtml": "<p>Good discussion on how to manage part time personal software dev projects <a href=\"http://bit.ly/d18mAT\" rel=\"nofollow noopener\">http://bit.ly/d18mAT</a></p>",
+      "contentText": "Good discussion on how to manage part time personal software dev projects http://bit.ly/d18mAT",
+      "date": "2010-07-22T18:25:36+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19274551272"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19278226721",
+      "contentHtml": "<p>Answer by MatthewMartin for What are the ways to improve ASP.NET website&#x27;s performance?: Eqatec <br>\n<br>\n<a href=\"http://stackover\" rel=\"nofollow noopener\">http://stackover</a>... <a href=\"http://bit.ly/98OJZy\" rel=\"nofollow noopener\">http://bit.ly/98OJZy</a></p>",
+      "contentText": "Answer by MatthewMartin for What are the ways to improve ASP.NET website's performance?: Eqatec \n\nhttp://stackover... http://bit.ly/98OJZy",
+      "date": "2010-07-22T19:29:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19278226721"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19284748492",
+      "contentHtml": "<p>Using unit testing principles to write better integration tests: My application is a database application. There i... <a href=\"http://bit.ly/bWeAIi\" rel=\"nofollow noopener\">http://bit.ly/bWeAIi</a></p>",
+      "contentText": "Using unit testing principles to write better integration tests: My application is a database application. There i... http://bit.ly/bWeAIi",
+      "date": "2010-07-22T21:24:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19284748492"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19288817915",
+      "contentHtml": "<p>Answer by MatthewMartin for Publish Multiple Projects from a single solution from TeamCity: I think that can be do... <a href=\"http://bit.ly/cn4Ukh\" rel=\"nofollow noopener\">http://bit.ly/cn4Ukh</a></p>",
+      "contentText": "Answer by MatthewMartin for Publish Multiple Projects from a single solution from TeamCity: I think that can be do... http://bit.ly/cn4Ukh",
+      "date": "2010-07-22T22:32:36+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19288817915"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19290574417",
+      "contentHtml": "<p>StackExchange couldn&#x27;t find threetoedsloths.stackexchange.com. Would you like to create it?</p>",
+      "contentText": "StackExchange couldn't find threetoedsloths.stackexchange.com. Would you like to create it?",
+      "date": "2010-07-22T23:01:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19290574417"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19340298715",
+      "contentHtml": "<p>How can I get VS2010 to use the 3.5 C# compiler instead of 4.0?: How can I get VS2010 to use the 3.5 C# compiler i... <a href=\"http://bit.ly/9TmMJT\" rel=\"nofollow noopener\">http://bit.ly/9TmMJT</a></p>",
+      "contentText": "How can I get VS2010 to use the 3.5 C# compiler instead of 4.0?: How can I get VS2010 to use the 3.5 C# compiler i... http://bit.ly/9TmMJT",
+      "date": "2010-07-23T13:45:32+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19340298715"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19344814133",
+      "contentHtml": "<p>Comment by MatthewMartin on How can I get VS2010 to use the 3.0 C# compiler instead of 4.0?: I need to throw this ... <a href=\"http://bit.ly/dz2YN3\" rel=\"nofollow noopener\">http://bit.ly/dz2YN3</a></p>",
+      "contentText": "Comment by MatthewMartin on How can I get VS2010 to use the 3.0 C# compiler instead of 4.0?: I need to throw this ... http://bit.ly/dz2YN3",
+      "date": "2010-07-23T14:48:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19344814133"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19362665573",
+      "contentHtml": "<p>Tron-- a rather good movie-- could have never happened with any basic understanding of how computers work.</p>",
+      "contentText": "Tron-- a rather good movie-- could have never happened with any basic understanding of how computers work.",
+      "date": "2010-07-23T19:18:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19362665573"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19545986205",
+      "contentHtml": "<p>Is is possible to get facebook to send me an email when someone RSVP&#x27;s to an event?: Since I don&#x27;t poll my faceboo... <a href=\"http://bit.ly/9FKfT3\" rel=\"nofollow noopener\">http://bit.ly/9FKfT3</a></p>",
+      "contentText": "Is is possible to get facebook to send me an email when someone RSVP's to an event?: Since I don't poll my faceboo... http://bit.ly/9FKfT3",
+      "date": "2010-07-26T04:09:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19545986205"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19756965372",
+      "contentHtml": "<p>Answer by MatthewMartin for Under what conditions would SELECT by PRIMARY KEY be slow?: The the row unusually larg... <a href=\"http://bit.ly/cLwkdn\" rel=\"nofollow noopener\">http://bit.ly/cLwkdn</a></p>",
+      "contentText": "Answer by MatthewMartin for Under what conditions would SELECT by PRIMARY KEY be slow?: The the row unusually larg... http://bit.ly/cLwkdn",
+      "date": "2010-07-28T17:22:28+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19756965372"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20161897679",
+      "contentHtml": "<p>Good =Find all &quot;#region&quot;, Subfolders, Find Results 0, &quot;Current Project&quot;, &quot;*.*&quot; Matching lines: 0 Matching files: 0 Total files searched: 912</p>",
+      "contentText": "Good =Find all \"#region\", Subfolders, Find Results 0, \"Current Project\", \"*.*\" Matching lines: 0 Matching files: 0 Total files searched: 912",
+      "date": "2010-08-02T19:23:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20161897679",
+      "tags": [
+        "region"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20167704673",
+      "contentHtml": "<p>Answer by MatthewMartin for Security considerations for an ASP.Net web application that will be used on a public c... <a href=\"http://bit.ly/92lX4U\" rel=\"nofollow noopener\">http://bit.ly/92lX4U</a></p>",
+      "contentText": "Answer by MatthewMartin for Security considerations for an ASP.Net web application that will be used on a public c... http://bit.ly/92lX4U",
+      "date": "2010-08-02T21:08:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20167704673"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20252710076",
+      "contentHtml": "<p>Xymon looks like fun, <a href=\"http://bit.ly/bbrnRS\" rel=\"nofollow noopener\">http://bit.ly/bbrnRS</a> it is like a free version of MS-MoM.  I probably have 20 machines at work and and home I admin.</p>",
+      "contentText": "Xymon looks like fun, http://bit.ly/bbrnRS it is like a free version of MS-MoM.  I probably have 20 machines at work and and home I admin.",
+      "date": "2010-08-03T21:51:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20252710076"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20472973745",
+      "contentHtml": "<p>Answer by MatthewMartin for OpenID Security: It is also important to consider the alternative.  It is well known t... <a href=\"http://bit.ly/bQlZu3\" rel=\"nofollow noopener\">http://bit.ly/bQlZu3</a></p>",
+      "contentText": "Answer by MatthewMartin for OpenID Security: It is also important to consider the alternative.  It is well known t... http://bit.ly/bQlZu3",
+      "date": "2010-08-06T14:27:52+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20472973745"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20481521535",
+      "contentHtml": "<p>#VisualStudio Can someone create an addon that will strip code of comments made by GhostDoc? <a href=\"http://bit.ly/cEJmat\" rel=\"nofollow noopener\">http://bit.ly/cEJmat</a></p>",
+      "contentText": "#VisualStudio Can someone create an addon that will strip code of comments made by GhostDoc? http://bit.ly/cEJmat",
+      "date": "2010-08-06T16:25:17+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20481521535",
+      "tags": [
+        "VisualStudio"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20486755637",
+      "contentHtml": "<p>Stick figure guide to AES encryption: <a href=\"http://bit.ly/aa2tjE\" rel=\"nofollow noopener\">http://bit.ly/aa2tjE</a></p>",
+      "contentText": "Stick figure guide to AES encryption: http://bit.ly/aa2tjE",
+      "date": "2010-08-06T17:42:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20486755637"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20718650823",
+      "contentHtml": "<p>Answer by MatthewMartin for Application design for 5 years: The data and data structures (often) need to be legiti... <a href=\"http://bit.ly/c2x2Pt\" rel=\"nofollow noopener\">http://bit.ly/c2x2Pt</a></p>",
+      "contentText": "Answer by MatthewMartin for Application design for 5 years: The data and data structures (often) need to be legiti... http://bit.ly/c2x2Pt",
+      "date": "2010-08-09T16:01:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20718650823"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20894522814",
+      "contentHtml": "<p>Hmm, code needs more comments. Maybe I&#x27;ll insert &quot;//this is a line of C#&quot; in between each line of the source code.</p>",
+      "contentText": "Hmm, code needs more comments. Maybe I'll insert \"//this is a line of C#\" in between each line of the source code.",
+      "date": "2010-08-11T15:30:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20894522814"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20907287531",
+      "contentHtml": "<p>Can base classes see the protected fields of derived classes?: I don&#x27;t know if this has to do with how FindControl... <a href=\"http://bit.ly/cWDeqV\" rel=\"nofollow noopener\">http://bit.ly/cWDeqV</a></p>",
+      "contentText": "Can base classes see the protected fields of derived classes?: I don't know if this has to do with how FindControl... http://bit.ly/cWDeqV",
+      "date": "2010-08-11T18:37:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20907287531"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20911090213",
+      "contentHtml": "<p>Comment by MatthewMartin on Can base classes see the protected fields of derived classes?: Elegant solution, too b... <a href=\"http://bit.ly/cROlMn\" rel=\"nofollow noopener\">http://bit.ly/cROlMn</a></p>",
+      "contentText": "Comment by MatthewMartin on Can base classes see the protected fields of derived classes?: Elegant solution, too b... http://bit.ly/cROlMn",
+      "date": "2010-08-11T19:37:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20911090213"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20971901455",
+      "contentHtml": "<p>Only 39 people can vote to close an stackexchange proposal. Anyone care to re-open zombie defense? No one can stop the zombies.</p>",
+      "contentText": "Only 39 people can vote to close an stackexchange proposal. Anyone care to re-open zombie defense? No one can stop the zombies.",
+      "date": "2010-08-12T12:42:25+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20971901455"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20972360988",
+      "contentHtml": "<p>Windows update KB983583 deleted some of my .NET framework assemblies-System.Data among them.so I get to waste some of the morning repairing.</p>",
+      "contentText": "Windows update KB983583 deleted some of my .NET framework assemblies-System.Data among them.so I get to waste some of the morning repairing.",
+      "date": "2010-08-12T12:49:52+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20972360988"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20989974566",
+      "contentHtml": "<p>Answer by MatthewMartin for Tips for starting and running a Programmer&#x27;s Book Club: I organize several book clubs ... <a href=\"http://bit.ly/92PUOn\" rel=\"nofollow noopener\">http://bit.ly/92PUOn</a></p>",
+      "contentText": "Answer by MatthewMartin for Tips for starting and running a Programmer's Book Club: I organize several book clubs ... http://bit.ly/92PUOn",
+      "date": "2010-08-12T16:52:26+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20989974566"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21084419847",
+      "contentHtml": "<p>Answer by MatthewMartin for Multiple application using one database?: Applications tend to copy the organizations ... <a href=\"http://bit.ly/b2PgdR\" rel=\"nofollow noopener\">http://bit.ly/b2PgdR</a></p>",
+      "contentText": "Answer by MatthewMartin for Multiple application using one database?: Applications tend to copy the organizations ... http://bit.ly/b2PgdR",
+      "date": "2010-08-13T18:05:41+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21084419847"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21095478073",
+      "contentHtml": "<p>Answer by MatthewMartin for best way to find webcontrols quickly: TextBox ControlId = (TextBox) FindControl(&quot;Contr... <a href=\"http://bit.ly/c9FKRy\" rel=\"nofollow noopener\">http://bit.ly/c9FKRy</a></p>",
+      "contentText": "Answer by MatthewMartin for best way to find webcontrols quickly: TextBox ControlId = (TextBox) FindControl(\"Contr... http://bit.ly/c9FKRy",
+      "date": "2010-08-13T21:07:05+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21095478073"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21506380186",
+      "contentHtml": "<p>You can&#x27;t fix a bug by writing if ( 1+1 == 3) { print( 2 ); }</p>",
+      "contentText": "You can't fix a bug by writing if ( 1+1 == 3) { print( 2 ); }",
+      "date": "2010-08-18T17:18:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21506380186"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21585935760",
+      "contentHtml": "<p>Answer by MatthewMartin for Rapidshare and Megaupload traffic shaping by ISP: Use M-Lab and Google&#x27;s Glasnost tool... <a href=\"http://bit.ly/cb22jp\" rel=\"nofollow noopener\">http://bit.ly/cb22jp</a></p>",
+      "contentText": "Answer by MatthewMartin for Rapidshare and Megaupload traffic shaping by ISP: Use M-Lab and Google's Glasnost tool... http://bit.ly/cb22jp",
+      "date": "2010-08-19T15:27:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21585935760"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21609179507",
+      "contentHtml": "<p><a href=\"http://bit.ly/dquDu1\" rel=\"nofollow noopener\">http://bit.ly/dquDu1</a>  MS LightSwitch, I thought it was a joke about software for wall light switches.  Actually a real product, RAD for data</p>",
+      "contentText": "http://bit.ly/dquDu1  MS LightSwitch, I thought it was a joke about software for wall light switches.  Actually a real product, RAD for data",
+      "date": "2010-08-19T21:29:29+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21609179507"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21694768923",
+      "contentHtml": "<p>How do I get my Agile merit badge?</p>",
+      "contentText": "How do I get my Agile merit badge?",
+      "date": "2010-08-20T21:04:46+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21694768923"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/21917061188",
+      "contentHtml": "<p>Comment by MatthewMartin on Remembering to run tests before commit: This may or may not help, I&#x27;ve only used it fo... <a href=\"http://bit.ly/9UI1CT\" rel=\"nofollow noopener\">http://bit.ly/9UI1CT</a></p>",
+      "contentText": "Comment by MatthewMartin on Remembering to run tests before commit: This may or may not help, I've only used it fo... http://bit.ly/9UI1CT",
+      "date": "2010-08-23T14:13:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "21917061188"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22018196603",
+      "contentHtml": "<p>Where do I find the shut down reason notes for Windows Sever 2003?: Where do I find the shut down reason notes for... <a href=\"http://bit.ly/blYI5T\" rel=\"nofollow noopener\">http://bit.ly/blYI5T</a></p>",
+      "contentText": "Where do I find the shut down reason notes for Windows Sever 2003?: Where do I find the shut down reason notes for... http://bit.ly/blYI5T",
+      "date": "2010-08-24T17:35:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22018196603"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22022953284",
+      "contentHtml": "<p>Someone has to take a stand against fancy comment formatting. It&#x27;s industrial sabotage. Anyone have a msbuild step for stripping out /*****/</p>",
+      "contentText": "Someone has to take a stand against fancy comment formatting. It's industrial sabotage. Anyone have a msbuild step for stripping out /*****/",
+      "date": "2010-08-24T18:53:02+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22022953284"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22031677785",
+      "contentHtml": "<p>Happy dance, I made VS2010 find the correct reference to Crystal 11.5! I will be happier still when I can rip Crystal from the proj entirely</p>",
+      "contentText": "Happy dance, I made VS2010 find the correct reference to Crystal 11.5! I will be happier still when I can rip Crystal from the proj entirely",
+      "date": "2010-08-24T21:16:41+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22031677785"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22033050105",
+      "contentHtml": "<p>Comment by MatthewMartin on Where do I find the shut down reason notes for Windows Sever 2003?: I just did and I s... <a href=\"http://bit.ly/9pgIu1\" rel=\"nofollow noopener\">http://bit.ly/9pgIu1</a></p>",
+      "contentText": "Comment by MatthewMartin on Where do I find the shut down reason notes for Windows Sever 2003?: I just did and I s... http://bit.ly/9pgIu1",
+      "date": "2010-08-24T21:37:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22033050105"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22097143621",
+      "contentHtml": "<p>D&#x27;oh! StackOverflow is so fast one can&#x27;t retract a stupid question before people start answering it.  Sigh.  Needs a beer goggles test.</p>",
+      "contentText": "D'oh! StackOverflow is so fast one can't retract a stupid question before people start answering it.  Sigh.  Needs a beer goggles test.",
+      "date": "2010-08-25T15:25:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22097143621"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22112225252",
+      "contentHtml": "<p>If variable names are so un-important, why don&#x27;t we use guids for all our variables names? It would reduce collisions. (bit o sarcasm)</p>",
+      "contentText": "If variable names are so un-important, why don't we use guids for all our variables names? It would reduce collisions. (bit o sarcasm)",
+      "date": "2010-08-25T19:11:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22112225252"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22117439203",
+      "contentHtml": "<p>@dustyburwell Argument (and return value checking) on steroids = code contracts. <a href=\"http://bit.ly/dn5ZZg\" rel=\"nofollow noopener\">http://bit.ly/dn5ZZg</a> Similar but different from unit tests</p>",
+      "contentText": "@dustyburwell Argument (and return value checking) on steroids = code contracts. http://bit.ly/dn5ZZg Similar but different from unit tests",
+      "date": "2010-08-25T20:34:28+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22117439203"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22186258469",
+      "contentHtml": "<p>Answer by MatthewMartin for Storing Connection String on Database: If the user is using the application which has ... <a href=\"http://bit.ly/dfmxVW\" rel=\"nofollow noopener\">http://bit.ly/dfmxVW</a></p>",
+      "contentText": "Answer by MatthewMartin for Storing Connection String on Database: If the user is using the application which has ... http://bit.ly/dfmxVW",
+      "date": "2010-08-26T15:21:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22186258469"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22203138004",
+      "contentHtml": "<p>What is the downside to Conditional Attributes?: My code base has a lot of #if DEBUG/#endif statements that mostly... <a href=\"http://bit.ly/9vHuoc\" rel=\"nofollow noopener\">http://bit.ly/9vHuoc</a></p>",
+      "contentText": "What is the downside to Conditional Attributes?: My code base has a lot of #if DEBUG/#endif statements that mostly... http://bit.ly/9vHuoc",
+      "date": "2010-08-26T19:24:50+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22203138004",
+      "tags": [
+        "endif",
+        "if"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22269258955",
+      "contentHtml": "<p>My pet peeve on StackOverflow is &quot;brush-your-teeth&quot; answers. It&#x27;s always good to brush your teeth, just not always relevant to the question.</p>",
+      "contentText": "My pet peeve on StackOverflow is \"brush-your-teeth\" answers. It's always good to brush your teeth, just not always relevant to the question.",
+      "date": "2010-08-27T14:04:13+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22269258955"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22271724130",
+      "contentHtml": "<p>Comment by MatthewMartin on What is the downside to Conditional Attributes as opposed to #if/#endif?: Reading this... <a href=\"http://bit.ly/cHURyP\" rel=\"nofollow noopener\">http://bit.ly/cHURyP</a></p>",
+      "contentText": "Comment by MatthewMartin on What is the downside to Conditional Attributes as opposed to #if/#endif?: Reading this... http://bit.ly/cHURyP",
+      "date": "2010-08-27T14:35:23+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22271724130",
+      "tags": [
+        "endif",
+        "if"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22631982551",
+      "contentHtml": "<p>Do you read science fiction? You don&#x27;t know it now, but you need a Q&amp;A website for: Science Fiction <a href=\"http://bit.ly/com6x1\" rel=\"nofollow noopener\">http://bit.ly/com6x1</a></p>",
+      "contentText": "Do you read science fiction? You don't know it now, but you need a Q&A website for: Science Fiction http://bit.ly/com6x1",
+      "date": "2010-08-31T16:42:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22631982551"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22703671672",
+      "contentHtml": "<p>Are you an occasional user of twitter? Then you will get more out of it with tweety mail, which emails mentions of you <a href=\"http://bit.ly/b3ZPki\" rel=\"nofollow noopener\">http://bit.ly/b3ZPki</a></p>",
+      "contentText": "Are you an occasional user of twitter? Then you will get more out of it with tweety mail, which emails mentions of you http://bit.ly/b3ZPki",
+      "date": "2010-09-01T12:44:07+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22703671672"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22724489936",
+      "contentHtml": "<p>Answer by MatthewMartin for Maintain View State After POST: Tabs are usually navigation techniques.  Imho, its a b... <a href=\"http://bit.ly/a74NIp\" rel=\"nofollow noopener\">http://bit.ly/a74NIp</a></p>",
+      "contentText": "Answer by MatthewMartin for Maintain View State After POST: Tabs are usually navigation techniques.  Imho, its a b... http://bit.ly/a74NIp",
+      "date": "2010-09-01T17:04:02+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22724489936"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/22732985931",
+      "contentHtml": "<p>Answer by MatthewMartin for How to do a massive insert: You have two competing interests, doing a large transactio... <a href=\"http://bit.ly/dqFtkl\" rel=\"nofollow noopener\">http://bit.ly/dqFtkl</a></p>",
+      "contentText": "Answer by MatthewMartin for How to do a massive insert: You have two competing interests, doing a large transactio... http://bit.ly/dqFtkl",
+      "date": "2010-09-01T19:05:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "22732985931"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/23233491254",
+      "contentHtml": "<p>People who don&#x27;t like unit testing should stop complaining, go back their 6 months of manual integration tests between each build-C U Nxt Yr</p>",
+      "contentText": "People who don't like unit testing should stop complaining, go back their 6 months of manual integration tests between each build-C U Nxt Yr",
+      "date": "2010-09-07T12:41:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "23233491254"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/23922105217",
+      "contentHtml": "<p>Comment by MatthewMartin on Is it possible to run tests using the nUnit framework in a hosted website?: Interestin... <a href=\"http://bit.ly/bdqqUd\" rel=\"nofollow noopener\">http://bit.ly/bdqqUd</a></p>",
+      "contentText": "Comment by MatthewMartin on Is it possible to run tests using the nUnit framework in a hosted website?: Interestin... http://bit.ly/bdqqUd",
+      "date": "2010-09-08T15:10:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "23922105217"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/24007260299",
+      "contentHtml": "<p>There is nothing logical about &quot;logical deletion&quot; We might as well call COBOL flat files relational databases.&quot;Logical&quot; deletes are sabotage</p>",
+      "contentText": "There is nothing logical about \"logical deletion\" We might as well call COBOL flat files relational databases.\"Logical\" deletes are sabotage",
+      "date": "2010-09-09T13:04:25+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "24007260299"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/24288314944",
+      "contentHtml": "<p>Wow MS lawyers in Russia are helping the administration there single out dissident groups: <a href=\"http://nyti.ms/chBISw\" rel=\"nofollow noopener\">http://nyti.ms/chBISw</a></p>",
+      "contentText": "Wow MS lawyers in Russia are helping the administration there single out dissident groups: http://nyti.ms/chBISw",
+      "date": "2010-09-12T14:37:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "24288314944"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/24504769393",
+      "contentHtml": "<p>Mafia programming-- &quot;You break the build, we break your legs&quot;</p>",
+      "contentText": "Mafia programming-- \"You break the build, we break your legs\"",
+      "date": "2010-09-14T20:00:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "24504769393"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/25228173854",
+      "contentHtml": "<p>Using SQL, which has primitive string capabilities, to build SQL strings is industrial sabotage.  Why do you hate your customer so much?</p>",
+      "contentText": "Using SQL, which has primitive string capabilities, to build SQL strings is industrial sabotage.  Why do you hate your customer so much?",
+      "date": "2010-09-22T16:53:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "25228173854"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/25327560920",
+      "contentHtml": "<p>After a serious design flaw has been remove from an app how do you keep future devs from reimplementing it? Maybe a powerful curse?</p>",
+      "contentText": "After a serious design flaw has been remove from an app how do you keep future devs from reimplementing it? Maybe a powerful curse?",
+      "date": "2010-09-23T17:40:23+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "25327560920"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/25432949744",
+      "contentHtml": "<p>The existence of logical deletes-columns named active or deleted-is so pernicious, there should be a trigger to drop them as they are added</p>",
+      "contentText": "The existence of logical deletes-columns named active or deleted-is so pernicious, there should be a trigger to drop them as they are added",
+      "date": "2010-09-24T19:37:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "25432949744"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/25820385921",
+      "contentHtml": "<p>Job requests requiring experience with Waterfall as a methodology-- why seek out the psychologically damaged developers?</p>",
+      "contentText": "Job requests requiring experience with Waterfall as a methodology-- why seek out the psychologically damaged developers?",
+      "date": "2010-09-28T21:11:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "25820385921"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/25980920903",
+      "contentHtml": "<p>xml commenting has encouraged more retarded commenting than any other technology in the history of IT</p>",
+      "contentText": "xml commenting has encouraged more retarded commenting than any other technology in the history of IT",
+      "date": "2010-09-30T13:51:19+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "25980920903"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26005304152",
+      "contentHtml": "<p>As cyclomatic complexity approaches infinity, the naive programmer feels pleased at how smart he is, the wise programmer feels ashamed.</p>",
+      "contentText": "As cyclomatic complexity approaches infinity, the naive programmer feels pleased at how smart he is, the wise programmer feels ashamed.",
+      "date": "2010-09-30T18:46:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 3
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26005304152"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26105514205",
+      "contentHtml": "<p>Who wrote a rule that said code generation should be done in the language of the code you are generating? Why code gen TSQL with TSQL?</p>",
+      "contentText": "Who wrote a rule that said code generation should be done in the language of the code you are generating? Why code gen TSQL with TSQL?",
+      "date": "2010-10-01T18:40:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26105514205"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26114116887",
+      "contentHtml": "<p>If you build a better mouse trap, it sure won&#x27;t be the mice beating a path to your door.</p>",
+      "contentText": "If you build a better mouse trap, it sure won't be the mice beating a path to your door.",
+      "date": "2010-10-01T20:51:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26114116887"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26373609357",
+      "contentHtml": "<p>Ill considered source code comments cause brain damage. It&#x27;s like a contagion spreading muck to the minds of maintenance programmers.</p>",
+      "contentText": "Ill considered source code comments cause brain damage. It's like a contagion spreading muck to the minds of maintenance programmers.",
+      "date": "2010-10-04T15:40:50+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26373609357"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26379937305",
+      "contentHtml": "<p>Is repetitive code wet?</p>",
+      "contentText": "Is repetitive code wet?",
+      "date": "2010-10-04T17:00:01+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26379937305"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26479027437",
+      "contentHtml": "<p>How long should one wait before playing the &quot;it depends&quot; card? Well, it depends.</p>",
+      "contentText": "How long should one wait before playing the \"it depends\" card? Well, it depends.",
+      "date": "2010-10-05T18:14:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26479027437"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26483307680",
+      "contentHtml": "<p>I can&#x27;t simultaneously care about my reputation on 50 sites like I care about my reputation score on the main #StackOverflow site.</p>",
+      "contentText": "I can't simultaneously care about my reputation on 50 sites like I care about my reputation score on the main #StackOverflow site.",
+      "date": "2010-10-05T19:20:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26483307680",
+      "tags": [
+        "StackOverflow"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26651159727",
+      "contentHtml": "<p>Daily WTF.  Gives a new meaning to control in the phrase Change Control Board <a href=\"http://bit.ly/cAoyod\" rel=\"nofollow noopener\">http://bit.ly/cAoyod</a></p>",
+      "contentText": "Daily WTF.  Gives a new meaning to control in the phrase Change Control Board http://bit.ly/cAoyod",
+      "date": "2010-10-07T14:02:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26651159727"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26672866186",
+      "contentHtml": "<p>If I see one more comment that says &quot;//set property&quot; &quot;//call method&quot; I&#x27;m going to scream. AAAAIIIIIIIGH!</p>",
+      "contentText": "If I see one more comment that says \"//set property\" \"//call method\" I'm going to scream. AAAAIIIIIIIGH!",
+      "date": "2010-10-07T18:01:52+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26672866186"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26759750405",
+      "contentHtml": "<p>WHS home server is reliable if you can follow a list of instructions only a professional server admin can understand.</p>",
+      "contentText": "WHS home server is reliable if you can follow a list of instructions only a professional server admin can understand.",
+      "date": "2010-10-08T15:28:23+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26759750405"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26762927674",
+      "contentHtml": "<p>How much commenting should be done for highly, highly repetitive code? 1x per project.</p>",
+      "contentText": "How much commenting should be done for highly, highly repetitive code? 1x per project.",
+      "date": "2010-10-08T16:04:02+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26762927674"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/26779226430",
+      "contentHtml": "<p>Subversion, Tortoise and Ankh don&#x27;t like deleting folders.  What is up with that?</p>",
+      "contentText": "Subversion, Tortoise and Ankh don't like deleting folders.  What is up with that?",
+      "date": "2010-10-08T19:41:47+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "26779226430"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27152516562",
+      "contentHtml": "<p>Accidentally clicking on reboot after a ^$% adobe update and lost a whole hour of work.  #AdobeUpdatesSuck</p>",
+      "contentText": "Accidentally clicking on reboot after a ^$% adobe update and lost a whole hour of work.  #AdobeUpdatesSuck",
+      "date": "2010-10-12T16:08:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27152516562",
+      "tags": [
+        "AdobeUpdatesSuck"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27758889761",
+      "contentHtml": "<p>#VS2010 $#!+ I clicked on the COM tab in Add Reference. Forced coffee break.</p>",
+      "contentText": "#VS2010 $#!+ I clicked on the COM tab in Add Reference. Forced coffee break.",
+      "date": "2010-10-18T18:31:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27758889761",
+      "tags": [
+        "VS2010"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27837232350",
+      "contentHtml": "<p>I nominate @scottgu for President! Oh, he already is a president. Nevermind. I nominate unclebobmartin for CSA, he seems to enjoy politics.</p>",
+      "contentText": "I nominate @scottgu for President! Oh, he already is a president. Nevermind. I nominate unclebobmartin for CSA, he seems to enjoy politics.",
+      "date": "2010-10-19T14:18:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27837232350"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27845425737",
+      "contentHtml": "<p>Excessive information poor commenting in code obscures intent. If you don&#x27;t understand code, it isn&#x27;t for lack of commenting.Maybe stupidity</p>",
+      "contentText": "Excessive information poor commenting in code obscures intent. If you don't understand code, it isn't for lack of commenting.Maybe stupidity",
+      "date": "2010-10-19T15:49:17+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27845425737"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27931278590",
+      "contentHtml": "<p>On a well run corporate network 2 out of 3 services work (out of VPN, DNS and SMB)</p>",
+      "contentText": "On a well run corporate network 2 out of 3 services work (out of VPN, DNS and SMB)",
+      "date": "2010-10-20T13:33:38+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27931278590"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27950034708",
+      "contentHtml": "<p>People who like &quot;logical deletes&quot; should go a step further and create an automated task to *create* garbage in a table.</p>",
+      "contentText": "People who like \"logical deletes\" should go a step further and create an automated task to *create* garbage in a table.",
+      "date": "2010-10-20T17:26:41+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27950034708"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27950071929",
+      "contentHtml": "<p>The logical delete should be paired with the logical insert-- what if someone forgets to insert data? Let&#x27;s insert it for them.</p>",
+      "contentText": "The logical delete should be paired with the logical insert-- what if someone forgets to insert data? Let's insert it for them.",
+      "date": "2010-10-20T17:27:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27950071929"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/27950142880",
+      "contentHtml": "<p>Logical deletes should also be paired with logical updates, that is ignoring all updates because the user may be updating it wrong.</p>",
+      "contentText": "Logical deletes should also be paired with logical updates, that is ignoring all updates because the user may be updating it wrong.",
+      "date": "2010-10-20T17:28:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "27950142880"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/28060167573",
+      "contentHtml": "<p>In Hogwarts unit testing class is called Defense Against Maintenance Developers.</p>",
+      "contentText": "In Hogwarts unit testing class is called Defense Against Maintenance Developers.",
+      "date": "2010-10-21T21:02:28+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "28060167573"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/28403139269",
+      "contentHtml": "<p>Best Buy is sending software renewal notices weekly with no unsubscribe. Report as Spam. Hate it when big companies do this.</p>",
+      "contentText": "Best Buy is sending software renewal notices weekly with no unsubscribe. Report as Spam. Hate it when big companies do this.",
+      "date": "2010-10-22T13:14:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "28403139269"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/28903617028",
+      "contentHtml": "<p>o @BenAlabaster I delete empty and semantically empty XML comments as I find them. Which is 90% of the time. Down with ghostdoc comments!</p>",
+      "contentText": "o @BenAlabaster I delete empty and semantically empty XML comments as I find them. Which is 90% of the time. Down with ghostdoc comments!",
+      "date": "2010-10-27T16:09:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "28903617028"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/28903728574",
+      "contentHtml": "<p>I need blank comment boilerplate in my source code like I need more bugs, perf problems and more code smells</p>",
+      "contentText": "I need blank comment boilerplate in my source code like I need more bugs, perf problems and more code smells",
+      "date": "2010-10-27T16:11:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "28903728574"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/29008070862",
+      "contentHtml": "<p>. @unclebobmartin consensus is a legit algorithm. Imagine 3 partially reliable thermometers that vote on the temperature.</p>",
+      "contentText": ". @unclebobmartin consensus is a legit algorithm. Imagine 3 partially reliable thermometers that vote on the temperature.",
+      "date": "2010-10-28T17:16:35+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "29008070862"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/710629937651712",
+      "contentHtml": "<p>Working with SQL Server is a like interpreting shadows on the wall. No one really knows what the engine is doing except a few experts in WA</p>",
+      "contentText": "Working with SQL Server is a like interpreting shadows on the wall. No one really knows what the engine is doing except a few experts in WA",
+      "date": "2010-11-06T00:46:42+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "710629937651712"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1472048308158464",
+      "contentHtml": "<p>&quot;It depends&quot; is not honest answer to technical questions. Its passive aggressive mind games. At the fork in the road you can&#x27;t  just stand.</p>",
+      "contentText": "\"It depends\" is not honest answer to technical questions. Its passive aggressive mind games. At the fork in the road you can't  just stand.",
+      "date": "2010-11-08T03:12:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1472048308158464"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/3096822054658049",
+      "contentHtml": "<p>I just don&#x27;t get icons pinned to the taskbar in win7.  They have been unpinned.</p>",
+      "contentText": "I just don't get icons pinned to the taskbar in win7.  They have been unpinned.",
+      "date": "2010-11-12T14:48:34+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "3096822054658049"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/3138296662196224",
+      "contentHtml": "<p>Why isn&#x27;t there a visual studio add in to remove #Region areas as you type them?</p>",
+      "contentText": "Why isn't there a visual studio add in to remove #Region areas as you type them?",
+      "date": "2010-11-12T17:33:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "3138296662196224",
+      "tags": [
+        "Region"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/4292218097508352",
+      "contentHtml": "<p>three monitors for writing code is awesome</p>",
+      "contentText": "three monitors for writing code is awesome",
+      "date": "2010-11-15T21:58:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "4292218097508352"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/4295743007363073",
+      "contentHtml": "<p>&lt;summary&gt;5 lines of XML comment isn&#x27;t enough. I want 1000&#x27;s of pages of templated xml comments. more! more!&lt;/summary&gt;&lt;roar&gt;huzzah!&lt;/roar&gt;!</p>",
+      "contentText": "<summary>5 lines of XML comment isn't enough. I want 1000's of pages of templated xml comments. more! more!</summary><roar>huzzah!</roar>!",
+      "date": "2010-11-15T22:12:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "4295743007363073"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/4540803682672641",
+      "contentHtml": "<p>The heaping pile of bullshit comments is the rug under which the incompetent developer sweeps his shame.</p>",
+      "contentText": "The heaping pile of bullshit comments is the rug under which the incompetent developer sweeps his shame.",
+      "date": "2010-11-16T14:26:26+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "4540803682672641"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/4576418797191169",
+      "contentHtml": "<p>Without unit test style development (stronlgly decoupled dlls), layered architecture becomes an arbitrary division of methods.</p>",
+      "contentText": "Without unit test style development (stronlgly decoupled dlls), layered architecture becomes an arbitrary division of methods.",
+      "date": "2010-11-16T16:47:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "4576418797191169"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/4998764007784448",
+      "contentHtml": "<p>Every day I come to the office and despise xml comments in C# for 8 hours. xml comments encourage the worst of the worst sort of &#x27;comments&#x27;</p>",
+      "contentText": "Every day I come to the office and despise xml comments in C# for 8 hours. xml comments encourage the worst of the worst sort of 'comments'",
+      "date": "2010-11-17T20:46:12+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "4998764007784448"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/5016659924361216",
+      "contentHtml": "<p>Hubris or stupidity to use BIGINT for the User Id of an application&#x27;s user table? If you need BIGINT, BIGINT isn&#x27;t big enough.</p>",
+      "contentText": "Hubris or stupidity to use BIGINT for the User Id of an application's user table? If you need BIGINT, BIGINT isn't big enough.",
+      "date": "2010-11-17T21:57:19+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "5016659924361216"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/5280234651787264",
+      "contentHtml": "<p>The programmers vow: However innumerable #region tags are, I vow to remove them.</p>",
+      "contentText": "The programmers vow: However innumerable #region tags are, I vow to remove them.",
+      "date": "2010-11-18T15:24:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "5280234651787264",
+      "tags": [
+        "region"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/5626339532996608",
+      "contentHtml": "<p>Comments make $#!+ code crappier.</p>",
+      "contentText": "Comments make $#!+ code crappier.",
+      "date": "2010-11-19T14:19:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "5626339532996608"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/7207996039892992",
+      "contentHtml": "<p>If you click un-relate accounts, you can help create some distance between your profession and personal persona on the #stackexchange family</p>",
+      "contentText": "If you click un-relate accounts, you can help create some distance between your profession and personal persona on the #stackexchange family",
+      "date": "2010-11-23T23:04:54+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "7207996039892992",
+      "tags": [
+        "stackexchange"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/7465653355151360",
+      "contentHtml": "<p>Answers on #stackoverflow are like PVP (player-vs-player), comments are like PVE.</p>",
+      "contentText": "Answers on #stackoverflow are like PVP (player-vs-player), comments are like PVE.",
+      "date": "2010-11-24T16:08:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "7465653355151360",
+      "tags": [
+        "stackoverflow"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/7475207828676608",
+      "contentHtml": "<p>Comment by MatthewMartin on Embedded ASP.NET server?: Cassini is tiny, and good enough for many purposes.  There... <a href=\"http://bit.ly/et4jpa\" rel=\"nofollow noopener\">http://bit.ly/et4jpa</a></p>",
+      "contentText": "Comment by MatthewMartin on Embedded ASP.NET server?: Cassini is tiny, and good enough for many purposes.  There... http://bit.ly/et4jpa",
+      "date": "2010-11-24T16:46:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "7475207828676608"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/10044447781814272",
+      "contentHtml": "<p>Use XHTML because  &amp; # 160 ; looks better than &amp; nbsp ;</p>",
+      "contentText": "Use XHTML because  & # 160 ; looks better than & nbsp ;",
+      "date": "2010-12-01T18:55:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "10044447781814272"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/10391765253095424",
+      "contentHtml": "<p>I for one welcome our new arsenic based overlords.</p>",
+      "contentText": "I for one welcome our new arsenic based overlords.",
+      "date": "2010-12-02T17:56:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "10391765253095424"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/10809463023865857",
+      "contentHtml": "<p>Are you in or near Arlington, VA? I created a Programmer&#x27;s Book Club <a href=\"http://bit.ly/f8SRmP\" rel=\"nofollow noopener\">http://bit.ly/f8SRmP</a> on meetup.</p>",
+      "contentText": "Are you in or near Arlington, VA? I created a Programmer's Book Club http://bit.ly/f8SRmP on meetup.",
+      "date": "2010-12-03T21:35:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "10809463023865857"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/10820502457163776",
+      "contentHtml": "<p>The Thin Website: I’ve been writing server side heavy code for several years now. I need to expand my client sid... <a href=\"http://bit.ly/hCZjvm\" rel=\"nofollow noopener\">http://bit.ly/hCZjvm</a></p>",
+      "contentText": "The Thin Website: I’ve been writing server side heavy code for several years now. I need to expand my client sid... http://bit.ly/hCZjvm",
+      "date": "2010-12-03T22:19:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "10820502457163776"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12140055887880192",
+      "contentHtml": "<p>My software developer&#x27;s book club is off to a good start. Do you live in Arlington VA?Are you a reader? Do you program? <a href=\"http://bit.ly/f8SRmP\" rel=\"nofollow noopener\">http://bit.ly/f8SRmP</a></p>",
+      "contentText": "My software developer's book club is off to a good start. Do you live in Arlington VA?Are you a reader? Do you program? http://bit.ly/f8SRmP",
+      "date": "2010-12-07T13:43:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12140055887880192"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12296490084999168",
+      "contentHtml": "<p>#Apple has released the latest version of the iTriangle, now with 4 sides.</p>",
+      "contentText": "#Apple has released the latest version of the iTriangle, now with 4 sides.",
+      "date": "2010-12-08T00:04:46+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12296490084999168",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/12505613166714880",
+      "contentHtml": "<p>Was EF Fluent API a poorly named one? (Effluent API?)</p>",
+      "contentText": "Was EF Fluent API a poorly named one? (Effluent API?)",
+      "date": "2010-12-08T13:55:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "12505613166714880"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/13242936238014464",
+      "contentHtml": "<p>I agree with this TechCrunch article condeming wikileaks: <a href=\"http://tcrn.ch/grIW6j\" rel=\"nofollow noopener\">http://tcrn.ch/grIW6j</a> Orderly society needs privacy and secrecy to function.</p>",
+      "contentText": "I agree with this TechCrunch article condeming wikileaks: http://tcrn.ch/grIW6j Orderly society needs privacy and secrecy to function.",
+      "date": "2010-12-10T14:45:36+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "13242936238014464"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14374238697820160",
+      "contentHtml": "<p>How to buy a MP3 on amazon. Spend money. Continuously contact help desk to reset download counter. Manually download all @#$@ songs.</p>",
+      "contentText": "How to buy a MP3 on amazon. Spend money. Continuously contact help desk to reset download counter. Manually download all @#$@ songs.",
+      "date": "2010-12-13T17:41:00+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14374238697820160"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14382038941433856",
+      "contentHtml": "<p>Maybe the 3rd attempt to download my music from Amazon Mp3 will work. I wouldn&#x27;t recommend amazon mp3 to anyone w/o a rock solid connection</p>",
+      "contentText": "Maybe the 3rd attempt to download my music from Amazon Mp3 will work. I wouldn't recommend amazon mp3 to anyone w/o a rock solid connection",
+      "date": "2010-12-13T18:11:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14382038941433856"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14445411422969856",
+      "contentHtml": "<p>It is so hot in my office I&#x27;m about to go to sleep. Thermostat 1, Productivity 0</p>",
+      "contentText": "It is so hot in my office I'm about to go to sleep. Thermostat 1, Productivity 0",
+      "date": "2010-12-13T22:23:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14445411422969856"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14445535431753728",
+      "contentHtml": "<p>Answer by MatthewMartin for Plugin architecture.: Your question was tagged with ASP.NET, but I didn&#x27;t see any AS... <a href=\"http://bit.ly/ggCJ8c\" rel=\"nofollow noopener\">http://bit.ly/ggCJ8c</a></p>",
+      "contentText": "Answer by MatthewMartin for Plugin architecture.: Your question was tagged with ASP.NET, but I didn't see any AS... http://bit.ly/ggCJ8c",
+      "date": "2010-12-13T22:24:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14445535431753728"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14452537692266496",
+      "contentHtml": "<p>I wonder if wikileak defenders would also defend leaking all government and corporate email repositories, world wide to journalists.</p>",
+      "contentText": "I wonder if wikileak defenders would also defend leaking all government and corporate email repositories, world wide to journalists.",
+      "date": "2010-12-13T22:52:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14452537692266496"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14520586336206849",
+      "contentHtml": "<p>Hefur áhuga á tonlist og lundi. serstak lundi.</p>",
+      "contentText": "Hefur áhuga á tonlist og lundi. serstak lundi.",
+      "date": "2010-12-14T03:22:32+00:00",
+      "language": "is",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14520586336206849"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14520784957480961",
+      "contentHtml": "<p>ups, Eg hef áhuga á tonlist og lundi. Serstaklega lundi.</p>",
+      "contentText": "ups, Eg hef áhuga á tonlist og lundi. Serstaklega lundi.",
+      "date": "2010-12-14T03:23:19+00:00",
+      "language": "is",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14520784957480961"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14777098983964672",
+      "contentHtml": "<p>I can&#x27;t believe how many times my email address as been posted to the web. You&#x27;d think people would try to hold it in confidence</p>",
+      "contentText": "I can't believe how many times my email address as been posted to the web. You'd think people would try to hold it in confidence",
+      "date": "2010-12-14T20:21:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14777098983964672"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14786153194459137",
+      "contentHtml": "<p><a href=\"http://bit.ly/fuskXA\" rel=\"nofollow noopener\">http://bit.ly/fuskXA</a>  You got science fiction questions? Help us start up a stackexchange for sci-fi</p>",
+      "contentText": "http://bit.ly/fuskXA  You got science fiction questions? Help us start up a stackexchange for sci-fi",
+      "date": "2010-12-14T20:57:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14786153194459137"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14879141627166720",
+      "contentHtml": "<p>Unit testing reduces the difficulty level of programming so much it feels like cheating.</p>",
+      "contentText": "Unit testing reduces the difficulty level of programming so much it feels like cheating.",
+      "date": "2010-12-15T03:07:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14879141627166720"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/14882654038003712",
+      "contentHtml": "<p>All green checks! Programmer dance!</p>",
+      "contentText": "All green checks! Programmer dance!",
+      "date": "2010-12-15T03:21:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "14882654038003712"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15471923211272192",
+      "contentHtml": "<p>Anyone know anything about SecureString? <a href=\"http://bit.ly/haKwRJ\" rel=\"nofollow noopener\">http://bit.ly/haKwRJ</a></p>",
+      "contentText": "Anyone know anything about SecureString? http://bit.ly/haKwRJ",
+      "date": "2010-12-16T18:22:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15471923211272192"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15473568473153536",
+      "contentHtml": "<p>Is there any benefit to using SecureString in ASP.NET?: If I understand correctly, this is for keeping plain tex... <a href=\"http://bit.ly/e71bho\" rel=\"nofollow noopener\">http://bit.ly/e71bho</a></p>",
+      "contentText": "Is there any benefit to using SecureString in ASP.NET?: If I understand correctly, this is for keeping plain tex... http://bit.ly/e71bho",
+      "date": "2010-12-16T18:29:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15473568473153536"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/15870803971149825",
+      "contentHtml": "<p>Answer by MatthewMartin for Managing .NET framework upgrades.: I just did a test conversion of my application to... <a href=\"http://bit.ly/f2fwz2\" rel=\"nofollow noopener\">http://bit.ly/f2fwz2</a></p>",
+      "contentText": "Answer by MatthewMartin for Managing .NET framework upgrades.: I just did a test conversion of my application to... http://bit.ly/f2fwz2",
+      "date": "2010-12-17T20:47:49+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "15870803971149825"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/16880042072084480",
+      "contentHtml": "<p>Answer by MatthewMartin for recover lost C# pages: You need to decompile the C#. It is an advanced user scenario... <a href=\"http://bit.ly/hqIhzH\" rel=\"nofollow noopener\">http://bit.ly/hqIhzH</a></p>",
+      "contentText": "Answer by MatthewMartin for recover lost C# pages: You need to decompile the C#. It is an advanced user scenario... http://bit.ly/hqIhzH",
+      "date": "2010-12-20T15:38:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "16880042072084480"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17246180467544064",
+      "contentHtml": "<p>How to create a non-persistent (in memory) http cookie in C#?: I want my cookie to disappear when the user close... <a href=\"http://bit.ly/gS5YTF\" rel=\"nofollow noopener\">http://bit.ly/gS5YTF</a></p>",
+      "contentText": "How to create a non-persistent (in memory) http cookie in C#?: I want my cookie to disappear when the user close... http://bit.ly/gS5YTF",
+      "date": "2010-12-21T15:53:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17246180467544064"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17282397837983746",
+      "contentHtml": "<p>According to WolframAlpha, one moment is 90 seconds: <a href=\"http://bit.ly/gs5j9x\" rel=\"nofollow noopener\">http://bit.ly/gs5j9x</a></p>",
+      "contentText": "According to WolframAlpha, one moment is 90 seconds: http://bit.ly/gs5j9x",
+      "date": "2010-12-21T18:16:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17282397837983746"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17435412607803392",
+      "contentHtml": "<p>Code contract invariants are poorly named. Should be &quot;pre and post assertion&quot;. Something about the word invariant implies no-change.</p>",
+      "contentText": "Code contract invariants are poorly named. Should be \"pre and post assertion\". Something about the word invariant implies no-change.",
+      "date": "2010-12-22T04:25:00+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17435412607803392"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17608864052551680",
+      "contentHtml": "<p>Goodbye enterprise manager. SSMS won&#x27;t fill your shoes. (Good riddance Query Analyzer)</p>",
+      "contentText": "Goodbye enterprise manager. SSMS won't fill your shoes. (Good riddance Query Analyzer)",
+      "date": "2010-12-22T15:54:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17608864052551680"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/17615006992437249",
+      "contentHtml": "<p>I get VS2010 on my contractor machine today! Huzzah!</p>",
+      "contentText": "I get VS2010 on my contractor machine today! Huzzah!",
+      "date": "2010-12-22T16:18:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "17615006992437249"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19500622986350592",
+      "contentHtml": "<p>Upgraded first website to 4.0.  So far nothing bad has happened.</p>",
+      "contentText": "Upgraded first website to 4.0.  So far nothing bad has happened.",
+      "date": "2010-12-27T21:11:25+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19500622986350592"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19513579413700609",
+      "contentHtml": "<p>Answer by MatthewMartin for inserting into two tables with the AccessDataSource: I think the key here is that MS... <a href=\"http://bit.ly/h275N2\" rel=\"nofollow noopener\">http://bit.ly/h275N2</a></p>",
+      "contentText": "Answer by MatthewMartin for inserting into two tables with the AccessDataSource: I think the key here is that MS... http://bit.ly/h275N2",
+      "date": "2010-12-27T22:02:54+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19513579413700609"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19519180990586881",
+      "contentHtml": "<p>Answer by MatthewMartin for Free issue reporting software?: Flyspray has been fairly painless for me to set up a... <a href=\"http://bit.ly/fZbVrX\" rel=\"nofollow noopener\">http://bit.ly/fZbVrX</a></p>",
+      "contentText": "Answer by MatthewMartin for Free issue reporting software?: Flyspray has been fairly painless for me to set up a... http://bit.ly/fZbVrX",
+      "date": "2010-12-27T22:25:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19519180990586881"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/19590774857408512",
+      "contentHtml": "<p>When resharper is off, it feels like visual studio has suffered a stroke.</p>",
+      "contentText": "When resharper is off, it feels like visual studio has suffered a stroke.",
+      "date": "2010-12-28T03:09:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "19590774857408512"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20140069264297984",
+      "contentHtml": "<p>How to turn ASP.NET pages into static pages as part of the build?: I have a few pages that are completely static... <a href=\"http://bit.ly/g2dKip\" rel=\"nofollow noopener\">http://bit.ly/g2dKip</a></p>",
+      "contentText": "How to turn ASP.NET pages into static pages as part of the build?: I have a few pages that are completely static... http://bit.ly/g2dKip",
+      "date": "2010-12-29T15:32:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20140069264297984"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20506784892456960",
+      "contentHtml": "<p>Comment by MatthewMartin on Strategies to Avoid Transaction Escalation in System.Transactions: DTC doesn&#x27;t alway... <a href=\"http://bit.ly/fDit9h\" rel=\"nofollow noopener\">http://bit.ly/fDit9h</a></p>",
+      "contentText": "Comment by MatthewMartin on Strategies to Avoid Transaction Escalation in System.Transactions: DTC doesn't alway... http://bit.ly/fDit9h",
+      "date": "2010-12-30T15:49:33+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20506784892456960"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20518703082774530",
+      "contentHtml": "<p>Tip of the day: Disable MSDTC to guarantee that you don&#x27;t accidentally create a dependency on it.</p>",
+      "contentText": "Tip of the day: Disable MSDTC to guarantee that you don't accidentally create a dependency on it.",
+      "date": "2010-12-30T16:36:54+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20518703082774530"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/20547138970714112",
+      "contentHtml": "<p>Oh choices choices: close connections fast and risk MSDTC escalation or hold connections open and no MSDTC? hmm.</p>",
+      "contentText": "Oh choices choices: close connections fast and risk MSDTC escalation or hold connections open and no MSDTC? hmm.",
+      "date": "2010-12-30T18:29:54+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "20547138970714112"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "twitter",
+  "year": "2010"
+}

@@ -19,7 +19,7 @@
 }}
 {{ $kindVerb := dict "like" "Liked" "repost" "Boosted" "reply" "Replied to" }}
 
-{{ range $day, $records := site.Data.interactions }}
+{{ range $day, $records := hugo.Data.interactions }}
   {{ range $index, $record := $records }}
     {{ $class := index $kindClass $record.kind | default "u-mention-of" }}
     {{ $verb := index $kindVerb $record.kind | default "Mentioned" }}

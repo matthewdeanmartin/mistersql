@@ -1,0 +1,39 @@
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="{{ site.Title }} home">
+      <span class="brand-mark" aria-hidden="true">M</span>
+      <span class="brand-name">{{ site.Title }}</span>
+    </a>
+    <nav class="primary-nav" aria-label="Primary navigation">
+      <a href="{{ site.Home.RelPermalink }}"{{ if .IsHome }} aria-current="page"{{ end }}>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11.5 12 4l9 7.5v8a1 1 0 0 1-1 1h-5.5v-6h-5v6H4a1 1 0 0 1-1-1z"/></svg>
+        <span>Home</span>
+      </a>
+      <a href="{{ relURL "tags/" }}"{{ if eq .Kind "taxonomy" }} aria-current="page"{{ end }}>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h16M4 15h16M9 4 7 20M17 4l-2 16"/></svg>
+        <span>Tags</span>
+      </a>
+      <a href="{{ relURL "interactions/" }}"{{ if eq .Section "interactions" }} aria-current="page"{{ end }}>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg>
+        <span>Interactions</span>
+      </a>
+    </nav>
+    <div class="header-actions">
+      <details class="more-menu">
+        <summary aria-label="More navigation">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>
+          <span>More</span>
+        </summary>
+        <nav class="menu-panel" aria-label="More">
+          <a href="{{ site.Home.RelPermalink }}">Archive</a>
+          <a href="{{ relURL "tags/" }}">Hashtags</a>
+          {{ with site.Home.OutputFormats.Get "RSS" }}<a href="{{ .RelPermalink }}">RSS feed</a>{{ end }}
+        </nav>
+      </details>
+      <div class="account-pill" title="Persona switching may live here later">
+        <span class="account-avatar" aria-hidden="true">M</span>
+        <span>{{ site.Params.handle | default "mistersql" }}</span>
+      </div>
+    </div>
+  </div>
+</header>

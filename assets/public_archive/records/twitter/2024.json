@@ -1,0 +1,1037 @@
+{
+  "corpusVersion": 1,
+  "records": [
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1749950271181017213",
+      "contentHtml": "<p>Just checking into twitter for the discourse (gotta check out the comments &amp;/or the auto translate) <a href=\"https://x.com/tkNHKp9Sx1/status/1749803603353796626\" rel=\"nofollow noopener\">https://x.com/tkNHKp9Sx1/status/1749803603353796626</a></p>",
+      "contentText": "Just checking into twitter for the discourse (gotta check out the comments &/or the auto translate) https://x.com/tkNHKp9Sx1/status/1749803603353796626",
+      "date": "2024-01-24T00:20:31+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1749950271181017213"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1766634638049489126",
+      "contentHtml": "<p>Can&#x27;t post pictures here? Testing if this picture of our grandfather goes thru.<br>\n<br>\nNope. can&#x27;t post a picture of the 1st fish to walk on land. I assume it is a conspiracy.</p>",
+      "contentText": "Can't post pictures here? Testing if this picture of our grandfather goes thru.\n\nNope. can't post a picture of the 1st fish to walk on land. I assume it is a conspiracy.",
+      "date": "2024-03-10T01:18:14+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1766634638049489126"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1790830917855907905",
+      "contentHtml": "<p>I will be at Pycon 2024 in Pittsburg tomorrow</p>",
+      "contentText": "I will be at Pycon 2024 in Pittsburg tomorrow",
+      "date": "2024-05-15T19:45:37+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1790830917855907905"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1791286807453192374",
+      "contentHtml": "<p>More pycon convo on mastodon than twitter<br>\n<br>\n<a href=\"https://elk.zone/mastodon.social/@treyhunner/112453920848761679\" rel=\"nofollow noopener\">https://elk.zone/mastodon.social/@treyhunner/112453920848761679</a></p>",
+      "contentText": "More pycon convo on mastodon than twitter\n\nhttps://elk.zone/mastodon.social/@treyhunner/112453920848761679",
+      "date": "2024-05-17T01:57:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1791286807453192374"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1791562158544719888",
+      "contentHtml": "<p>Twitter login was down for me today, so I couldn&#x27;t keep up with twitter, just mastodon.</p>",
+      "contentText": "Twitter login was down for me today, so I couldn't keep up with twitter, just mastodon.",
+      "date": "2024-05-17T20:11:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1791562158544719888"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1794893567493890452",
+      "contentHtml": "<p>I watched the star wars hotel video (4 hours)<br>\n<br>\nThe hotel is gone but you can find out what it was like and some of the good ideas that ended up with awful execution<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=T0CpOYZZZW4\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=T0CpOYZZZW4</a></p>",
+      "contentText": "I watched the star wars hotel video (4 hours)\n\nThe hotel is gone but you can find out what it was like and some of the good ideas that ended up with awful execution\n\nhttps://www.youtube.com/watch?v=T0CpOYZZZW4",
+      "date": "2024-05-27T00:49:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1794893567493890452"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1796295245170438287",
+      "contentHtml": "<p>It is like 12 voices cried out &quot;Guilty&quot;<br>\n<br>\n<a href=\"https://elk.zone/mastodon.social/@mistersql\" rel=\"nofollow noopener\">https://elk.zone/mastodon.social/@mistersql</a></p>",
+      "contentText": "It is like 12 voices cried out \"Guilty\"\n\nhttps://elk.zone/mastodon.social/@mistersql",
+      "date": "2024-05-30T21:38:54+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>It is like 12 voices cried out &quot;Guilty&quot;<br>\n<br>\n<a href=\"https://elk.zone/mastodon.social/@mistersql\" rel=\"nofollow noopener\">https://elk.zone/mastodon.social/@mistersql</a></p>",
+          "contentText": "It is like 12 voices cried out \"Guilty\"\n\nhttps://elk.zone/mastodon.social/@mistersql",
+          "date": "2024-05-30T21:38:54+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "sourceId": "1796295245170438287"
+        },
+        {
+          "contentHtml": "<p>I can&#x27;t even post a meme on this site. Media won&#x27;t upload.</p>",
+          "contentText": "I can't even post a meme on this site. Media won't upload.",
+          "date": "2024-05-30T21:39:39+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1796295245170438287",
+          "sourceId": "1796295433725296728"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1796295245170438287"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1796296976885043324",
+      "contentHtml": "<p>News is happening and it is a ghost town around here.</p>",
+      "contentText": "News is happening and it is a ghost town around here.",
+      "date": "2024-05-30T21:45:47+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1796296976885043324"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1796315135675408822",
+      "contentHtml": "<p>I&#x27;m comparing the #trump tag here vs Mastodon and in both places, the tweets are 98% anti-trump. Where are his supporters, he&#x27;s got no counter buzz.</p>",
+      "contentText": "I'm comparing the #trump tag here vs Mastodon and in both places, the tweets are 98% anti-trump. Where are his supporters, he's got no counter buzz.",
+      "date": "2024-05-30T22:57:56+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1796315135675408822",
+      "tags": [
+        "trump"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1800864699858477122",
+      "contentHtml": "<p>This ad has 15,000 unrelentingly negative replies. That they keep this up &amp; keep showing it is a cry for help from the PM of this product. <a href=\"https://x.com/XDevelopers/status/1720034014164070423\" rel=\"nofollow noopener\">https://x.com/XDevelopers/status/1720034014164070423</a></p>",
+      "contentText": "This ad has 15,000 unrelentingly negative replies. That they keep this up & keep showing it is a cry for help from the PM of this product. https://x.com/XDevelopers/status/1720034014164070423",
+      "date": "2024-06-12T12:16:17+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1800864699858477122"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1800865551679635836",
+      "contentHtml": "<p>Okay, posted a quote tweet. Now back to Mastodon.<br>\n<br>\nGo sign up here: <a href=\"https://mastodon.social/auth/sign_up\" rel=\"nofollow noopener\">https://mastodon.social/auth/sign_up</a></p>",
+      "contentText": "Okay, posted a quote tweet. Now back to Mastodon.\n\nGo sign up here: https://mastodon.social/auth/sign_up",
+      "date": "2024-06-12T12:19:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1800865551679635836"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1806507594808213764",
+      "contentHtml": "<p>The debate conversation is 20% here, 30% on bsky, 30% on mastodon. Where is the other 20%?</p>",
+      "contentText": "The debate conversation is 20% here, 30% on bsky, 30% on mastodon. Where is the other 20%?",
+      "date": "2024-06-28T01:59:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1806507594808213764"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1815115138241851770",
+      "contentHtml": "<p>Any Dem will do!<br>\n<br>\nNever forget who you are America! A bunch of partisans who vote against the other party, who doesn&#x27;t really care about who the candidate is. The administration that comes along with the candidate is what matters.</p>",
+      "contentText": "Any Dem will do!\n\nNever forget who you are America! A bunch of partisans who vote against the other party, who doesn't really care about who the candidate is. The administration that comes along with the candidate is what matters.",
+      "date": "2024-07-21T20:02:26+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>Any Dem will do!<br>\n<br>\nNever forget who you are America! A bunch of partisans who vote against the other party, who doesn&#x27;t really care about who the candidate is. The administration that comes along with the candidate is what matters.</p>",
+          "contentText": "Any Dem will do!\n\nNever forget who you are America! A bunch of partisans who vote against the other party, who doesn't really care about who the candidate is. The administration that comes along with the candidate is what matters.",
+          "date": "2024-07-21T20:02:26+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "1815115138241851770"
+        },
+        {
+          "contentHtml": "<p>Whatever candidate gets a nomination inherits the whole campaign organization.<br>\n<br>\n- Independents lean Dems this round<br>\n- Nut cases lean Kennedy<br>\nAdd it up and the Presidency goes to the Democrats.</p>",
+          "contentText": "Whatever candidate gets a nomination inherits the whole campaign organization.\n\n- Independents lean Dems this round\n- Nut cases lean Kennedy\nAdd it up and the Presidency goes to the Democrats.",
+          "date": "2024-07-21T20:02:37+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1815115138241851770",
+          "sourceId": "1815115181350896107"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1815115138241851770"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1815478964514619662",
+      "contentHtml": "<p>@StravaSupport  can you patch this guy up?<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=RHZskI3i5WQ\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=RHZskI3i5WQ</a><br>\n<br>\nAll the elites, coaches, youtubers, influencers that all have the most followers-- all of them are employed in the world of sports. If he violated protocol in picking his name, let him fix it.</p>",
+      "contentText": "@StravaSupport  can you patch this guy up?\n\nhttps://www.youtube.com/watch?v=RHZskI3i5WQ\n\nAll the elites, coaches, youtubers, influencers that all have the most followers-- all of them are employed in the world of sports. If he violated protocol in picking his name, let him fix it.",
+      "date": "2024-07-22T20:08:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1815478964514619662"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1815497729210036652",
+      "contentHtml": "<p>Every 5th-10th post is an ad.</p>",
+      "contentText": "Every 5th-10th post is an ad.",
+      "date": "2024-07-22T21:22:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1815497729210036652"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1815498806471053729",
+      "contentHtml": "<p>The styling that makes an ad look like a feed tweet is jarring. I keep thinking, &quot;who the f*k is this and why are they in my feed&quot;</p>",
+      "contentText": "The styling that makes an ad look like a feed tweet is jarring. I keep thinking, \"who the f*k is this and why are they in my feed\"",
+      "date": "2024-07-22T21:27:00+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1815498806471053729"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1818622276134117682",
+      "contentHtml": "<p>So musk bought this place so he could censor speech left of his own. The old regime censored people for violating terms of service and bad behavior.<br>\n<br>\n<a href=\"https://wapo.st/3LMqsKM\" rel=\"nofollow noopener\">https://wapo.st/3LMqsKM</a></p>",
+      "contentText": "So musk bought this place so he could censor speech left of his own. The old regime censored people for violating terms of service and bad behavior.\n\nhttps://wapo.st/3LMqsKM",
+      "date": "2024-07-31T12:18:33+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1818622276134117682"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1818622824560365646",
+      "contentHtml": "<p>There are now only 40 people watching my tweets, down from the peak of ~200 before the acquisition. (I haven&#x27;t changed my friend/follows)</p>",
+      "contentText": "There are now only 40 people watching my tweets, down from the peak of ~200 before the acquisition. (I haven't changed my friend/follows)",
+      "date": "2024-07-31T12:20:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1818622824560365646"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1819128861571141974",
+      "contentHtml": "<p>Alt-Right Tech is a Literal Dumpster Fire. This just seems like the right place to amplify this.<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=-Ca8zM3WyVw\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=-Ca8zM3WyVw</a></p>",
+      "contentText": "Alt-Right Tech is a Literal Dumpster Fire. This just seems like the right place to amplify this.\n\nhttps://www.youtube.com/watch?v=-Ca8zM3WyVw",
+      "date": "2024-08-01T21:51:33+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1819128861571141974"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1820107611200487677",
+      "contentHtml": "<p>Bluesky has a better algorithmic feed<br>\nMastodon has better vibes, interaction<br>\nMastodon also has better 3rd party apps</p>",
+      "contentText": "Bluesky has a better algorithmic feed\nMastodon has better vibes, interaction\nMastodon also has better 3rd party apps",
+      "date": "2024-08-04T14:40:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>Bluesky has a better algorithmic feed<br>\nMastodon has better vibes, interaction<br>\nMastodon also has better 3rd party apps</p>",
+          "contentText": "Bluesky has a better algorithmic feed\nMastodon has better vibes, interaction\nMastodon also has better 3rd party apps",
+          "date": "2024-08-04T14:40:45+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "1820107611200487677"
+        },
+        {
+          "contentHtml": "<p>Elk zone duplicates the single column feel of twitter<br>\n<br>\n<a href=\"https://elk.zone\" rel=\"nofollow noopener\">https://elk.zone</a></p>",
+          "contentText": "Elk zone duplicates the single column feel of twitter\n\nhttps://elk.zone",
+          "date": "2024-08-04T14:41:03+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1820107611200487677",
+          "sourceId": "1820107690300866607"
+        },
+        {
+          "contentHtml": "<p>Mastodeck recreates the #tweetdeck experience<br>\n<br>\n<a href=\"https://mastodeck.com/\" rel=\"nofollow noopener\">https://mastodeck.com/</a></p>",
+          "contentText": "Mastodeck recreates the #tweetdeck experience\n\nhttps://mastodeck.com/",
+          "date": "2024-08-04T14:41:45+00:00",
+          "depth": 2,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1820107690300866607",
+          "sourceId": "1820107862426726633",
+          "tags": [
+            "tweetdeck"
+          ]
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1820107611200487677",
+      "tags": [
+        "tweetdeck"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1820637767203999968",
+      "contentHtml": "<p>Twitter&#x27;s RTO was so successful that it has 120 employees in the SF office (just before it closes it and disperses them) <a href=\"https://wapo.st/3yvVeEP\" rel=\"nofollow noopener\">https://wapo.st/3yvVeEP</a></p>",
+      "contentText": "Twitter's RTO was so successful that it has 120 employees in the SF office (just before it closes it and disperses them) https://wapo.st/3yvVeEP",
+      "date": "2024-08-06T01:47:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1820637767203999968"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1821319020043252122",
+      "contentHtml": "<p>@HP ya gotta check out this video about the state of HP customer support, not to speak of the hardware<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=w91lJPVT0ZE\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=w91lJPVT0ZE</a></p>",
+      "contentText": "@HP ya gotta check out this video about the state of HP customer support, not to speak of the hardware\n\nhttps://www.youtube.com/watch?v=w91lJPVT0ZE",
+      "date": "2024-08-07T22:54:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1821319020043252122"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1821935150743068906",
+      "contentHtml": "<p>Okay, here is the Python Data Engineer job listing, almost certainly on my team. Either way, if you&#x27;re a python developer, especially working in big data, apply!<br>\n<br>\n#fediwork #fedihire #pythonjobs #pythonjob<br>\n<br>\n<a href=\"https://wrkbl.ink/26hE5gp\" rel=\"nofollow noopener\">https://wrkbl.ink/26hE5gp</a></p>",
+      "contentText": "Okay, here is the Python Data Engineer job listing, almost certainly on my team. Either way, if you're a python developer, especially working in big data, apply!\n\n#fediwork #fedihire #pythonjobs #pythonjob\n\nhttps://wrkbl.ink/26hE5gp",
+      "date": "2024-08-09T15:42:44+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>Okay, here is the Python Data Engineer job listing, almost certainly on my team. Either way, if you&#x27;re a python developer, especially working in big data, apply!<br>\n<br>\n#fediwork #fedihire #pythonjobs #pythonjob<br>\n<br>\n<a href=\"https://wrkbl.ink/26hE5gp\" rel=\"nofollow noopener\">https://wrkbl.ink/26hE5gp</a></p>",
+          "contentText": "Okay, here is the Python Data Engineer job listing, almost certainly on my team. Either way, if you're a python developer, especially working in big data, apply!\n\n#fediwork #fedihire #pythonjobs #pythonjob\n\nhttps://wrkbl.ink/26hE5gp",
+          "date": "2024-08-09T15:42:44+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "1821935150743068906",
+          "tags": [
+            "fedihire",
+            "fediwork",
+            "pythonjob",
+            "pythonjobs"
+          ]
+        },
+        {
+          "contentHtml": "<p>DM me if you got questions if you want to hear about the mission and work conditions or DM me on mastodon, I&#x27;m more active there.</p>",
+          "contentText": "DM me if you got questions if you want to hear about the mission and work conditions or DM me on mastodon, I'm more active there.",
+          "date": "2024-08-09T15:43:11+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1821935150743068906",
+          "sourceId": "1821935262638768340"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1821935150743068906",
+      "tags": [
+        "fedihire",
+        "fediwork",
+        "pythonjob",
+        "pythonjobs"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1821937720261812560",
+      "contentHtml": "<p>You can&#x27;t see the full list of friends/followers of an account on twitter now? just the first ~200?</p>",
+      "contentText": "You can't see the full list of friends/followers of an account on twitter now? just the first ~200?",
+      "date": "2024-08-09T15:52:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1821937720261812560"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1823156202584383700",
+      "contentHtml": "<p>Massive DDOS of Twitter in the form of shutting down a few data centers and getting rid of most of the staff and SREs</p>",
+      "contentText": "Massive DDOS of Twitter in the form of shutting down a few data centers and getting rid of most of the staff and SREs",
+      "date": "2024-08-13T00:34:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1823156202584383700"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1836512885096526256",
+      "contentHtml": "<p>Job market is so tight I&#x27;m even apply to @NotMyAgile</p>",
+      "contentText": "Job market is so tight I'm even apply to @NotMyAgile",
+      "date": "2024-09-18T21:09:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1836512885096526256"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1841099956771340679",
+      "contentHtml": "<p>Periodic reminder, I&#x27;m available for hire for #python or #dotnet work in the #govtech or #dctech scene. (NoVA or Remote)<br>\n<br>\n<a href=\"https://github.com/matthewdeanmartin\" rel=\"nofollow noopener\">https://github.com/matthewdeanmartin</a></p>",
+      "contentText": "Periodic reminder, I'm available for hire for #python or #dotnet work in the #govtech or #dctech scene. (NoVA or Remote)\n\nhttps://github.com/matthewdeanmartin",
+      "date": "2024-10-01T12:56:50+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1841099956771340679",
+      "tags": [
+        "dctech",
+        "dotnet",
+        "govtech",
+        "python"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1843719357366710305",
+      "contentHtml": "<p>Are you in #dctech ? Connect to me on LinkedIn, it helps your SEO ranking on LinkedIn next time you&#x27;re job hunting.<br>\n<br>\n<a href=\"https://www.linkedin.com/in/matthewdeanmartin/\" rel=\"nofollow noopener\">https://www.linkedin.com/in/matthewdeanmartin/</a></p>",
+      "contentText": "Are you in #dctech ? Connect to me on LinkedIn, it helps your SEO ranking on LinkedIn next time you're job hunting.\n\nhttps://www.linkedin.com/in/matthewdeanmartin/",
+      "date": "2024-10-08T18:25:24+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1843719357366710305",
+      "tags": [
+        "dctech"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1843823928424443978",
+      "contentHtml": "<p>Interesting #dctech job from the author of Kill it with Fire.<br>\n<br>\nData (Spark, Airflow, Databricks), TypeScript, RoR<br>\n<br>\nCrystal City, VA near the metro stop.<br>\n<br>\n<a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7249424299323723776/\" rel=\"nofollow noopener\">https://www.linkedin.com/feed/update/urn:li:activity:7249424299323723776/</a></p>",
+      "contentText": "Interesting #dctech job from the author of Kill it with Fire.\n\nData (Spark, Airflow, Databricks), TypeScript, RoR\n\nCrystal City, VA near the metro stop.\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:7249424299323723776/",
+      "date": "2024-10-09T01:20:55+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1843823928424443978",
+      "tags": [
+        "dctech"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1850295897923387624",
+      "contentHtml": "<p>I think immigrants who are hypocritical about immigration should be deported. Maybe he can go back to SA and tell his countrymen how to run their immigration system.<br>\n<br>\n<a href=\"https://wapo.st/4e0PdyI\" rel=\"nofollow noopener\">https://wapo.st/4e0PdyI</a></p>",
+      "contentText": "I think immigrants who are hypocritical about immigration should be deported. Maybe he can go back to SA and tell his countrymen how to run their immigration system.\n\nhttps://wapo.st/4e0PdyI",
+      "date": "2024-10-26T21:58:13+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1850295897923387624"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1852369009791897814",
+      "contentHtml": "<p>Why are people tweeting butterflies</p>",
+      "contentText": "Why are people tweeting butterflies",
+      "date": "2024-11-01T15:16:01+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1852369009791897814"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1853080697428119815",
+      "contentHtml": "<p>META: interview of authors of book about Musk&#x27;s take over of Twitter<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=-OsbM1JWykM\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=-OsbM1JWykM</a></p>",
+      "contentText": "META: interview of authors of book about Musk's take over of Twitter\n\nhttps://www.youtube.com/watch?v=-OsbM1JWykM",
+      "date": "2024-11-03T14:24:01+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1853080697428119815"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1853081601543897179",
+      "contentHtml": "<p>&quot;For you&quot; means &quot;For Musk &amp; the company&quot; because it a appears to be just paid accounts. Why not go all in an create a tab for &quot;Ads&quot;</p>",
+      "contentText": "\"For you\" means \"For Musk & the company\" because it a appears to be just paid accounts. Why not go all in an create a tab for \"Ads\"",
+      "date": "2024-11-03T14:27:37+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1853081601543897179"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1853081666694082883",
+      "contentHtml": "<p>Or rename &quot;For you&quot; to &quot;Ads&quot;</p>",
+      "contentText": "Or rename \"For you\" to \"Ads\"",
+      "date": "2024-11-03T14:27:52+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1853081666694082883"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1853635075167908232",
+      "contentHtml": "<p>I&#x27;m calling it for Harris. <br>\n<br>\n- Polls are trash (&lt;1% response), but journalists can&#x27;t give up on them, 50/50 with true error bars is 0/100-100/0<br>\n- Betting market is is manipulated<br>\n- He is losing on fundamentals<br>\n- He is losing on campaign effectiveness</p>",
+      "contentText": "I'm calling it for Harris. \n\n- Polls are trash (<1% response), but journalists can't give up on them, 50/50 with true error bars is 0/100-100/0\n- Betting market is is manipulated\n- He is losing on fundamentals\n- He is losing on campaign effectiveness",
+      "date": "2024-11-05T03:06:55+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>I&#x27;m calling it for Harris. <br>\n<br>\n- Polls are trash (&lt;1% response), but journalists can&#x27;t give up on them, 50/50 with true error bars is 0/100-100/0<br>\n- Betting market is is manipulated<br>\n- He is losing on fundamentals<br>\n- He is losing on campaign effectiveness</p>",
+          "contentText": "I'm calling it for Harris. \n\n- Polls are trash (<1% response), but journalists can't give up on them, 50/50 with true error bars is 0/100-100/0\n- Betting market is is manipulated\n- He is losing on fundamentals\n- He is losing on campaign effectiveness",
+          "date": "2024-11-05T03:06:55+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "1853635075167908232"
+        },
+        {
+          "contentHtml": "<p>I&#x27;m not saying if they didn&#x27;t keep polling, they wouldn&#x27;t keep getting 50/50, I&#x27;m saying that after you take into account that the 99% are different from the 1% who answer polls, then the true range is 1/99 to 99/1 When you can&#x27;t measure non-response factors, it&#x27;s all stats trash</p>",
+          "contentText": "I'm not saying if they didn't keep polling, they wouldn't keep getting 50/50, I'm saying that after you take into account that the 99% are different from the 1% who answer polls, then the true range is 1/99 to 99/1 When you can't measure non-response factors, it's all stats trash",
+          "date": "2024-11-05T03:08:29+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1853635075167908232",
+          "sourceId": "1853635468073615430"
+        },
+        {
+          "contentHtml": "<p>I was so wrong. Did not see him winning the popular vote. My preferred theory is that the apolitical people (non-ideologues) voted for change because of high house prices, high prices of goods, low wage growth, etc. (Other theories can be true too and not explain enough)</p>",
+          "contentText": "I was so wrong. Did not see him winning the popular vote. My preferred theory is that the apolitical people (non-ideologues) voted for change because of high house prices, high prices of goods, low wage growth, etc. (Other theories can be true too and not explain enough)",
+          "date": "2024-11-09T03:20:11+00:00",
+          "depth": 2,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "replyToSourceId": "1853635468073615430",
+          "sourceId": "1855087965854179411"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1853635075167908232"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1853956435526455699",
+      "contentHtml": "<p>The ads here. You got to be kidding me.</p>",
+      "contentText": "The ads here. You got to be kidding me.",
+      "date": "2024-11-06T00:23:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1853956435526455699"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1856000896108204427",
+      "contentHtml": "<p>It is now easier than ever to move off twitter and get the early 2022 experience<br>\n<br>\n<a href=\"https://www.sky-follower-bridge.dev/\" rel=\"nofollow noopener\">https://www.sky-follower-bridge.dev/</a><br>\n<br>\nAFAIK, there isn&#x27;t something similar for Mastodon (although they&#x27;re used to be before the API changes cut off access from debirdify, etc)</p>",
+      "contentText": "It is now easier than ever to move off twitter and get the early 2022 experience\n\nhttps://www.sky-follower-bridge.dev/\n\nAFAIK, there isn't something similar for Mastodon (although they're used to be before the API changes cut off access from debirdify, etc)",
+      "date": "2024-11-11T15:47:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1856000896108204427"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1856001243866427441",
+      "contentHtml": "<p>I will admit that current twitter does have far more content for:<br>\n<br>\n- The AI industry<br>\n- Sex Workers<br>\n<br>\nI&#x27;ll let you draw your own conclusions about all that.</p>",
+      "contentText": "I will admit that current twitter does have far more content for:\n\n- The AI industry\n- Sex Workers\n\nI'll let you draw your own conclusions about all that.",
+      "date": "2024-11-11T15:49:14+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1856001243866427441"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1856748468984811946",
+      "contentHtml": "<p>Blue sky is hoppin&#x27; man, go try it out</p>",
+      "contentText": "Blue sky is hoppin' man, go try it out",
+      "date": "2024-11-13T17:18:26+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>Blue sky is hoppin&#x27; man, go try it out</p>",
+          "contentText": "Blue sky is hoppin' man, go try it out",
+          "date": "2024-11-13T17:18:26+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "sourceId": "1856748468984811946"
+        },
+        {
+          "contentHtml": "<p>So is Mastodon but y&#x27;all already know about that if you&#x27;ve read my last 100 tweets</p>",
+          "contentText": "So is Mastodon but y'all already know about that if you've read my last 100 tweets",
+          "date": "2024-11-13T17:19:08+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1856748468984811946",
+          "sourceId": "1856748645137141836"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1856748468984811946"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1857251006897180708",
+      "contentHtml": "<p>WaPo has a message for you <br>\n<br>\n<a href=\"https://wapo.st/3UQwPBY\" rel=\"nofollow noopener\">https://wapo.st/3UQwPBY</a></p>",
+      "contentText": "WaPo has a message for you \n\nhttps://wapo.st/3UQwPBY",
+      "date": "2024-11-15T02:35:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1857251006897180708"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1857814071942299672",
+      "contentHtml": "<p>Getting views counts of ~20 per tweet. That is a 90% drop since twitters peak when I would get 200 views for unclever Dad jokes.</p>",
+      "contentText": "Getting views counts of ~20 per tweet. That is a 90% drop since twitters peak when I would get 200 views for unclever Dad jokes.",
+      "date": "2024-11-16T15:52:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1857814071942299672"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1857814492903522713",
+      "contentHtml": "<p>🦋🐘🧵🔥<br>\n<br>\n🔥- that&#x27;s LinkedIn.</p>",
+      "contentText": "🦋🐘🧵🔥\n\n🔥- that's LinkedIn.",
+      "date": "2024-11-16T15:54:26+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1857814492903522713"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1857893735561834842",
+      "contentHtml": "<p>Well spoken<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=y8zfgIgZ4c0\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=y8zfgIgZ4c0</a></p>",
+      "contentText": "Well spoken\n\nhttps://www.youtube.com/watch?v=y8zfgIgZ4c0",
+      "date": "2024-11-16T21:09:19+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1857893735561834842"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1860388364827992268",
+      "contentHtml": "<p>Good video on the remaining user base here:<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=GZ5XN_mJE8Y\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=GZ5XN_mJE8Y</a></p>",
+      "contentText": "Good video on the remaining user base here:\n\nhttps://www.youtube.com/watch?v=GZ5XN_mJE8Y",
+      "date": "2024-11-23T18:22:05+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1860388364827992268"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1860875692944060845",
+      "contentHtml": "<p><a href=\"https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x\" rel=\"nofollow noopener\">https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x</a></p>",
+      "contentText": "https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x",
+      "date": "2024-11-25T02:38:33+00:00",
+      "language": "zxx",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1860875692944060845"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1862847544021147823",
+      "contentHtml": "<p>Links are aggressively hidden on Twitter and threads<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=D4ghgVq9z4M\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=D4ghgVq9z4M</a></p>",
+      "contentText": "Links are aggressively hidden on Twitter and threads\n\nhttps://www.youtube.com/watch?v=D4ghgVq9z4M",
+      "date": "2024-11-30T13:13:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1862847544021147823"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1862847653731590171",
+      "contentHtml": "<p>Does a quote tweet wrapper remove the downranking on tweets with links? <a href=\"https://x.com/mistersql/status/1862847544021147823\" rel=\"nofollow noopener\">https://x.com/mistersql/status/1862847544021147823</a></p>",
+      "contentText": "Does a quote tweet wrapper remove the downranking on tweets with links? https://x.com/mistersql/status/1862847544021147823",
+      "date": "2024-11-30T13:14:25+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 2,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1862847653731590171"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1870164374507184153",
+      "contentHtml": "<p>I&#x27;m on the job market again, anyone need an Python/AWS developer for an IC or Tech Lead role?<br>\n<br>\n- For remote, my jurisdiction is Virginia, USA<br>\n- In person in Northern VA, DC<br>\n<br>\nResumes, portfolio, contact info see following tweets:</p>",
+      "contentText": "I'm on the job market again, anyone need an Python/AWS developer for an IC or Tech Lead role?\n\n- For remote, my jurisdiction is Virginia, USA\n- In person in Northern VA, DC\n\nResumes, portfolio, contact info see following tweets:",
+      "date": "2024-12-20T17:48:27+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 3,
+        "reposts": 1
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>I&#x27;m on the job market again, anyone need an Python/AWS developer for an IC or Tech Lead role?<br>\n<br>\n- For remote, my jurisdiction is Virginia, USA<br>\n- In person in Northern VA, DC<br>\n<br>\nResumes, portfolio, contact info see following tweets:</p>",
+          "contentText": "I'm on the job market again, anyone need an Python/AWS developer for an IC or Tech Lead role?\n\n- For remote, my jurisdiction is Virginia, USA\n- In person in Northern VA, DC\n\nResumes, portfolio, contact info see following tweets:",
+          "date": "2024-12-20T17:48:27+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 3,
+            "reposts": 1
+          },
+          "sourceId": "1870164374507184153"
+        },
+        {
+          "contentHtml": "<p>Github <a href=\"http://github.com/matthewdeanmartin\" rel=\"nofollow noopener\">http://github.com/matthewdeanmartin</a></p>",
+          "contentText": "Github http://github.com/matthewdeanmartin",
+          "date": "2024-12-20T17:48:38+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "replyToSourceId": "1870164374507184153",
+          "sourceId": "1870164422468989313"
+        },
+        {
+          "contentHtml": "<p>LinkedIn - <a href=\"https://www.linkedin.com/in/matthewdeanmartin/\" rel=\"nofollow noopener\">https://www.linkedin.com/in/matthewdeanmartin/</a></p>",
+          "contentText": "LinkedIn - https://www.linkedin.com/in/matthewdeanmartin/",
+          "date": "2024-12-20T17:49:50+00:00",
+          "depth": 2,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "replyToSourceId": "1870164422468989313",
+          "sourceId": "1870164720486961653"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1870164374507184153"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "twitter",
+  "year": "2024"
+}

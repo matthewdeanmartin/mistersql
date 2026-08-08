@@ -1,0 +1,27 @@
+<section class="rail-card profile-card">
+  <div class="profile-banner" aria-hidden="true"></div>
+  <div class="profile-body">
+    <span class="profile-avatar" aria-hidden="true">M</span>
+    <h2>{{ site.Params.author | default site.Title }}</h2>
+    <p class="profile-handle">@{{ site.Params.handle | default "mistersql" }}</p>
+    <p>{{ site.Params.description | default "Public posts archived on a site I control." }}</p>
+  </div>
+</section>
+
+<section class="rail-card rail-section">
+  <div class="rail-heading">
+    <h2>Blog hashtags</h2>
+    <a href="{{ relURL "tags/" }}">See all</a>
+  </div>
+  <nav class="hashtag-list" aria-label="Popular blog hashtags">
+    {{ range first 8 site.Taxonomies.tags.ByCount }}
+      <a href="{{ .Page.RelPermalink }}">
+        <span>#{{ .Page.LinkTitle }}</span>
+        <small>{{ .Count }} post{{ if ne .Count 1 }}s{{ end }}</small>
+      </a>
+    {{ else }}
+      <p class="rail-empty">Hashtags will appear as posts are imported.</p>
+    {{ end }}
+  </nav>
+</section>
+

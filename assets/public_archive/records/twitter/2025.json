@@ -1,0 +1,212 @@
+{
+  "corpusVersion": 1,
+  "records": [
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1877373932937879877",
+      "contentHtml": "<p>For anyone left here, periodic reminder I&#x27;m back on the job market. Here is me blogging about changing programming languages on LinkedIn<br>\n<br>\n<a href=\"https://www.linkedin.com/posts/matthewdeanmartin_changing-programming-languages-so-far-in-activity-7283137642328719363-IN4I?utm_source=share&amp;utm_medium=member_desktop\" rel=\"nofollow noopener\">https://www.linkedin.com/posts/matthewdeanmartin_changing-programming-languages-so-far-in-activity-7283137642328719363-IN4I?utm_source=share&amp;utm_medium=member_desktop</a></p>",
+      "contentText": "For anyone left here, periodic reminder I'm back on the job market. Here is me blogging about changing programming languages on LinkedIn\n\nhttps://www.linkedin.com/posts/matthewdeanmartin_changing-programming-languages-so-far-in-activity-7283137642328719363-IN4I?utm_source=share&utm_medium=member_desktop",
+      "date": "2025-01-09T15:16:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>For anyone left here, periodic reminder I&#x27;m back on the job market. Here is me blogging about changing programming languages on LinkedIn<br>\n<br>\n<a href=\"https://www.linkedin.com/posts/matthewdeanmartin_changing-programming-languages-so-far-in-activity-7283137642328719363-IN4I?utm_source=share&amp;utm_medium=member_desktop\" rel=\"nofollow noopener\">https://www.linkedin.com/posts/matthewdeanmartin_changing-programming-languages-so-far-in-activity-7283137642328719363-IN4I?utm_source=share&amp;utm_medium=member_desktop</a></p>",
+          "contentText": "For anyone left here, periodic reminder I'm back on the job market. Here is me blogging about changing programming languages on LinkedIn\n\nhttps://www.linkedin.com/posts/matthewdeanmartin_changing-programming-languages-so-far-in-activity-7283137642328719363-IN4I?utm_source=share&utm_medium=member_desktop",
+          "date": "2025-01-09T15:16:40+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 0
+          },
+          "sourceId": "1877373932937879877"
+        },
+        {
+          "contentHtml": "<p>Looking at the feed, post view counts from non-celebs are minuscule. This place is going to be like Threads, a bunch of big name brands and the content and interaction with the plebes will be gone.</p>",
+          "contentText": "Looking at the feed, post view counts from non-celebs are minuscule. This place is going to be like Threads, a bunch of big name brands and the content and interaction with the plebes will be gone.",
+          "date": "2025-01-09T15:24:09+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1877373932937879877",
+          "sourceId": "1877375816637518022"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1877373932937879877"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1879525023498813575",
+      "contentHtml": "<p>Today&#x27;s blog post, part 1 in a series on &quot;Interview Coding Problems&quot;<br>\n<br>\n<a href=\"https://www.linkedin.com/posts/matthewdeanmartin_good-morning-who-am-i-ive-been-on-both-activity-7285287963553329153-TTL9?utm_source=share&amp;utm_medium=member_desktop\" rel=\"nofollow noopener\">https://www.linkedin.com/posts/matthewdeanmartin_good-morning-who-am-i-ive-been-on-both-activity-7285287963553329153-TTL9?utm_source=share&amp;utm_medium=member_desktop</a></p>",
+      "contentText": "Today's blog post, part 1 in a series on \"Interview Coding Problems\"\n\nhttps://www.linkedin.com/posts/matthewdeanmartin_good-morning-who-am-i-ive-been-on-both-activity-7285287963553329153-TTL9?utm_source=share&utm_medium=member_desktop",
+      "date": "2025-01-15T13:44:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1879525023498813575"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1881012226322259968",
+      "contentHtml": "<p>A personal cloud account is so risky. The companies let you do infinite spend, not caring if you are not a company or an individual. No individual should be automatically granted the credit to for infinite spend.<br>\n<br>\n#aws #firebase #azure #GCP</p>",
+      "contentText": "A personal cloud account is so risky. The companies let you do infinite spend, not caring if you are not a company or an individual. No individual should be automatically granted the credit to for infinite spend.\n\n#aws #firebase #azure #GCP",
+      "date": "2025-01-19T16:13:56+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1881012226322259968",
+      "tags": [
+        "aws",
+        "azure",
+        "firebase",
+        "GCP"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1884607212045148466",
+      "contentHtml": "<p>Don&#x27;t resign. The government hasn&#x27;t set aside any money for the &quot;please resign&quot; scheme<br>\n<br>\n<a href=\"https://bsky.app/profile/sahilkapur.bsky.social/post/3lgttupu7q22d\" rel=\"nofollow noopener\">https://bsky.app/profile/sahilkapur.bsky.social/post/3lgttupu7q22d</a></p>",
+      "contentText": "Don't resign. The government hasn't set aside any money for the \"please resign\" scheme\n\nhttps://bsky.app/profile/sahilkapur.bsky.social/post/3lgttupu7q22d",
+      "date": "2025-01-29T14:19:08+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1884607212045148466"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1899182591623983292",
+      "contentHtml": "<p>That is a lot of likes from crypto scammers. I think I see why the site here is going down today.</p>",
+      "contentText": "That is a lot of likes from crypto scammers. I think I see why the site here is going down today.",
+      "date": "2025-03-10T19:36:29+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1899182591623983292"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1899182797232714018",
+      "contentHtml": "<p>All I got to say here is that I will never for the rest of my life ever buy a Tesla. I&#x27;ll get a Chevy electric car.</p>",
+      "contentText": "All I got to say here is that I will never for the rest of my life ever buy a Tesla. I'll get a Chevy electric car.",
+      "date": "2025-03-10T19:37:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1899182797232714018"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1993732523034103914",
+      "contentHtml": "<p>Logging in to unfollow some people. I think a lot of people are still here on twitter because they got a (large) follower count.</p>",
+      "contentText": "Logging in to unfollow some people. I think a lot of people are still here on twitter because they got a (large) follower count.",
+      "date": "2025-11-26T17:24:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>Logging in to unfollow some people. I think a lot of people are still here on twitter because they got a (large) follower count.</p>",
+          "contentText": "Logging in to unfollow some people. I think a lot of people are still here on twitter because they got a (large) follower count.",
+          "date": "2025-11-26T17:24:09+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "1993732523034103914"
+        },
+        {
+          "contentHtml": "<p>- cross posters? unfollowed, can catch them elsewhere<br>\n- not a mutual? unfollowed<br>\n- brands &amp; the like? unfollowed</p>",
+          "contentText": "- cross posters? unfollowed, can catch them elsewhere\n- not a mutual? unfollowed\n- brands & the like? unfollowed",
+          "date": "2025-11-26T17:33:00+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "1993732523034103914",
+          "sourceId": "1993734747252502605"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "1993732523034103914"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1993735737343103169",
+      "contentHtml": "<p>An account I follow with 5000 followers is getting ~20 views per post. That is 10x lower than it was at twitters peak. 90% of people are gone.</p>",
+      "contentText": "An account I follow with 5000 followers is getting ~20 views per post. That is 10x lower than it was at twitters peak. 90% of people are gone.",
+      "date": "2025-11-26T17:36:56+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1993735737343103169"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1993737680866214158",
+      "contentHtml": "<p>It has never been easier to switch over to Bluesky.<br>\n<br>\nThey got starter packs for your initial friends feed and the Discover tab is a very good algorithm<br>\n<br>\n<a href=\"https://blueskydirectory.com/starter-packs\" rel=\"nofollow noopener\">https://blueskydirectory.com/starter-packs</a></p>",
+      "contentText": "It has never been easier to switch over to Bluesky.\n\nThey got starter packs for your initial friends feed and the Discover tab is a very good algorithm\n\nhttps://blueskydirectory.com/starter-packs",
+      "date": "2025-11-26T17:44:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1993737680866214158"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "twitter",
+  "year": "2025"
+}

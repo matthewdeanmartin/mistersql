@@ -1,0 +1,38 @@
+{{/*
+  Build public social pages directly from the tracked, allowlisted corpus in
+  assets/public_archive/records/. Raw Twitter and Mastodon exports never enter
+  Hugo or GitHub Actions.
+
+  The Python publication validator owns the data boundary. This adapter only
+  projects already-public canonical records into Hugo's page graph so normal
+  pagination, tags, RSS, sitemaps, and single-page layouts remain unified.
+*/}}
+{{ $adapter := . }}
+{{ range resources.Match "public_archive/records/*/*.json" }}
+  {{ with . | transform.Unmarshal }}
+      {{ range $record := .records }}
+        {{ $params := dict
+          "hideTitle" true
+          "socialKind" $record.socialKind
+          "source" $record.source
+          "persona" $record.persona
+          "sourceId" $record.sourceId
+          "socialMetrics" $record.metrics
+        }}
+        {{ with $record.canonicalUrl }}{{ $params = collections.Merge $params (dict "canonicalUrl" .) }}{{ end }}
+        {{ with $record.language }}{{ $params = collections.Merge $params (dict "language" .) }}{{ end }}
+        {{ with $record.tags }}{{ $params = collections.Merge $params (dict "tags" .) }}{{ end }}
+        {{ with $record.parts }}{{ $params = collections.Merge $params (dict "socialParts" .) }}{{ end }}
+        {{ with $record.contentWarning }}{{ $params = collections.Merge $params (dict "contentWarning" .) }}{{ end }}
+        {{ with $record.poll }}{{ $params = collections.Merge $params (dict "socialPoll" .) }}{{ end }}
+
+        {{ $adapter.AddPage (dict
+          "path" (printf "%s/%s" $record.source $record.sourceId)
+          "title" (strings.Truncate 96 $record.contentText)
+          "date" (time.AsTime $record.date)
+          "params" $params
+          "content" (dict "value" $record.contentHtml "mediaType" "text/html")
+        ) }}
+      {{ end }}
+  {{ end }}
+{{ end }}

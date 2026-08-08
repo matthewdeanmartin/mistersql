@@ -1,0 +1,315 @@
+{
+  "corpusVersion": 1,
+  "records": [
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/1991145610",
+      "contentHtml": "<p>1TB drives external are the new floppies.  I mean, the new thumbdrives.</p>",
+      "contentText": "1TB drives external are the new floppies.  I mean, the new thumbdrives.",
+      "date": "2009-06-01T13:29:33+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "1991145610"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2239606893",
+      "contentHtml": "<p>So calling base.OnPreRender inside Page_PreRender is an infinite loop. Who&#x27;d have thunk it?</p>",
+      "contentText": "So calling base.OnPreRender inside Page_PreRender is an infinite loop. Who'd have thunk it?",
+      "date": "2009-06-19T15:44:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2239606893"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2241583694",
+      "contentHtml": "<p>Zeno&#x27;s todo list. First you complete 90%, then the 90% of what remains, etc.</p>",
+      "contentText": "Zeno's todo list. First you complete 90%, then the 90% of what remains, etc.",
+      "date": "2009-06-19T18:07:38+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2241583694"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2278052344",
+      "contentHtml": "<p>This will never replace blogging, it is just an excuse to stop writing for people who found writing burdensome.</p>",
+      "contentText": "This will never replace blogging, it is just an excuse to stop writing for people who found writing burdensome.",
+      "date": "2009-06-22T12:17:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2278052344"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2293822119",
+      "contentHtml": "<p>I&#x27;m going write me some...unit tests. No..integration tests. No..integration tests using a unit test framework. Or something.</p>",
+      "contentText": "I'm going write me some...unit tests. No..integration tests. No..integration tests using a unit test framework. Or something.",
+      "date": "2009-06-23T12:34:04+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2293822119"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2407096601",
+      "contentHtml": "<p>IIS magically unhosed itself by a reboot of the whole workstation.  Pure magic.</p>",
+      "contentText": "IIS magically unhosed itself by a reboot of the whole workstation.  Pure magic.",
+      "date": "2009-06-30T18:02:11+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2407096601"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2407111953",
+      "contentHtml": "<p>How easy to user are hacking toolkits now adays?  Is black hat hacking now easy enough for grandma?</p>",
+      "contentText": "How easy to user are hacking toolkits now adays?  Is black hat hacking now easy enough for grandma?",
+      "date": "2009-06-30T18:03:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2407111953"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2428473642",
+      "contentHtml": "<p>How many hours is it supposed to take to setup Windows Home Server?  What a crappy out of the box experience.  My MediaSmart is stuck at 18%</p>",
+      "contentText": "How many hours is it supposed to take to setup Windows Home Server?  What a crappy out of the box experience.  My MediaSmart is stuck at 18%",
+      "date": "2009-07-01T23:54:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2428473642"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2428486119",
+      "contentHtml": "<p>Can&#x27;t tell if my EX487 is dead on arrival or just mind boggling slow on first turn on.</p>",
+      "contentText": "Can't tell if my EX487 is dead on arrival or just mind boggling slow on first turn on.",
+      "date": "2009-07-01T23:55:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2428486119"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2431183962",
+      "contentHtml": "<p>My EX487 likes my dell laptop better than my Mac running base camp.  Hmm.  Coincidence?</p>",
+      "contentText": "My EX487 likes my dell laptop better than my Mac running base camp.  Hmm.  Coincidence?",
+      "date": "2009-07-02T03:12:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2431183962"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2436353784",
+      "contentHtml": "<p>Out-of-box experience for EX487 still something to be desired. Neither windows nor apple can resume a interupted backup</p>",
+      "contentText": "Out-of-box experience for EX487 still something to be desired. Neither windows nor apple can resume a interupted backup",
+      "date": "2009-07-02T12:52:22+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2436353784"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2533329396",
+      "contentHtml": "<p>For security and defense against maintenance programmers I will name all my variables with randomly selected names from Harry Potter.</p>",
+      "contentText": "For security and defense against maintenance programmers I will name all my variables with randomly selected names from Harry Potter.",
+      "date": "2009-07-08T14:57:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2533329396"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2568404643",
+      "contentHtml": "<p>My stackoverflow repuation just hit 2000!</p>",
+      "contentText": "My stackoverflow repuation just hit 2000!",
+      "date": "2009-07-10T14:08:40+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2568404643"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2657439262",
+      "contentHtml": "<p>Why user #xhr for XSRF attacks when you can use Java applets, flash, silverlight, etc instead?</p>",
+      "contentText": "Why user #xhr for XSRF attacks when you can use Java applets, flash, silverlight, etc instead?",
+      "date": "2009-07-15T20:39:30+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2657439262",
+      "tags": [
+        "xhr"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2730601850",
+      "contentHtml": "<p>#WHS on a HP MediaSmart is now the cheapest #WSS #Sharepoint host. <a href=\"http://bit.ly/JMFIo\" rel=\"nofollow noopener\">http://bit.ly/JMFIo</a></p>",
+      "contentText": "#WHS on a HP MediaSmart is now the cheapest #WSS #Sharepoint host. http://bit.ly/JMFIo",
+      "date": "2009-07-20T01:15:06+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2730601850",
+      "tags": [
+        "Sharepoint",
+        "WHS",
+        "WSS"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2764418131",
+      "contentHtml": "<p>#timesnapper says I&#x27;ve spent 23 days straight in #visualstudio last year, with some undercounting</p>",
+      "contentText": "#timesnapper says I've spent 23 days straight in #visualstudio last year, with some undercounting",
+      "date": "2009-07-21T20:31:11+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2764418131",
+      "tags": [
+        "timesnapper",
+        "visualstudio"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2863734860",
+      "contentHtml": "<p>Digging #ADO.NETServices. But the name makes for a lousy twitter hash tag. Can I have #astoria?</p>",
+      "contentText": "Digging #ADO.NETServices. But the name makes for a lousy twitter hash tag. Can I have #astoria?",
+      "date": "2009-07-27T03:09:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2863734860",
+      "tags": [
+        "ADO",
+        "astoria"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/3656933856",
+      "contentHtml": "<p>#GBM Anyone know a good neuro-oncologist in Arlington, VA? Family member of mine is looking.</p>",
+      "contentText": "#GBM Anyone know a good neuro-oncologist in Arlington, VA? Family member of mine is looking.",
+      "date": "2009-08-31T01:52:30+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "3656933856",
+      "tags": [
+        "GBM"
+      ]
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "twitter",
+  "year": "2009"
+}

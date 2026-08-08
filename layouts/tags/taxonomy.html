@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <header class="feed-heading">
+    <div>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    </div>
+  </header>
+  {{ with .Content }}<div class="feed-intro prose">{{ . }}</div>{{ end }}
+  <nav class="tag-directory" aria-label="Blog hashtags">
+    {{ range .Data.Terms.ByCount }}
+      <a href="{{ .Page.RelPermalink }}"><span>#{{ .Page.LinkTitle }}</span><small>{{ .Count }}</small></a>
+    {{ else }}
+      <p class="empty-feed">No hashtags yet.</p>
+    {{ end }}
+  </nav>
+{{ end }}

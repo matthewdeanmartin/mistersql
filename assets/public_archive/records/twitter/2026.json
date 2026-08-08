@@ -1,0 +1,639 @@
+{
+  "corpusVersion": 1,
+  "records": [
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2007981851521237489",
+      "contentHtml": "<p>The following feed here stops at ~24 hours ago. I guestimate the feed is about 10 mutuals.</p>",
+      "contentText": "The following feed here stops at ~24 hours ago. I guestimate the feed is about 10 mutuals.",
+      "date": "2026-01-05T01:05:54+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2007981851521237489"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2009466551427321968",
+      "contentHtml": "<p>What a great site. I follow 1700 accounts and on my following tab I get either 0 or 2 posts depending on how I reload.<br>\n<br>\nHere is the mastodon client I&#x27;ve been hacking on <a href=\"https://github.com/matthewdeanmartin/mastodon_is_my_blog\" rel=\"nofollow noopener\">https://github.com/matthewdeanmartin/mastodon_is_my_blog</a></p>",
+      "contentText": "What a great site. I follow 1700 accounts and on my following tab I get either 0 or 2 posts depending on how I reload.\n\nHere is the mastodon client I've been hacking on https://github.com/matthewdeanmartin/mastodon_is_my_blog",
+      "date": "2026-01-09T03:25:34+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2009466551427321968"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2010156641958949260",
+      "contentHtml": "<p>Following is empty, &quot;For you&quot; is gab. Anyhow, bsky is hoppin&#x27;</p>",
+      "contentText": "Following is empty, \"For you\" is gab. Anyhow, bsky is hoppin'",
+      "date": "2026-01-11T01:07:45+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2010156641958949260"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2010874072595370079",
+      "contentHtml": "<p>Well the &quot;Following&quot; tab is empty again today. It says 12-16 people saw my last two posts. So I can post, but I can&#x27;t read.</p>",
+      "contentText": "Well the \"Following\" tab is empty again today. It says 12-16 people saw my last two posts. So I can post, but I can't read.",
+      "date": "2026-01-13T00:38:33+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2010874072595370079"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2010879968268411195",
+      "contentHtml": "<p>time not well spent, but I took a look at who is left on my lists<br>\n- companies<br>\n- people I didn&#x27;t know were rabid reactionaries<br>\n- a huge content gap starting around 2023.<br>\n<br>\nSome lists emptied out due to closed accounts!</p>",
+      "contentText": "time not well spent, but I took a look at who is left on my lists\n- companies\n- people I didn't know were rabid reactionaries\n- a huge content gap starting around 2023.\n\nSome lists emptied out due to closed accounts!",
+      "date": "2026-01-13T01:01:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2010879968268411195"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2011269498956034236",
+      "contentHtml": "<p>oh weird. The following tab has a drop with &quot;popular&quot; and &quot;recent&quot; -- if set to &quot;popular&quot; the following tab shows nothing. I thought I&#x27;d been banned, which would be pretty petty of twitter.</p>",
+      "contentText": "oh weird. The following tab has a drop with \"popular\" and \"recent\" -- if set to \"popular\" the following tab shows nothing. I thought I'd been banned, which would be pretty petty of twitter.",
+      "date": "2026-01-14T02:49:50+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2011269498956034236"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2011269690526744708",
+      "contentHtml": "<p>Still only 5 posts in the &quot;Following&quot; so it isn&#x27;t exactly &quot;working&quot;.</p>",
+      "contentText": "Still only 5 posts in the \"Following\" so it isn't exactly \"working\".",
+      "date": "2026-01-14T02:50:36+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2011269690526744708"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2014111790620135576",
+      "contentHtml": "<p>New feature here today, stopper packs: click on the &quot;following&quot; button on your profile and unfollow everyone.</p>",
+      "contentText": "New feature here today, stopper packs: click on the \"following\" button on your profile and unfollow everyone.",
+      "date": "2026-01-21T23:04:05+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2014111790620135576"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2014830202010951716",
+      "contentHtml": "<p>What happened to X<br>\n<a href=\"https://www.youtube.com/watch?v=6TTE8g4ouBk\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=6TTE8g4ouBk</a></p>",
+      "contentText": "What happened to X\nhttps://www.youtube.com/watch?v=6TTE8g4ouBk",
+      "date": "2026-01-23T22:38:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2014830202010951716"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2014831438940561888",
+      "contentHtml": "<p>The following recent tab only has like 20 posts or so. People can&#x27;t be spending much time there, they must be stuck on the algorithmic feed.</p>",
+      "contentText": "The following recent tab only has like 20 posts or so. People can't be spending much time there, they must be stuck on the algorithmic feed.",
+      "date": "2026-01-23T22:43:43+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2014831438940561888"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2015598698420486534",
+      "contentHtml": "<p>The X Situation<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=q2CfUy9IZQk\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=q2CfUy9IZQk</a></p>",
+      "contentText": "The X Situation\n\nhttps://www.youtube.com/watch?v=q2CfUy9IZQk",
+      "date": "2026-01-26T01:32:32+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2015598698420486534"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2016337731748589758",
+      "contentHtml": "<p>Good.<br>\n<br>\n<a href=\"https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/\" rel=\"nofollow noopener\">https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/</a></p>",
+      "contentText": "Good.\n\nhttps://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/",
+      "date": "2026-01-28T02:29:11+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2016337731748589758"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2016339942423572924",
+      "contentHtml": "<p>&quot;The secret fear of the morally depraved is that virtue is actually common, and that they’re the ones who are alone.&quot;</p>",
+      "contentText": "\"The secret fear of the morally depraved is that virtue is actually common, and that they’re the ones who are alone.\"",
+      "date": "2026-01-28T02:37:58+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2016339942423572924"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2017609905541128597",
+      "contentHtml": "<p>Epstein files implicate Elon Musk as degenerate, which tracks given the effort to change the nazi bar here into a pedo bar<br>\n<br>\n<a href=\"https://youtu.be/rpdTnPWFjDo?t=285\" rel=\"nofollow noopener\">https://youtu.be/rpdTnPWFjDo?t=285</a></p>",
+      "contentText": "Epstein files implicate Elon Musk as degenerate, which tracks given the effort to change the nazi bar here into a pedo bar\n\nhttps://youtu.be/rpdTnPWFjDo?t=285",
+      "date": "2026-01-31T14:44:21+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 1
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2017609905541128597"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2019608110344860136",
+      "contentHtml": "<p>3 Steps:<br>\nGet an account<br>\n<a href=\"https://mastodon.social/\" rel=\"nofollow noopener\">https://mastodon.social/</a></p>",
+      "contentText": "3 Steps:\nGet an account\nhttps://mastodon.social/",
+      "date": "2026-02-06T03:04:30+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>3 Steps:<br>\nGet an account<br>\n<a href=\"https://mastodon.social/\" rel=\"nofollow noopener\">https://mastodon.social/</a></p>",
+          "contentText": "3 Steps:\nGet an account\nhttps://mastodon.social/",
+          "date": "2026-02-06T03:04:30+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "2019608110344860136"
+        },
+        {
+          "contentHtml": "<p>Find a bunch of people to follow<br>\n<br>\n<a href=\"https://fedidevs.com/starter-packs/\" rel=\"nofollow noopener\">https://fedidevs.com/starter-packs/</a></p>",
+          "contentText": "Find a bunch of people to follow\n\nhttps://fedidevs.com/starter-packs/",
+          "date": "2026-02-06T03:04:31+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 1,
+            "reposts": 1
+          },
+          "replyToSourceId": "2019608110344860136",
+          "sourceId": "2019608112144199801"
+        },
+        {
+          "contentHtml": "<p>Login via the most Twitter-like client that exist<br>\n<br>\n<a href=\"https://elk.zone/home\" rel=\"nofollow noopener\">https://elk.zone/home</a></p>",
+          "contentText": "Login via the most Twitter-like client that exist\n\nhttps://elk.zone/home",
+          "date": "2026-02-06T03:04:31+00:00",
+          "depth": 2,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "2019608112144199801",
+          "sourceId": "2019608114346225773"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "2019608110344860136"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2022105362120519905",
+      "contentHtml": "<p>Is this a joke them?<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=wPy063-vd1Y\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=wPy063-vd1Y</a></p>",
+      "contentText": "Is this a joke them?\n\nhttps://www.youtube.com/watch?v=wPy063-vd1Y",
+      "date": "2026-02-13T00:27:41+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2022105362120519905"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2022487160272699778",
+      "contentHtml": "<p><a href=\"https://www.theguardian.com/technology/2026/feb/12/elon-musk-posts-january-white-supremacists\" rel=\"nofollow noopener\">https://www.theguardian.com/technology/2026/feb/12/elon-musk-posts-january-white-supremacists</a></p>",
+      "contentText": "https://www.theguardian.com/technology/2026/feb/12/elon-musk-posts-january-white-supremacists",
+      "date": "2026-02-14T01:44:49+00:00",
+      "language": "zxx",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2022487160272699778"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2023883367767581013",
+      "contentHtml": "<p>Following tab has ~8 tweets and on refresh, 0 tweets.<br>\n<br>\n&quot;For you&quot; is the tab for someone else&#x27;s agenda.</p>",
+      "contentText": "Following tab has ~8 tweets and on refresh, 0 tweets.\n\n\"For you\" is the tab for someone else's agenda.",
+      "date": "2026-02-17T22:12:51+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2023883367767581013"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2024900920752890010",
+      "contentHtml": "<p>there are only 5 people in my following tab today</p>",
+      "contentText": "there are only 5 people in my following tab today",
+      "date": "2026-02-20T17:36:15+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2024900920752890010"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2026022749886357791",
+      "contentHtml": "<p>Twitter on Last Week Tonight. Kudos for not calling it X<br>\n<br>\n<a href=\"https://www.youtube.com/watch?v=p7ZG_xWYLzI\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=p7ZG_xWYLzI</a></p>",
+      "contentText": "Twitter on Last Week Tonight. Kudos for not calling it X\n\nhttps://www.youtube.com/watch?v=p7ZG_xWYLzI",
+      "date": "2026-02-23T19:53:59+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 1,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2026022749886357791"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2027860318290878476",
+      "contentHtml": "<p><a href=\"https://www.theguardian.com/world/2026/feb/28/children-dead-as-missile-hits-elementary-school-in-southern-iran\" rel=\"nofollow noopener\">https://www.theguardian.com/world/2026/feb/28/children-dead-as-missile-hits-elementary-school-in-southern-iran</a></p>",
+      "contentText": "https://www.theguardian.com/world/2026/feb/28/children-dead-as-missile-hits-elementary-school-in-southern-iran",
+      "date": "2026-02-28T21:35:50+00:00",
+      "language": "zxx",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2027860318290878476"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2030686720451039429",
+      "contentHtml": "<p>One of the half dozen remaining engineers at Twitter must have fixed something because the Following tab has content in it today.</p>",
+      "contentText": "One of the half dozen remaining engineers at Twitter must have fixed something because the Following tab has content in it today.",
+      "date": "2026-03-08T16:46:57+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2030686720451039429"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2040757860192125411",
+      "contentHtml": "<p>How did twitter become the place for AI enthusiasts.</p>",
+      "contentText": "How did twitter become the place for AI enthusiasts.",
+      "date": "2026-04-05T11:46:03+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2040757860192125411"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2056491215986532846",
+      "contentHtml": "<p>Do I have 49 more things to say? I guess not.<br>\n<br>\n<a href=\"https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/\" rel=\"nofollow noopener\">https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/</a></p>",
+      "contentText": "Do I have 49 more things to say? I guess not.\n\nhttps://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
+      "date": "2026-05-18T21:44:48+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 4,
+        "reposts": 1
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2056491215986532846"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2058192302498013571",
+      "contentHtml": "<p>No twitter, I&#x27;m not signing up for premium &quot;gab&quot;. It is a nazi bar that only welcomes nazis.</p>",
+      "contentText": "No twitter, I'm not signing up for premium \"gab\". It is a nazi bar that only welcomes nazis.",
+      "date": "2026-05-23T14:24:18+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2058192302498013571"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2058194402619580712",
+      "contentHtml": "<p>I am so angry at #agy - the experience is, one prompt and your tokens are used up. Which is fine, all of the llm tools make you work in constraints but they give you feedback and ways to dial up and down the burn rate.</p>",
+      "contentText": "I am so angry at #agy - the experience is, one prompt and your tokens are used up. Which is fine, all of the llm tools make you work in constraints but they give you feedback and ways to dial up and down the burn rate.",
+      "date": "2026-05-23T14:32:39+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>I am so angry at #agy - the experience is, one prompt and your tokens are used up. Which is fine, all of the llm tools make you work in constraints but they give you feedback and ways to dial up and down the burn rate.</p>",
+          "contentText": "I am so angry at #agy - the experience is, one prompt and your tokens are used up. Which is fine, all of the llm tools make you work in constraints but they give you feedback and ways to dial up and down the burn rate.",
+          "date": "2026-05-23T14:32:39+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "2058194402619580712",
+          "tags": [
+            "agy"
+          ]
+        },
+        {
+          "contentHtml": "<p>#agy doesn&#x27;t. The first use experience is &quot;hello!&quot; sorry wait 4 hours. That&#x27;s it! Doesn&#x27;t even generate code. Dog shit experience.<br>\n<br>\nNext #agy is full of windows Terminal incompatibilities. I assume this works on mac because fuck anyone that doesn&#x27;t own a mac, eh.</p>",
+          "contentText": "#agy doesn't. The first use experience is \"hello!\" sorry wait 4 hours. That's it! Doesn't even generate code. Dog shit experience.\n\nNext #agy is full of windows Terminal incompatibilities. I assume this works on mac because fuck anyone that doesn't own a mac, eh.",
+          "date": "2026-05-23T14:32:40+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "2058194402619580712",
+          "sourceId": "2058194404297380081",
+          "tags": [
+            "agy"
+          ]
+        },
+        {
+          "contentHtml": "<p>They&#x27;re going to end #geminicli and replace it with dog shit.<br>\n<br>\nI&#x27;m complaining here in the nazi bar because there is no one from the AI world listening at the twitter replacements.</p>",
+          "contentText": "They're going to end #geminicli and replace it with dog shit.\n\nI'm complaining here in the nazi bar because there is no one from the AI world listening at the twitter replacements.",
+          "date": "2026-05-23T14:32:40+00:00",
+          "depth": 2,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "2058194404297380081",
+          "sourceId": "2058194405878542535",
+          "tags": [
+            "geminicli"
+          ]
+        },
+        {
+          "contentHtml": "<p>#Google never tested #agy with humans, if they had given it to even one developer to try it out, they would have seen all the issues I&#x27;m talking about.</p>",
+          "contentText": "#Google never tested #agy with humans, if they had given it to even one developer to try it out, they would have seen all the issues I'm talking about.",
+          "date": "2026-05-23T14:32:40+00:00",
+          "depth": 3,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "2058194405878542535",
+          "sourceId": "2058194407497601141",
+          "tags": [
+            "agy",
+            "Google"
+          ]
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "2058194402619580712",
+      "tags": [
+        "agy",
+        "geminicli",
+        "Google"
+      ]
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2060095599584657823",
+      "contentHtml": "<p>More news<br>\n<br>\n<a href=\"https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation?CMP=Share_iOSApp_Other\" rel=\"nofollow noopener\">https://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation?CMP=Share_iOSApp_Other</a></p>",
+      "contentText": "More news\n\nhttps://www.theguardian.com/commentisfree/2026/may/28/still-on-x-ask-yourself-why-platform-twitter-malign-actors-misinformation?CMP=Share_iOSApp_Other",
+      "date": "2026-05-28T20:27:20+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2060095599584657823"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2067335256974213499",
+      "contentHtml": "<p>The algorithm here does successfully encourage people to follow right wing content.<br>\n<br>\nPeople are here to let twitter tell them what to believe and who to vote for.<br>\n<br>\n<a href=\"https://www.nature.com/articles/s41586-026-10098-2\" rel=\"nofollow noopener\">https://www.nature.com/articles/s41586-026-10098-2</a></p>",
+      "contentText": "The algorithm here does successfully encourage people to follow right wing content.\n\nPeople are here to let twitter tell them what to believe and who to vote for.\n\nhttps://www.nature.com/articles/s41586-026-10098-2",
+      "date": "2026-06-17T19:55:09+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2067335256974213499"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2078480884513051033",
+      "contentHtml": "<p>On Mocking Bird (<a href=\"http://mawkingbird.com\" rel=\"nofollow noopener\">http://mawkingbird.com</a>) Get a mastodon account and a bluesky account and you can follow most of the people that left Twitter.<br>\n<br>\n<a href=\"https://mawkingbird.com/\" rel=\"nofollow noopener\">https://mawkingbird.com/</a></p>",
+      "contentText": "On Mocking Bird (http://mawkingbird.com) Get a mastodon account and a bluesky account and you can follow most of the people that left Twitter.\n\nhttps://mawkingbird.com/",
+      "date": "2026-07-18T14:03:53+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "parts": [
+        {
+          "contentHtml": "<p>On Mocking Bird (<a href=\"http://mawkingbird.com\" rel=\"nofollow noopener\">http://mawkingbird.com</a>) Get a mastodon account and a bluesky account and you can follow most of the people that left Twitter.<br>\n<br>\n<a href=\"https://mawkingbird.com/\" rel=\"nofollow noopener\">https://mawkingbird.com/</a></p>",
+          "contentText": "On Mocking Bird (http://mawkingbird.com) Get a mastodon account and a bluesky account and you can follow most of the people that left Twitter.\n\nhttps://mawkingbird.com/",
+          "date": "2026-07-18T14:03:53+00:00",
+          "depth": 0,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "sourceId": "2078480884513051033"
+        },
+        {
+          "contentHtml": "<p>I&#x27;m still working out how to get more peeps off twitter or at least follow them from other platforms. With the API nerfed and Nitter being directly attacked  by the last 2 engineers at this website, it is difficult.</p>",
+          "contentText": "I'm still working out how to get more peeps off twitter or at least follow them from other platforms. With the API nerfed and Nitter being directly attacked  by the last 2 engineers at this website, it is difficult.",
+          "date": "2026-07-18T14:03:54+00:00",
+          "depth": 1,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "2078480884513051033",
+          "sourceId": "2078480886459138528"
+        },
+        {
+          "contentHtml": "<p>I got an idea for doing account correlation so you can find you twitter friends elsewhere, like debirdify did, but that is on the roadmap.</p>",
+          "contentText": "I got an idea for doing account correlation so you can find you twitter friends elsewhere, like debirdify did, but that is on the roadmap.",
+          "date": "2026-07-18T14:03:54+00:00",
+          "depth": 2,
+          "language": "en",
+          "metrics": {
+            "likes": 0,
+            "reposts": 0
+          },
+          "replyToSourceId": "2078480886459138528",
+          "sourceId": "2078480888334049752"
+        }
+      ],
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "storm",
+      "source": "twitter",
+      "sourceId": "2078480884513051033"
+    },
+    {
+      "canonicalUrl": "https://twitter.com/mistersql/status/2079739496199868911",
+      "contentHtml": "<p>So retweets used to be retweets, then likes were retweets and now replies are retweets too. 50% of my feed here is the original post that someone I am following replied to.</p>",
+      "contentText": "So retweets used to be retweets, then likes were retweets and now replies are retweets too. 50% of my feed here is the original post that someone I am following replied to.",
+      "date": "2026-07-22T01:25:10+00:00",
+      "language": "en",
+      "metrics": {
+        "likes": 0,
+        "reposts": 0
+      },
+      "persona": "mistersql",
+      "schemaVersion": 1,
+      "socialKind": "post",
+      "source": "twitter",
+      "sourceId": "2079739496199868911"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "twitter",
+  "year": "2026"
+}

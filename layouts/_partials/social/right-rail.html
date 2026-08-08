@@ -1,0 +1,15 @@
+<section class="rail-card rail-section">
+  <div class="rail-heading"><h2>Archive</h2></div>
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  <dl class="archive-stats">
+    <div><dt>Public posts</dt><dd>{{ len $posts }}</dd></div>
+    <div><dt>Sources</dt><dd>Twitter + Mastodon</dd></div>
+    <div><dt>Format</dt><dd>Static HTML</dd></div>
+  </dl>
+  <a class="rail-button" href="{{ site.Home.RelPermalink }}">Browse the archive</a>
+</section>
+
+<section class="rail-card rail-section">
+  <div class="rail-heading"><h2>About this archive</h2></div>
+  <p class="rail-copy">A read-only record of public writing, kept on my own site.</p>
+</section>

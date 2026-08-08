@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <header class="feed-heading">
+    <div>
+      <h1>#{{ .Title }}</h1>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    </div>
+  </header>
+  {{ with .Content }}<div class="feed-intro prose">{{ . }}</div>{{ end }}
+  {{ $pager := .Paginate .RegularPages }}
+  <section class="post-feed" aria-label="{{ .Title }} posts">
+    {{ range $pager.Pages }}
+      {{ partial "social/card.html" (dict "page" . "single" false) }}
+    {{ else }}
+      <p class="empty-feed">No public posts here yet.</p>
+    {{ end }}
+  </section>
+  {{ partial "social/pager.html" $pager }}
+{{ end }}
