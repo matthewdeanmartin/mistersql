@@ -6,7 +6,7 @@ theme = 'ananke'
 # Real-data preview pages are a local, ignored quarantine from the importer
 # development phase. The tracked public corpus supersedes them; do not make
 # Hugo parse 15,000 duplicate pages on every build.
-ignoreFiles = ['^content/posts/imported/']
+ignoreFiles = ['(?i)[/\\]posts[/\\]imported[/\\]']
 
 [pagination]
   pagerSize = 40

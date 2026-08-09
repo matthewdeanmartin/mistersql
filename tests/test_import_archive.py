@@ -120,6 +120,12 @@ def write_mastodon_zip(path: Path, records: list[dict[str, object]]) -> None:
 
 
 class ImportSafetyTests(unittest.TestCase):
+    def test_hugo_content_adapter_sets_page_date_through_dates_map(self) -> None:
+        adapter = (SCRIPT.parents[1] / "content" / "posts" / "_content.gotmpl").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn('"dates" (dict "date" (time.AsTime $record.date))', adapter)
+
     def test_rejects_private_input_inside_repository(self) -> None:
         with self.assertRaisesRegex(IMPORTER.SafetyError, "outside the repository"):
             IMPORTER.private_input_path(str(Path(__file__).resolve()))

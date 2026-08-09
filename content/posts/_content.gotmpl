@@ -29,7 +29,7 @@
         {{ $adapter.AddPage (dict
           "path" (printf "%s/%s" $record.source $record.sourceId)
           "title" (strings.Truncate 96 $record.contentText)
-          "date" (time.AsTime $record.date)
+          "dates" (dict "date" (time.AsTime $record.date))
           "params" $params
           "content" (dict "value" $record.contentHtml "mediaType" "text/html")
         ) }}
