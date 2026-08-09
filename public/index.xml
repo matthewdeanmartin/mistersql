@@ -10,15 +10,52 @@
 		
 		
 		
-			<lastBuildDate>Thu, 06 Aug 2026 23:03:01 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 08 Aug 2026 00:34:23 +0000</lastBuildDate>
 		
 			<atom:link href="https://matthewdeanmartin.github.io/mistersql/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Indyweb
+- UI - static HTML generators, probably git[hub|lab] or Cloudflare
+- Feeds - RSS &#43; …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117057078113566106/</link>
+				<pubDate>Sat, 08 Aug 2026 00:34:23 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117057078113566106/</guid>
+				<description>&lt;p&gt;Indyweb&lt;br&gt;- UI - static HTML generators, probably git[hub|lab] or Cloudflare&lt;br&gt;- Feeds - RSS + polling.&lt;br&gt;- Likes, Comments, Reposts - Webmention. i.e. 2 way communication&lt;br&gt;- Compute - Build servers &amp;amp; webmention.io&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Periodic reminder that we, as a society, have decided to burn every bit of fossil fuel on the …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117056771006589847/</link>
+				<pubDate>Fri, 07 Aug 2026 23:16:17 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117056771006589847/</guid>
+				<description>&lt;p&gt;Periodic reminder that we, as a society, have decided to burn every bit of fossil fuel on the planet- all the coal, gas and oil and return Earth to the Eocene thermal maximum. We&amp;#x27;re just deciding for what purpose to burn it.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Okay, okay</title>
 				<link>https://matthewdeanmartin.github.io/mistersql/posts/okay-okay/</link>
 				<pubDate>Thu, 06 Aug 2026 23:03:01 +0000</pubDate>
 				<guid>https://matthewdeanmartin.github.io/mistersql/posts/okay-okay/</guid>
 				<description>&lt;p&gt;Let&amp;rsquo;s see what happens now&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>New product! Github Inactions. Where Github tells you to cool it and go take a break. Convenient …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117050703189644132/</link>
+				<pubDate>Thu, 06 Aug 2026 21:33:09 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117050703189644132/</guid>
+				<description>&lt;p&gt;New product! Github Inactions. Where Github tells you to cool it and go take a break. Convenient yaml syntax. Drop them into your `.github/notworkingflow/` folder&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>So... how do I self host github actions and if I self host deploy pages, will they deploy? …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117049764378323571/</link>
+				<pubDate>Thu, 06 Aug 2026 17:34:24 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117049764378323571/</guid>
+				<description>&lt;p&gt;So... how do I self host github actions and if I self host deploy pages, will they deploy?&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://www.githubstatus.com/&#34; rel=&#34;nofollow noopener&#34;&gt;https://www.githubstatus.com/&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IDEA: hugo, a community of people who are able to install and run hugo. Discuss common interest …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117048683641823127/</link>
+				<pubDate>Thu, 06 Aug 2026 12:59:33 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117048683641823127/</guid>
+				<description>&lt;p&gt;IDEA: hugo, a community of people who are able to install and run hugo. Discuss common interest such as github, gitlab and cloudflare pages. git and git submodules. toml, yaml and markdown. Don&amp;#x27;t know these? The bouncer at the door of the club will not let you in.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My First Post</title>
@@ -28,32 +65,248 @@
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Does it work? Does it publish?&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Boosted a post by bascule@mas.to</title>
-				<link>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-2/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-2/</guid>
-				<description>&lt;p class=&#34;h-entry&#34;&gt;&lt;a class=&#34;u-repost-of&#34; href=&#34;https://mas.to/@bascule/117050194612250334&#34;&gt;It took humanity 68 years to install 1TW solar capacity, which we reached in 2022.It took 2 years to double it to 2TW, which we did in Nove…&lt;/a&gt;&lt;/p&gt;</description>
+				<title>POSSE: what if a static html page was a social media network database with info for one user and …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117044459427713120/</link>
+				<pubDate>Wed, 05 Aug 2026 19:05:17 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117044459427713120/</guid>
+				<description>&lt;p&gt;POSSE: what if a static html page was a social media network database with info for one user and everyone creates a distributed database by publishing their own homepages all over. We then handwave away what and who does the compute. (something, maybe webmentions.io) and then patch up the gaps with bridgy.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Boosted a post by mistersql</title>
-				<link>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-3/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-3/</guid>
-				<description>&lt;p class=&#34;h-entry&#34;&gt;&lt;a class=&#34;u-repost-of&#34; href=&#34;https://matthewdeanmartin.github.io/mistersql/posts/init/&#34;&gt;My First PostIntroduction Does it work?&lt;/a&gt;&lt;/p&gt;</description>
+				<title>How to get a raise in devops:
+```bash
+declare -a name
+declare -a name2
+```
+Hope that helps.
+The …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117043912254197544/</link>
+				<pubDate>Wed, 05 Aug 2026 16:46:08 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117043912254197544/</guid>
+				<description>&lt;p&gt;How to get a raise in devops:&lt;/p&gt;&lt;p&gt;```bash&lt;br&gt;declare -a name&lt;br&gt;declare -a name2&lt;br&gt;```&lt;/p&gt;&lt;p&gt;Hope that helps.&lt;/p&gt;&lt;p&gt;The rare programming joke that works spoken better than written.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Liked a post by mistersql</title>
-				<link>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-1/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-1/</guid>
-				<description>&lt;p class=&#34;h-entry&#34;&gt;&lt;a class=&#34;u-like-of&#34; href=&#34;https://mastodon.social/@mistersql/117048683641823127&#34;&gt;IDEA: hugo, a community of people who are able to install and run hugo. Discuss common interest such as github, gitlab and cloudflare pages…&lt;/a&gt;&lt;/p&gt;</description>
+				<title>Unlucky git hash
+`dead672..ee3679a main -&amp;gt; main`</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117039588521343645/</link>
+				<pubDate>Tue, 04 Aug 2026 22:26:33 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117039588521343645/</guid>
+				<description>&lt;p&gt;Unlucky git hash&lt;/p&gt;&lt;p&gt;`dead672..ee3679a  main -&amp;gt; main`&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Liked a post by mistersql</title>
-				<link>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-4/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://matthewdeanmartin.github.io/mistersql/interactions/2026-08-07-4/</guid>
-				<description>&lt;p class=&#34;h-entry&#34;&gt;&lt;a class=&#34;u-like-of&#34; href=&#34;https://matthewdeanmartin.github.io/mistersql/posts/init/&#34;&gt;My First PostIntroduction Does it work?&lt;/a&gt;&lt;/p&gt;</description>
+				<title>Looking at an account, 520 posts, 226 replies received, 0 replies given. Didn&amp;#39;t check likes on …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117037046146908730/</link>
+				<pubDate>Tue, 04 Aug 2026 11:39:59 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117037046146908730/</guid>
+				<description>&lt;p&gt;Looking at an account, 520 posts, 226 replies received, 0 replies given. Didn&amp;#x27;t check likes on replies, but still, 226 people were talking to themselves and didn&amp;#x27;t know it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IDEA: neutrino guns and neutrino bombs for pacifist armies.</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117032448049780398/</link>
+				<pubDate>Mon, 03 Aug 2026 16:10:38 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117032448049780398/</guid>
+				<description>&lt;p&gt;IDEA: neutrino guns and neutrino bombs for pacifist armies.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Failwhale is a joke about &amp;#34;Service Level Agreement Breaching&amp;#34; and a whale jumping out of the …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031913167645775/</link>
+				<pubDate>Mon, 03 Aug 2026 13:54:36 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031913167645775/</guid>
+				<description>&lt;p&gt;Failwhale is a joke about &amp;quot;Service Level Agreement Breaching&amp;quot; and a whale jumping out of the water is breaching, hence the birds carrying the whale out of the water.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IDEA: find all your &amp;#34;tweet storms&amp;#34; in your mastodon feed and republish them as blog posts on …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031601599809156/</link>
+				<pubDate>Mon, 03 Aug 2026 12:35:22 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031601599809156/</guid>
+				<description>&lt;p&gt;IDEA: find all your &amp;quot;tweet storms&amp;quot; in your mastodon feed and republish them as blog posts on your blog that has been ignored for 15 years.&lt;/p&gt;&lt;p&gt;We&amp;#x27;ve been blogging, just, the clients didn&amp;#x27;t support &amp;quot;publish this to my blog too&amp;quot;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Github has 2 main feeds. The sometimes hard to find &amp;#34;home feed&amp;#34; which is 90% noise and the …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031481088935005/</link>
+				<pubDate>Mon, 03 Aug 2026 12:04:43 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031481088935005/</guid>
+				<description>&lt;p&gt;Github has 2 main feeds. The sometimes hard to find &amp;quot;home feed&amp;quot; which is 90% noise and the notifications feed, which is 50% live conversations.&lt;/p&gt;&lt;p&gt;Traffic is spiky (months with nothing, then boom, a lot of conversations)&lt;/p&gt;&lt;p&gt;So I guess there is need for an alternate view. If you could mix it with your mastodon home feed, then you&amp;#x27;d look at it every day.&lt;/p&gt;&lt;p&gt;No one wants to look at githubs 2 feeds every day if 3/4 of the time they&amp;#x27;re empty.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Are you a funkopop day trader? Get your market info even faster with tag feeds …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031358090992695/</link>
+				<pubDate>Mon, 03 Aug 2026 11:33:26 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031358090992695/</guid>
+				<description>&lt;p&gt;Are you a funkopop day trader? Get your market info even faster with tag feeds&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://mawkingbird.com/tags/funkopops&#34; rel=&#34;nofollow noopener&#34;&gt;https://mawkingbird.com/tags/funkopops&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(that link even works without logging in! Did you know there are like, 600 ways to share a feed link, 1 per instance, time number of mastodon web clients)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Do you want to know what Mastodon users are doing to the Funko Pop prices before even Mastodon …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031347163956676/</link>
+				<pubDate>Mon, 03 Aug 2026 11:30:40 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117031347163956676/</guid>
+				<description>&lt;p&gt;Do you want to know what Mastodon users are doing to the Funko Pop prices before even Mastodon knows? Subscribe to all the feeds. The API is free, that&amp;#x27;s zero Euros if you&amp;#x27;re in Europe![*] This previously insider-only info is insider-only because they can&amp;#x27;t convince anyone else to read their feed and then trade on the info.&lt;/p&gt;&lt;p&gt;[*] Zero pounds in England.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>This is the fanciest &amp;#34;invite people to leave twitter/go to mastodon or bsky&amp;#34; that can be made …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117029232344922353/</link>
+				<pubDate>Mon, 03 Aug 2026 02:32:50 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117029232344922353/</guid>
+				<description>&lt;p&gt;This is the fanciest &amp;quot;invite people to leave twitter/go to mastodon or bsky&amp;quot; that can be made&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://mawkingbird.com/invites&#34; rel=&#34;nofollow noopener&#34;&gt;https://mawkingbird.com/invites&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Were you thinking, &amp;#34;I need at least 7 more accounts worth of Matthew Martin&amp;#34;? You&amp;#39;re in luck, …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117027855855297458/</link>
+				<pubDate>Sun, 02 Aug 2026 20:42:46 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117027855855297458/</guid>
+				<description>&lt;p&gt;Were you thinking, &amp;quot;I need at least 7 more accounts worth of Matthew Martin&amp;quot;? You&amp;#x27;re in luck, here are my 7 alts.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://mastodon.social/collections/116977300451076133&#34; rel=&#34;nofollow noopener&#34;&gt;https://mastodon.social/collections/116977300451076133&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>leetcode: Okay, how would you solve this complicated problem with a large problem space but it …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117026350607745019/</link>
+				<pubDate>Sun, 02 Aug 2026 14:19:58 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117026350607745019/</guid>
+				<description>&lt;p&gt;leetcode: Okay, how would you solve this complicated problem with a large problem space but it is really easy to check if a solution is valid.&lt;br&gt;me: monte carlo!&lt;br&gt;leetcode: no....no... this is a pissing contest to save electrons.&lt;br&gt;me: I have never worked on a code base that needed to save electrons (this way). Google, who does need to count each electron will never hire me.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>leetcode is a pissing contest so you first have to hype yourself to to caring how far you can …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117026243484289806/</link>
+				<pubDate>Sun, 02 Aug 2026 13:52:44 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117026243484289806/</guid>
+				<description>&lt;p&gt;leetcode is a pissing contest so you first have to hype yourself to to caring how far you can piss.&lt;/p&gt;&lt;p&gt;Seems like you could win standing on the edge of the grand canyon on a windless day? Do the rules require not getting arrested? Empire state building?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Futzing around with search on mastodon and my take away is, OMG, there is so much 2023 content.</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117023633475939409/</link>
+				<pubDate>Sun, 02 Aug 2026 02:48:58 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117023633475939409/</guid>
+				<description>&lt;p&gt;Futzing around with search on mastodon and my take away is, OMG, there is so much 2023 content.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>So I guess enough people mistyped &amp;#34;lick a link&amp;#34; instead of click a link, that they decide to …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117023146210855944/</link>
+				<pubDate>Sun, 02 Aug 2026 00:45:03 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117023146210855944/</guid>
+				<description>&lt;p&gt;So I guess enough people mistyped &amp;quot;lick a link&amp;quot; instead of click a link, that they decide to give people what they want&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://www.augmental.tech/&#34; rel=&#34;nofollow noopener&#34;&gt;https://www.augmental.tech/&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>&amp;lt;Stares at hands&amp;gt; What have I done? I have unmuted 282 accounts. Everyone hold your backs to the …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117022350887549517/</link>
+				<pubDate>Sat, 01 Aug 2026 21:22:47 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117022350887549517/</guid>
+				<description>&lt;p&gt;&amp;lt;Stares at hands&amp;gt; What have I done? I have unmuted 282 accounts. Everyone hold your backs to the door and don&amp;#x27;t answer when they knock.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Features that probably don&amp;#39;t appeal to Product Owners. Product owners and PMs got their job by …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117022118500211706/</link>
+				<pubDate>Sat, 01 Aug 2026 20:23:41 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117022118500211706/</guid>
+				<description>&lt;p&gt;Features that probably don&amp;#x27;t appeal to Product Owners. Product owners and PMs got their job by murdering the 12 people between intern and PM rank. They got a certain personality.&lt;/p&gt;&lt;p&gt;- Mute amnesty. Unmutes everyone that was transiently annoying. Sort of already supported with timed mutes if you always pick a duration.&lt;br&gt;- Convert block to mute. (yeah, but with 1 button click)&lt;br&gt;- &amp;quot;Block semi-amnesty&amp;quot;, let all the once time bad behavior people read your  posts again, I mean they can anyhow.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Youtube: Are you blocked from your favorite websites, like mastodon.social? Buy consumer VPN! …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117021421624494265/</link>
+				<pubDate>Sat, 01 Aug 2026 17:26:28 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117021421624494265/</guid>
+				<description>&lt;p&gt;Youtube: Are you blocked from your favorite websites, like mastodon.social? Buy consumer VPN!&lt;/p&gt;&lt;p&gt;Real world: Office blocks your favorite website and VPN.&lt;/p&gt;&lt;p&gt;Anyhow, restrain yourself, follow the ToS and do not click on this mastodon client with a bunch of features for using mastodon on a hostile network&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://matthewdeanmartin.github.io/mawkingbird/&#34; rel=&#34;nofollow noopener&#34;&gt;https://matthewdeanmartin.github.io/mawkingbird/&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unlimited power!!!!!!!!!!</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117021016578634854/</link>
+				<pubDate>Sat, 01 Aug 2026 15:43:27 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117021016578634854/</guid>
+				<description>&lt;p&gt;Unlimited power!!!!!!!!!!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mastodon has a textboard embedded in it. A feed of all the new accounts first 20 posts of each …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020759303919486/</link>
+				<pubDate>Sat, 01 Aug 2026 14:38:02 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020759303919486/</guid>
+				<description>&lt;p&gt;Mastodon has a textboard embedded in it. A feed of all the new accounts first 20 posts of each user.&lt;/p&gt;&lt;p&gt;These accounts&lt;br&gt;- no established identity (esp if none even asserted)&lt;br&gt;- nothing to lose if they break the rules&lt;br&gt;- no reputation to besmirch&lt;br&gt;- no one has muted or blocked them&lt;br&gt;- too soon for moderators to squash them if they are bad actors&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>This is an impersonator account, as one gets taken down, it just increments the number after the …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020634612311221/</link>
+				<pubDate>Sat, 01 Aug 2026 14:06:19 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020634612311221/</guid>
+				<description>&lt;p&gt;This is an impersonator account, as one gets taken down, it just increments the number after the name and keeps trying. The other one got reported yesterday.&lt;/p&gt;&lt;p&gt;See, it &amp;quot;clones&amp;quot; an account by retweeting the target accounts data and waits for a follow so it can do DM and start a pig butchering session.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://mastodon.social/@Cydharrell78&#34; rel=&#34;nofollow noopener&#34;&gt;https://mastodon.social/@Cydharrell78&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>This is going to be so weird with the most ardent pro AI and anti AI accounts in the same feed. …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020427371730967/</link>
+				<pubDate>Sat, 01 Aug 2026 13:13:37 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020427371730967/</guid>
+				<description>&lt;p&gt;This is going to be so weird with the most ardent pro AI and anti AI accounts in the same feed. Just like the good ole days on twitter when occasionally you&amp;#x27;d run into someone you disagree with. And to think we thought it was an echo chamber.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IDEA: $PAGER app named &amp;#34;not_a_dog_shit_experience_like_less_or_more&amp;#34;</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020377273094394/</link>
+				<pubDate>Sat, 01 Aug 2026 13:00:52 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117020377273094394/</guid>
+				<description>&lt;p&gt;IDEA: $PAGER app named &amp;quot;not_a_dog_shit_experience_like_less_or_more&amp;quot;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IDEA: a &amp;#34;just my server&amp;#34; toggle button and 
+- home feed becomes server feed minus retweets
+- now …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117019969868193320/</link>
+				<pubDate>Sat, 01 Aug 2026 11:17:16 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117019969868193320/</guid>
+				<description>&lt;p&gt;IDEA: a &amp;quot;just my server&amp;quot; toggle button and &lt;br&gt;- home feed becomes server feed minus retweets&lt;br&gt;- now the usual home feed is homeless :( I bet 90% of people had no discipline in following just people on their home server, and it could be 10-20-30 API calls to get 10 posts from your home server.&lt;br&gt;- search defaults to home server&lt;br&gt;- new user experience would be a bunch of starter packs that are clusters of users on the server (not sure how the clustering would work, some ML algorithm)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Step 1: Let&amp;#39;s integrate with 3rd party APIs!
+Step 2: Everything fun is blocked by CORS!
+Step 3: …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117017186957443547/</link>
+				<pubDate>Fri, 31 Jul 2026 23:29:32 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117017186957443547/</guid>
+				<description>&lt;p&gt;Step 1: Let&amp;#x27;s integrate with 3rd party APIs!&lt;br&gt;Step 2: Everything fun is blocked by CORS!&lt;br&gt;Step 3: Self host a CORS proxy? &lt;br&gt;Step 4: Well, if I have to host a server, could just do pastebins and link shorteners and so on myself.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ho! I don&amp;#39;t know how long &amp;#34;Who to follow&amp;#34; has been in the default mastodon client, but its a …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117016540920598669/</link>
+				<pubDate>Fri, 31 Jul 2026 20:45:14 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117016540920598669/</guid>
+				<description>&lt;p&gt;Ho! I don&amp;#x27;t know how long &amp;quot;Who to follow&amp;quot; has been in the default mastodon client, but its a good thing.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ChatTJB. It&amp;#39;s an actual guy with a chatGPT interface. He&amp;#39;ll answer when he gets around to it. …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117016416068683327/</link>
+				<pubDate>Fri, 31 Jul 2026 20:13:29 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117016416068683327/</guid>
+				<description>&lt;p&gt;ChatTJB. It&amp;#x27;s an actual guy with a chatGPT interface. He&amp;#x27;ll answer when he gets around to it.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://chattjb.org/&#34; rel=&#34;nofollow noopener&#34;&gt;https://chattjb.org/&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Philosophy: the processes of thinking that maybe arguments can rise above ad hominens and then …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117016188227085449/</link>
+				<pubDate>Fri, 31 Jul 2026 19:15:33 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117016188227085449/</guid>
+				<description>&lt;p&gt;Philosophy: the processes of thinking that maybe arguments can rise above ad hominens and then realizing how futile it is and studying logic as a exercise in pure mathematics.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Man go punch?
+Try that and I&amp;#39;ll punch you back.</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015692373266019/</link>
+				<pubDate>Fri, 31 Jul 2026 17:09:26 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015692373266019/</guid>
+				<description>&lt;p&gt;Man go punch?&lt;/p&gt;&lt;p&gt;Try that and I&amp;#x27;ll punch you back.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>well, butcher, I was doing good until I got a pig butchering message.
+Everyone knows you don&amp;#39;t …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015338046338000/</link>
+				<pubDate>Fri, 31 Jul 2026 15:39:20 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015338046338000/</guid>
+				<description>&lt;p&gt;well, butcher, I was doing good until I got a pig butchering message.&lt;/p&gt;&lt;p&gt;Everyone knows you don&amp;#x27;t open a DM conversation like that. You have to prove your humanity with a never seen before dad joke.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Got a pig butchering message in my DMs from a likely account impersonator. Sigh.</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015329010456316/</link>
+				<pubDate>Fri, 31 Jul 2026 15:37:02 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015329010456316/</guid>
+				<description>&lt;p&gt;Got a pig butchering message in my DMs from a likely account impersonator. Sigh.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Need a #konglish expert, what does &amp;#34;I&amp;#39;m your bias&amp;#34; mean …</title>
+				<link>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015318370288778/</link>
+				<pubDate>Fri, 31 Jul 2026 15:34:20 +0000</pubDate>
+				<guid>https://matthewdeanmartin.github.io/mistersql/posts/mastodon/117015318370288778/</guid>
+				<description>&lt;p&gt;Need a &lt;a href=&#34;https://mastodon.social/tags/konglish&#34; rel=&#34;nofollow noopener&#34;&gt;#konglish&lt;/a&gt; expert, what does &amp;quot;I&amp;#x27;m your bias&amp;quot; mean&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bMhDJ0S0OBA&#34; rel=&#34;nofollow noopener&#34;&gt;https://www.youtube.com/watch?v=bMhDJ0S0OBA&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -11,6 +11,24 @@ ignoreFiles = ['(?i)[/\\]posts[/\\]imported[/\\]']
 [pagination]
   pagerSize = 40
 
+[services]
+  [services.rss]
+    # Cap the feed. Hugo's default is -1 (every page on the site), which for an
+    # archive this size produced a 10MB index.xml carrying 4,052 items — the
+    # entire imported Mastodon corpus, oldest entries included.
+    #
+    # That is not a theoretical waste. A subscribed reader fetches the whole
+    # thing on every poll, and one client (Mawkingbird) took the feed at its
+    # word, adapted every entry into a post and tried to render the lot, which
+    # locked its tab up. An RSS feed is a "what's new" notice, not a database
+    # dump: the archive is what the site itself is for, and every reader already
+    # has a link to it.
+    #
+    # Keep the feed bounded even as the archive grows. The feed is a "what's
+    # new" notice, not a database dump; 80 is the hard maximum for every RSS
+    # feed Hugo generates from this site.
+    limit = 80
+
 [outputs]
   # Keep one site-wide RSS feed. Per-section and per-hashtag feeds multiply
   # build output without adding value to this archive.

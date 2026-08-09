@@ -1,127 +1,17 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-us">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Mistersql</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Public posts from Twitter and Mastodon, preserved on a site I control.">
     <meta name="generator" content="Hugo 0.164.0">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://matthewdeanmartin.github.io/mistersql/">
+    <link rel="alternate" type="application/rss+xml" title="Mistersql" href="/mistersql/index.xml">
     
+    <link rel="stylesheet" href="/mistersql/css/social.min.86e2ea465fe3ea2d12093b8f4d276e2948b6ee589cfe31ba2fc812f5885a2a24.css" integrity="sha256-huLqRl/j6i0SCTuPTSduKUi27lic/jG6L8gS9YhaKiQ=">
     
-    
-      <meta name="robots" content="index, follow">
-    
-    
-
-    <link rel="stylesheet" href="/mistersql/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
-    <script>
-  (function () {
-    "use strict";
-
-    
-    
-    function revealButtons() {
-      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
-      for (var i = 0; i < buttons.length; i++) {
-        buttons[i].hidden = false;
-      }
-    }
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", revealButtons);
-    } else {
-      revealButtons();
-    }
-
-    function flash(button) {
-      var label = button.querySelector(".code-copy-label");
-      var previous = label ? label.textContent : null;
-      button.classList.add("is-copied");
-      if (label) label.textContent = "Copied";
-      window.setTimeout(function () {
-        button.classList.remove("is-copied");
-        if (label && previous !== null) label.textContent = previous;
-      }, 2000);
-    }
-
-    function legacyCopy(text) {
-      var area = document.createElement("textarea");
-      area.value = text;
-      area.setAttribute("readonly", "");
-      area.style.position = "absolute";
-      area.style.left = "-9999px";
-      document.body.appendChild(area);
-      area.select();
-      var ok = false;
-      try {
-        ok = document.execCommand("copy");
-      } catch (e) {
-        ok = false;
-      }
-      document.body.removeChild(area);
-      return ok;
-    }
-
-    function copyFrom(button) {
-      var container = button.closest(".code-block");
-      if (!container) return;
-      var pre = container.querySelector("pre");
-      if (!pre) return;
-      var source = pre.querySelector("code") || pre;
-      var text = source.innerText;
-
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(text).then(
-          function () { flash(button); },
-          function () { if (legacyCopy(text)) flash(button); }
-        );
-      } else if (legacyCopy(text)) {
-        flash(button);
-      }
-    }
-
-    document.addEventListener("click", function (event) {
-      var button = event.target.closest(".code-copy");
-      if (button) copyFrom(button);
-    });
-  })();
-</script>
-
-    
-      
-
-    
-
-    
-    
-      <link href="/mistersql/index.xml" rel="alternate" type="application/rss+xml" title="Mistersql" />
-      <link href="/mistersql/index.xml" rel="feed" type="application/rss+xml" title="Mistersql" />
-      
-    
-
-    
-      <link rel="canonical" href="https://matthewdeanmartin.github.io/mistersql/">
-    
-
-    
-    
-    <meta property="og:url" content="https://matthewdeanmartin.github.io/mistersql/">
-	<meta property="og:site_name" content="Mistersql">
-	<meta property="og:title" content="Mistersql">
-	<meta property="og:locale" content="en_us">
-	<meta property="og:type" content="website">
-
-	<meta itemprop="name" content="Mistersql">
-	<meta itemprop="datePublished" content="2026-08-06T23:03:01+00:00">
-	<meta itemprop="dateModified" content="2026-08-06T23:03:01+00:00">
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="Mistersql">
-
-      
-      
-    
-	
 <link rel="webmention" href="https://webmention.io/matthewdeanmartin.github.io/webmention" />
 <link rel="pingback" href="https://webmention.io/matthewdeanmartin.github.io/xmlrpc" />
 
@@ -131,201 +21,2233 @@
 
 <link rel="stylesheet" href="/mistersql/css/webmentions.min.2c95c9f559d060215bf9f37ccaf997c2f333e816e95987929198927f82278361.css" integrity="sha256-LJXJ9VnQYCFb&#43;fN8yvmXwvMz6BbpWYeSkZiSf4Ing2E=" />
 
-  </head><body class="ma0 avenir bg-near-white production is-home">
-
-  <header>
-    <div class="pb3-m pb6-l bg-black">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l center items-center justify-between">
-    <a href="/mistersql/" class="f3 fw2 hover-white white-90 dib no-underline">
-      
-        Mistersql
-      
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to posts</a>
+    <header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="/mistersql/" aria-label="Mistersql home">
+      <span class="brand-mark" aria-hidden="true">M</span>
+      <span class="brand-name">Mistersql</span>
     </a>
-    <div class="flex-l items-center">
-      
-
-      
-        <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/mistersql/posts/" title="Posts page">
-              Posts
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/mistersql/interactions/" title="Interactions page">
-              Interactions
-            </a>
-          </li>
-          
-        </ul>
-      
-      <div class="ananke-socials"></div>
-
+    <nav class="primary-nav" aria-label="Primary navigation">
+      <a href="/mistersql/" aria-current="page">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11.5 12 4l9 7.5v8a1 1 0 0 1-1 1h-5.5v-6h-5v6H4a1 1 0 0 1-1-1z"/></svg>
+        <span>Home</span>
+      </a>
+      <a href="/mistersql/tags/">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h16M4 15h16M9 4 7 20M17 4l-2 16"/></svg>
+        <span>Tags</span>
+      </a>
+      <a href="/mistersql/interactions/">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg>
+        <span>Interactions</span>
+      </a>
+    </nav>
+    <div class="header-actions">
+      <details class="more-menu">
+        <summary aria-label="More navigation">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>
+          <span>More</span>
+        </summary>
+        <nav class="menu-panel" aria-label="More">
+          <a href="/mistersql/">Archive</a>
+          <a href="/mistersql/tags/">Hashtags</a>
+          <a href="/mistersql/index.xml">RSS feed</a>
+        </nav>
+      </details>
+      <div class="account-pill" title="Persona switching may live here later">
+        <span class="account-avatar" aria-hidden="true">M</span>
+        <span>mistersql</span>
+      </div>
     </div>
   </div>
-</nav>
+</header>
 
-      
-      <div class="tc-l pv3 ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          Mistersql
-        </h1>
+    <div class="site-grid">
+      <aside class="site-rail site-rail-left" aria-label="About this blog">
+        <section class="rail-card profile-card">
+  <div class="profile-banner" aria-hidden="true"></div>
+  <div class="profile-body">
+    <span class="profile-avatar" aria-hidden="true">M</span>
+    <h2>Matthew Dean Martin</h2>
+    <p class="profile-handle">@mistersql</p>
+    <p>Public posts from Twitter and Mastodon, preserved on a site I control.</p>
+  </div>
+</section>
+
+<section class="rail-card rail-section">
+  <div class="rail-heading">
+    <h2>Blog hashtags</h2>
+    <a href="/mistersql/tags/">See all</a>
+  </div>
+  <nav class="hashtag-list" aria-label="Popular blog hashtags">
+    
+      <a href="/mistersql/tags/python/">
+        <span>#Python</span>
+        <small>278 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/chatgpt/">
+        <span>#ChatGPT</span>
+        <small>256 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/running/">
+        <span>#Running</span>
+        <small>55 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/pypi/">
+        <span>#Pypi</span>
+        <small>47 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/stackoverflow/">
+        <span>#StackOverflow</span>
+        <small>29 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/vs2010/">
+        <span>#Vs2010</span>
+        <small>29 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/aws/">
+        <span>#AWS</span>
+        <small>25 posts</small>
+      </a>
+    
+      <a href="/mistersql/tags/mastodon/">
+        <span>#Mastodon</span>
+        <small>25 posts</small>
+      </a>
+    
+  </nav>
+</section>
+
+
+      </aside>
+      <main id="main-content" class="feed-column" tabindex="-1">
         
-      </div>
+  <header class="feed-heading">
+    <div>
+      <h1>Home</h1>
+      <p>Public posts preserved on my own site.</p>
     </div>
   </header>
-
-<main class="pb7" role="main"><article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray">
+  
+  
+  
+  <section class="post-feed" aria-label="Posts">
     
-  </article>
-
-  
-  
-  
-  
-  
-
-  
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
       
 
-      <section class="w-100 mw8">
-        
-        
-          <div class="w-100 mb4 relative">
-            
 
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
-    <div class="flex-column flex-row-ns flex">
-      
-      <div class="blah w-100">
-        
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/mistersql/interactions/2026-08-07-2/" class="color-inherit dim link">
-            Boosted a post by bascule@mas.to
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <p class="h-entry"><a class="u-repost-of" href="https://mas.to/@bascule/117050194612250334">It took humanity 68 years to install 1TW solar capacity, which we reached in 2022.It took 2 years to double it to 2TW, which we did in Nove…</a></p>
-        </div>
-        <a href="/mistersql/interactions/2026-08-07-2/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="w-100 mb4 relative">
-            
-
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
-    <div class="flex-column flex-row-ns flex">
-      
-      <div class="blah w-100">
-        
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/mistersql/interactions/2026-08-07-3/" class="color-inherit dim link">
-            Boosted a post by mistersql
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <p class="h-entry"><a class="u-repost-of" href="https://matthewdeanmartin.github.io/mistersql/posts/init/">My First PostIntroduction Does it work?</a></p>
-        </div>
-        <a href="/mistersql/interactions/2026-08-07-3/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="w-100 mb4 relative">
-            
-
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
-    <div class="flex-column flex-row-ns flex">
-      
-      <div class="blah w-100">
-        
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/mistersql/interactions/2026-08-07-1/" class="color-inherit dim link">
-            Liked a post by mistersql
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <p class="h-entry"><a class="u-like-of" href="https://mastodon.social/@mistersql/117048683641823127">IDEA: hugo, a community of people who are able to install and run hugo. Discuss common interest such as github, gitlab and cloudflare pages…</a></p>
-        </div>
-        <a href="/mistersql/interactions/2026-08-07-1/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-      </section>
-
-      
-        <section class="w-100">
-          <h1 class="f3">More</h1>
-          
-          
-            <h2 class="f5 fw4 mb4 dib mr3">
-              <a href="/mistersql/interactions/2026-08-07-4/" class="link black dim">
-                Liked a post by mistersql
-              </a>
-            </h2>
-          
-        </section>
-      
-
-    </div>
-  
-</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://matthewdeanmartin.github.io/mistersql/" >
-    &copy;  Mistersql 2026 
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
   </a>
-    <div><div class="ananke-socials"></div>
-</div>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117057078113566106/">
+        <time class="dt-published" datetime="2026-08-08T00:34:23Z">Aug 8, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Indyweb<br>- UI - static HTML generators, probably git[hub|lab] or Cloudflare<br>- Feeds - RSS + polling.<br>- Likes, Comments, Reposts - Webmention. i.e. 2 way communication<br>- Compute - Build servers &amp; webmention.io</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117057078113566106">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 8, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Kind of feels like LaTeX, where the only time you touch it is to flex when you&#x27;re writing your resume. The level of effort is just 10,000x over all alternatives.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117057078113566106/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117057078113566106" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
   </div>
-</footer>
-</body>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117056771006589847/">
+        <time class="dt-published" datetime="2026-08-07T23:16:17Z">Aug 7, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Periodic reminder that we, as a society, have decided to burn every bit of fossil fuel on the planet- all the coal, gas and oil and return Earth to the Eocene thermal maximum. We&#x27;re just deciding for what purpose to burn it.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="2 likes">♡ 2</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117056771006589847/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117056771006589847" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/okay-okay/">
+        <time class="dt-published" datetime="2026-08-06T23:03:01Z">Aug 6, 2026</time>
+      </a>
+      <span class="source-badge">POSSE</span>
+    </header>
+    <div class="card-content e-content prose">
+      <h2><a href="/mistersql/posts/okay-okay/">Okay, okay</a></h2>
+      
+        <p>Let&rsquo;s see what happens now</p>
+
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+      <a href="/mistersql/posts/okay-okay/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117050703189644132/">
+        <time class="dt-published" datetime="2026-08-06T21:33:09Z">Aug 6, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>New product! Github Inactions. Where Github tells you to cool it and go take a break. Convenient yaml syntax. Drop them into your `.github/notworkingflow/` folder</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="4 likes">♡ 4</span>
+        <span class="card-metric" title="Reposts" aria-label="3 reposts">↻ 3</span>
+      
+      <a href="/mistersql/posts/mastodon/117050703189644132/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117050703189644132" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117049764378323571/">
+        <time class="dt-published" datetime="2026-08-06T17:34:24Z">Aug 6, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>So... how do I self host github actions and if I self host deploy pages, will they deploy?</p><p><a href="https://www.githubstatus.com/" rel="nofollow noopener">https://www.githubstatus.com/</a></p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117049764378323571/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117049764378323571" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117048683641823127/">
+        <time class="dt-published" datetime="2026-08-06T12:59:33Z">Aug 6, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>IDEA: hugo, a community of people who are able to install and run hugo. Discuss common interest such as github, gitlab and cloudflare pages. git and git submodules. toml, yaml and markdown. Don&#x27;t know these? The bouncer at the door of the club will not let you in.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="2 likes">♡ 2</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117048683641823127/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117048683641823127" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/init/">
+        <time class="dt-published" datetime="2026-08-06T07:07:07&#43;01:00">Aug 6, 2026</time>
+      </a>
+      <span class="source-badge">POSSE</span>
+    </header>
+    <div class="card-content e-content prose">
+      <h2><a href="/mistersql/posts/init/">My First Post</a></h2>
+      
+        <h2 id="introduction">Introduction</h2>
+<p>Does it work? Does it publish?</p>
+
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+      <a href="/mistersql/posts/init/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117044459427713120/">
+        <time class="dt-published" datetime="2026-08-05T19:05:17Z">Aug 5, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>POSSE: what if a static html page was a social media network database with info for one user and everyone creates a distributed database by publishing their own homepages all over. We then handwave away what and who does the compute. (something, maybe webmentions.io) and then patch up the gaps with bridgy.</p>
+      
+      
+        <div class="archive-poll" aria-label="Archived poll results">
+          <p><strong>Archived poll</strong></p>
+          <ol><li><span>Genius!</span><small>0 votes</small></li><li><span>Path to madness</span><small>1 votes</small></li><li><span>wat</span><small>0 votes</small></li></ol>
+          <p class="poll-total">1 voters</p>
+        </div>
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117044459427713120">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 5, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>So far, I think I can only support this from an html-only client if the client connects to github to publish a static blog and then connects to webmention.io and bridy to act as the message queue and &quot;inter-social-network-proxies&quot;</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="2 likes">♡ 2</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="2 likes">♡ 2</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117044459427713120/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117044459427713120" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117043912254197544/">
+        <time class="dt-published" datetime="2026-08-05T16:46:08Z">Aug 5, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>How to get a raise in devops:</p><p>```bash<br>declare -a name<br>declare -a name2<br>```</p><p>Hope that helps.</p><p>The rare programming joke that works spoken better than written.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117043912254197544/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117043912254197544" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117039588521343645/">
+        <time class="dt-published" datetime="2026-08-04T22:26:33Z">Aug 4, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Unlucky git hash</p><p>`dead672..ee3679a  main -&gt; main`</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117039588521343645/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117039588521343645" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117037046146908730/">
+        <time class="dt-published" datetime="2026-08-04T11:39:59Z">Aug 4, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Looking at an account, 520 posts, 226 replies received, 0 replies given. Didn&#x27;t check likes on replies, but still, 226 people were talking to themselves and didn&#x27;t know it.</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117037046146908730">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 4, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Oh, but what about people talking to each other in the replies? Replies get like, 1/10 of the view count of a main post. Unless it is a celebrity account with 10s of replies, no one saw it. If it has 1,000 of replies, now you have a eyeballs-divided-by-posts problem and again, no one saw your reply.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="2 likes">♡ 2</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117037046146908730/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117037046146908730" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117032448049780398/">
+        <time class="dt-published" datetime="2026-08-03T16:10:38Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>IDEA: neutrino guns and neutrino bombs for pacifist armies.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117032448049780398/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117032448049780398" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117031913167645775/">
+        <time class="dt-published" datetime="2026-08-03T13:54:36Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Failwhale is a joke about &quot;Service Level Agreement Breaching&quot; and a whale jumping out of the water is breaching, hence the birds carrying the whale out of the water.</p>
+      
+      
+        <div class="archive-poll" aria-label="Archived poll results">
+          <p><strong>Archived poll</strong></p>
+          <ol><li><span>Yeah, I knew that</span><small>0 votes</small></li><li><span>wait, what</span><small>5 votes</small></li><li><span>still don&#39;t get it</span><small>1 votes</small></li><li><span>nah, it&#39;s just zen, man</span><small>2 votes</small></li></ol>
+          <p class="poll-total">8 voters</p>
+        </div>
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="1 reposts">↻ 1</span>
+      
+      <a href="/mistersql/posts/mastodon/117031913167645775/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117031913167645775" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117031601599809156/">
+        <time class="dt-published" datetime="2026-08-03T12:35:22Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>IDEA: find all your &quot;tweet storms&quot; in your mastodon feed and republish them as blog posts on your blog that has been ignored for 15 years.</p><p>We&#x27;ve been blogging, just, the clients didn&#x27;t support &quot;publish this to my blog too&quot;.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="6 likes">♡ 6</span>
+        <span class="card-metric" title="Reposts" aria-label="1 reposts">↻ 1</span>
+      
+      <a href="/mistersql/posts/mastodon/117031601599809156/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117031601599809156" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117031481088935005/">
+        <time class="dt-published" datetime="2026-08-03T12:04:43Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Github has 2 main feeds. The sometimes hard to find &quot;home feed&quot; which is 90% noise and the notifications feed, which is 50% live conversations.</p><p>Traffic is spiky (months with nothing, then boom, a lot of conversations)</p><p>So I guess there is need for an alternate view. If you could mix it with your mastodon home feed, then you&#x27;d look at it every day.</p><p>No one wants to look at githubs 2 feeds every day if 3/4 of the time they&#x27;re empty.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117031481088935005/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117031481088935005" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117031358090992695/">
+        <time class="dt-published" datetime="2026-08-03T11:33:26Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Are you a funkopop day trader? Get your market info even faster with tag feeds</p><p><a href="https://mawkingbird.com/tags/funkopops" rel="nofollow noopener">https://mawkingbird.com/tags/funkopops</a></p><p>(that link even works without logging in! Did you know there are like, 600 ways to share a feed link, 1 per instance, time number of mastodon web clients)</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117031358090992695/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117031358090992695" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117031347163956676/">
+        <time class="dt-published" datetime="2026-08-03T11:30:40Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Do you want to know what Mastodon users are doing to the Funko Pop prices before even Mastodon knows? Subscribe to all the feeds. The API is free, that&#x27;s zero Euros if you&#x27;re in Europe![*] This previously insider-only info is insider-only because they can&#x27;t convince anyone else to read their feed and then trade on the info.</p><p>[*] Zero pounds in England.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117031347163956676/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117031347163956676" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117029232344922353/">
+        <time class="dt-published" datetime="2026-08-03T02:32:50Z">Aug 3, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>This is the fanciest &quot;invite people to leave twitter/go to mastodon or bsky&quot; that can be made</p><p><a href="https://mawkingbird.com/invites" rel="nofollow noopener">https://mawkingbird.com/invites</a></p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117029232344922353">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 3, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Old school invites<br>- read all your contacts<br>- correlated by phone number &amp; email to who was already on platform<br>- send email, etc to everyone else</p><p>Now it is just an &quot;intents&quot; link.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117029232344922353/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117029232344922353" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117027855855297458/">
+        <time class="dt-published" datetime="2026-08-02T20:42:46Z">Aug 2, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Were you thinking, &quot;I need at least 7 more accounts worth of Matthew Martin&quot;? You&#x27;re in luck, here are my 7 alts.</p><p><a href="https://mastodon.social/collections/116977300451076133" rel="nofollow noopener">https://mastodon.social/collections/116977300451076133</a></p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117027855855297458">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 2, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>It appears that gotosocial can&#x27;t respond to the endpoint that lets me add my gotosocial account to a collection. Oh well.</p><p><a href="https://kulupu.pona.li/@janmato" rel="nofollow noopener">@janmato</a></p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="1 likes">♡ 1</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117027855855297458/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117027855855297458" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117026350607745019/">
+        <time class="dt-published" datetime="2026-08-02T14:19:58Z">Aug 2, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>leetcode: Okay, how would you solve this complicated problem with a large problem space but it is really easy to check if a solution is valid.<br>me: monte carlo!<br>leetcode: no....no... this is a pissing contest to save electrons.<br>me: I have never worked on a code base that needed to save electrons (this way). Google, who does need to count each electron will never hire me.</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117026350607745019">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 2, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Ways to save electrons on a line of business app:<br>- switch from the pure python library to the native library<br>- add an index to the db table<br>- slap a memoize decorator on the slow, deterministic thing that gets called over and over<br>- measure it. The perf loss is in internationalization, not the big O. Or it is reading the file system over and over. Or it is initializing a module that you&#x27;re not using, over and over.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117026350607745019/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117026350607745019" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117026243484289806/">
+        <time class="dt-published" datetime="2026-08-02T13:52:44Z">Aug 2, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>leetcode is a pissing contest so you first have to hype yourself to to caring how far you can piss.</p><p>Seems like you could win standing on the edge of the grand canyon on a windless day? Do the rules require not getting arrested? Empire state building?</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="2 likes">♡ 2</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117026243484289806/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117026243484289806" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117023633475939409/">
+        <time class="dt-published" datetime="2026-08-02T02:48:58Z">Aug 2, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Futzing around with search on mastodon and my take away is, OMG, there is so much 2023 content.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117023633475939409/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117023633475939409" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117023146210855944/">
+        <time class="dt-published" datetime="2026-08-02T00:45:03Z">Aug 2, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>So I guess enough people mistyped &quot;lick a link&quot; instead of click a link, that they decide to give people what they want</p><p><a href="https://www.augmental.tech/" rel="nofollow noopener">https://www.augmental.tech/</a></p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117023146210855944/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117023146210855944" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117022350887549517/">
+        <time class="dt-published" datetime="2026-08-01T21:22:47Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>&lt;Stares at hands&gt; What have I done? I have unmuted 282 accounts. Everyone hold your backs to the door and don&#x27;t answer when they knock.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117022350887549517/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117022350887549517" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117022118500211706/">
+        <time class="dt-published" datetime="2026-08-01T20:23:41Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Features that probably don&#x27;t appeal to Product Owners. Product owners and PMs got their job by murdering the 12 people between intern and PM rank. They got a certain personality.</p><p>- Mute amnesty. Unmutes everyone that was transiently annoying. Sort of already supported with timed mutes if you always pick a duration.<br>- Convert block to mute. (yeah, but with 1 button click)<br>- &quot;Block semi-amnesty&quot;, let all the once time bad behavior people read your  posts again, I mean they can anyhow.</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117022118500211706">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 1, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>(Recent PMs and POs that I&#x27;ve worked for exempted, I&#x27;ve been lucky recently)</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+          
+          <li class="storm-part" style="--thread-depth: 2" data-parent="117022127213980732">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 1, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>I image the PMs and POs at facebook, sitting around thinking, &quot;how can we create behavioral addictions, just really f`*`k people over to f`*`k people over&quot;</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117022118500211706/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117022118500211706" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117021421624494265/">
+        <time class="dt-published" datetime="2026-08-01T17:26:28Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Youtube: Are you blocked from your favorite websites, like mastodon.social? Buy consumer VPN!</p><p>Real world: Office blocks your favorite website and VPN.</p><p>Anyhow, restrain yourself, follow the ToS and do not click on this mastodon client with a bunch of features for using mastodon on a hostile network</p><p><a href="https://matthewdeanmartin.github.io/mawkingbird/" rel="nofollow noopener">https://matthewdeanmartin.github.io/mawkingbird/</a></p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117021421624494265">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 1, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Specifically<br>- the usual domain is <a href="https://mawkingbird.com" rel="nofollow noopener">https://mawkingbird.com</a> which is a new domain and block on some network for being new.<br>- API calls to mastodon.social are blocked, but there are many mastodon servers and in &quot;anonymous&quot; mode, you can do everything but post.<br>- Or you sign up to for an alt, once the app figures out which ones aren&#x27;t blocked.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+          
+          <li class="storm-part" style="--thread-depth: 2" data-parent="117021469975542383">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 2, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Thought some more about this. If your employer blocks most mastodon servers, they almost certainly block open proxies and CORS Proxies (a more limited subset of proxies).</p><p>At the moment, if you want mastodon, you can find an unblocked (there are so many) instance because federation itself is a type of proxy. You get bytes from mastodon.social via something-else.social.</p><p>But if you will only settle for the full feature set, and not the readonly, then yeah, this might not excite those people.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="9 likes">♡ 9</span>
+        <span class="card-metric" title="Reposts" aria-label="3 reposts">↻ 3</span>
+      
+      <a href="/mistersql/posts/mastodon/117021421624494265/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117021421624494265" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117021016578634854/">
+        <time class="dt-published" datetime="2026-08-01T15:43:27Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Unlimited power!!!!!!!!!!</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117021016578634854">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 1, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Oh, let&#x27;s check the default single-column mastodon.social UI. I count 27 buttons, but they are tastefully scattered all over the place.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117021016578634854/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117021016578634854" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117020759303919486/">
+        <time class="dt-published" datetime="2026-08-01T14:38:02Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Mastodon has a textboard embedded in it. A feed of all the new accounts first 20 posts of each user.</p><p>These accounts<br>- no established identity (esp if none even asserted)<br>- nothing to lose if they break the rules<br>- no reputation to besmirch<br>- no one has muted or blocked them<br>- too soon for moderators to squash them if they are bad actors</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117020759303919486/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117020759303919486" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117020634612311221/">
+        <time class="dt-published" datetime="2026-08-01T14:06:19Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>This is an impersonator account, as one gets taken down, it just increments the number after the name and keeps trying. The other one got reported yesterday.</p><p>See, it &quot;clones&quot; an account by retweeting the target accounts data and waits for a follow so it can do DM and start a pig butchering session.</p><p><a href="https://mastodon.social/@Cydharrell78" rel="nofollow noopener">https://mastodon.social/@Cydharrell78</a></p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117020634612311221/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117020634612311221" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117020427371730967/">
+        <time class="dt-published" datetime="2026-08-01T13:13:37Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>This is going to be so weird with the most ardent pro AI and anti AI accounts in the same feed. Just like the good ole days on twitter when occasionally you&#x27;d run into someone you disagree with. And to think we thought it was an echo chamber.</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117020427371730967">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 1, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>How it works:<br>- CORS Proxy service, free but massively rate limited<br>- TwitterAPI.io, paid screen scraper service</p><p>Elon Musk gets no $ from any of this. It is no worse than nitter.</p><p>Read only interface. See your friends, but if you want to reply, you can instead post an Invite to leave twitter.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="1 likes">♡ 1</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117020427371730967/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117020427371730967" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117020377273094394/">
+        <time class="dt-published" datetime="2026-08-01T13:00:52Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>IDEA: $PAGER app named &quot;not_a_dog_shit_experience_like_less_or_more&quot;</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117020377273094394">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Aug 1, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>Or give people what they want. Take away Control-C and give them a randomly selected convention from 50 years ago, sometimes mainframe, sometimes pre-standards unix, sometimes just random shit because people love that, builds character.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="2 likes">♡ 2</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="2 likes">♡ 2</span>
+        <span class="card-metric" title="Reposts" aria-label="1 reposts">↻ 1</span>
+      
+      <a href="/mistersql/posts/mastodon/117020377273094394/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117020377273094394" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117019969868193320/">
+        <time class="dt-published" datetime="2026-08-01T11:17:16Z">Aug 1, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>IDEA: a &quot;just my server&quot; toggle button and <br>- home feed becomes server feed minus retweets<br>- now the usual home feed is homeless :( I bet 90% of people had no discipline in following just people on their home server, and it could be 10-20-30 API calls to get 10 posts from your home server.<br>- search defaults to home server<br>- new user experience would be a bunch of starter packs that are clusters of users on the server (not sure how the clustering would work, some ML algorithm)</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117019969868193320/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117019969868193320" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117017186957443547/">
+        <time class="dt-published" datetime="2026-07-31T23:29:32Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Step 1: Let&#x27;s integrate with 3rd party APIs!<br>Step 2: Everything fun is blocked by CORS!<br>Step 3: Self host a CORS proxy? <br>Step 4: Well, if I have to host a server, could just do pastebins and link shorteners and so on myself.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="2 likes">♡ 2</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117017186957443547/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117017186957443547" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117016540920598669/">
+        <time class="dt-published" datetime="2026-07-31T20:45:14Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Ho! I don&#x27;t know how long &quot;Who to follow&quot; has been in the default mastodon client, but its a good thing.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117016540920598669/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117016540920598669" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117016416068683327/">
+        <time class="dt-published" datetime="2026-07-31T20:13:29Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>ChatTJB. It&#x27;s an actual guy with a chatGPT interface. He&#x27;ll answer when he gets around to it.</p><p><a href="https://chattjb.org/" rel="nofollow noopener">https://chattjb.org/</a></p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117016416068683327/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117016416068683327" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117016188227085449/">
+        <time class="dt-published" datetime="2026-07-31T19:15:33Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Philosophy: the processes of thinking that maybe arguments can rise above ad hominens and then realizing how futile it is and studying logic as a exercise in pure mathematics.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117016188227085449/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117016188227085449" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117015692373266019/">
+        <time class="dt-published" datetime="2026-07-31T17:09:26Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Man go punch?</p><p>Try that and I&#x27;ll punch you back.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117015692373266019/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117015692373266019" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry social-card-storm">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117015338046338000/">
+        <time class="dt-published" datetime="2026-07-31T15:39:20Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">Thread</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>well, butcher, I was doing good until I got a pig butchering message.</p><p>Everyone knows you don&#x27;t open a DM conversation like that. You have to prove your humanity with a never seen before dad joke.</p>
+      
+      
+    </div>
+    
+      <ol class="storm-graph" aria-label="Tweet storm replies">
+        
+          
+          <li class="storm-part" style="--thread-depth: 1" data-parent="117015338046338000">
+            <div class="storm-part-avatar" aria-hidden="true">M</div>
+            <div class="storm-part-body">
+              <div class="storm-part-meta">
+                <strong>Matthew Dean Martin</strong>
+                <span>@mistersql</span>
+                <span>· Jul 31, 2026</span>
+              </div>
+              <div class="prose">
+                
+                  <p>and don&#x27;t send 2 identical messages 30 minutes apart.</p>
+                
+                
+              </div>
+              
+                <div class="part-metrics" aria-label="Archived engagement">
+                  <span title="Likes" aria-label="0 likes">♡ 0</span>
+                  <span title="Reposts" aria-label="0 reposts">↻ 0</span>
+                </div>
+              
+            </div>
+          </li>
+        
+      </ol>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="0 likes">♡ 0</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117015338046338000/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117015338046338000" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117015329010456316/">
+        <time class="dt-published" datetime="2026-07-31T15:37:02Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Got a pig butchering message in my DMs from a likely account impersonator. Sigh.</p>
+      
+      
+    </div>
+    
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117015329010456316/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117015329010456316" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+      
+
+
+<article class="social-card h-entry">
+  <a class="card-avatar p-author h-card" href="/mistersql/" aria-label="Matthew Dean Martin">
+    <span aria-hidden="true">M</span>
+  </a>
+  <div class="card-body">
+    <header class="card-meta">
+      <a class="card-author p-name" href="/mistersql/">Matthew Dean Martin</a>
+      <span class="card-handle">@mistersql</span>
+      <span aria-hidden="true">·</span>
+      <a class="card-time u-url" href="/mistersql/posts/mastodon/117015318370288778/">
+        <time class="dt-published" datetime="2026-07-31T15:34:20Z">Jul 31, 2026</time>
+      </a>
+      <span class="source-badge">mastodon</span>
+    </header>
+    <div class="card-content e-content prose">
+      
+      
+        <p>Need a <a href="https://mastodon.social/tags/konglish" rel="nofollow noopener">#konglish</a> expert, what does &quot;I&#x27;m your bias&quot; mean</p><p><a href="https://www.youtube.com/watch?v=bMhDJ0S0OBA" rel="nofollow noopener">https://www.youtube.com/watch?v=bMhDJ0S0OBA</a></p>
+      
+      
+    </div>
+    
+    
+      <nav class="card-tags" aria-label="Post hashtags">
+        <a class="p-category" href="/mistersql/tags/konglish/">#Konglish</a>
+      </nav>
+    
+    <footer class="card-actions" aria-label="Post links">
+      
+        <span class="card-metric" title="Likes" aria-label="1 likes">♡ 1</span>
+        <span class="card-metric" title="Reposts" aria-label="0 reposts">↻ 0</span>
+      
+      <a href="/mistersql/posts/mastodon/117015318370288778/" aria-label="Open permanent post">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v12H8l-4 4z"/></svg><span>Open thread</span>
+      </a>
+      <a href="https://mastodon.social/@mistersql/117015318370288778" rel="syndication noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14 21 3M15 3h6v6M21 14v6H4V3h6"/></svg><span>Original</span>
+      </a>
+    </footer>
+  </div>
+</article>
+
+    
+  </section>
+  
+  <nav class="feed-pager" aria-label="Pagination">
+    <span></span>
+    <span>Page 1 of 383</span>
+    <a rel="next" href="/mistersql/page/2/">Older →</a>
+  </nav>
+
+
+
+
+        <footer class="site-footer">
+          <span>&copy; 2026 Matthew Dean Martin</span>
+          <a href="/mistersql/index.xml">RSS</a>
+        </footer>
+      </main>
+      <aside class="site-rail site-rail-right" aria-label="Archive information">
+        <section class="rail-card rail-section">
+  <div class="rail-heading"><h2>Archive</h2></div>
+  
+  <dl class="archive-stats">
+    <div><dt>Public posts</dt><dd>15287</dd></div>
+    <div><dt>Sources</dt><dd>Twitter + Mastodon</dd></div>
+    <div><dt>Format</dt><dd>Static HTML</dd></div>
+  </dl>
+  <a class="rail-button" href="/mistersql/">Browse the archive</a>
+</section>
+
+<section class="rail-card rail-section">
+  <div class="rail-heading"><h2>About this archive</h2></div>
+  <p class="rail-copy">A read-only record of public writing, kept on my own site.</p>
+</section>
+
+      </aside>
+    </div>
+  </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
