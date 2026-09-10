@@ -5,6 +5,20 @@ description = "Fail-closed social archive import tooling for the MisterSQL Hugo 
 requires-python = ">=3.12"
 dependencies = []
 
+# Declared so the PEP 517 fallback (setuptools auto-discovery) can never be
+# invoked. `package = false` stops uv from building this, but pip/build would
+# still reach for setuptools, which would then trip over the Hugo tree's many
+# top-level directories. Nothing is ever built here (package = false); this
+# only pins WHICH backend would be used if something tried.
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
 [tool.uv]
+# Wheels or nothing. A missing wheel must fail in seconds with the package
+# named, not silently start a source build -- duckdb compiled for 50+ minutes
+# on Windows with no output before this was added. Editable installs of this
+# project are still allowed, so the normal dev workflow is unaffected.
+no-build = true
 package = false
 
