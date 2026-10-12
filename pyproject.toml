@@ -22,3 +22,6 @@ build-backend = "hatchling.build"
 no-build = true
 package = false
 
+
+[tool.ruff.lint]
+ignore = ["RUF100"]  # unused noqa differs across Python versions
